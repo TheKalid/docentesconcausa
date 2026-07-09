@@ -1,0 +1,246 @@
+[
+  {
+    "id": "AZUL-1",
+    "color": "AZUL",
+    "numero": 1,
+    "nivel": "Presilábico",
+    "titulo": "EL BARCO ESTÁ CARGADO",
+    "objetivo": "Al tener que pensar en palabras que empiezan con la misma sílaba, los niños realizan un análisis de los aspectos fonéticos del lenguaje. Al observar la escritura de esas palabras, se dan cuenta de la relación existente entre sonidos y escritura.",
+    "descripcion": [
+      "El maestro explica el juego: 'Se trata de un barco que venía muy cargado. Ustedes tienen que adivinar qué traía. Yo les voy a decir sólo cómo empieza el nombre de la carga. Venía un barco cargado de ma......'.",
+      "Los niños proponen palabras que comiencen con la sílaba indicada (ej. material, mangos, mariposas). Si proponen una incorrecta, el maestro pregunta cómo empieza la palabra propuesta para guiar la reflexión.",
+      "El juego continúa con los niños proponiendo las sílabas iniciales por turnos. El maestro escribe en el pizarrón listas de las palabras propuestas por los alumnos.",
+      "Finalmente, el maestro conduce a la reflexión sobre la escritura, leyendo una de las listas y preguntando: '¿en qué se parecen todas estas palabras?' y '¿Por qué todas empezarán con las mismas letras?'."
+    ],
+    "ejemplos": {
+      "Listas de palabras": [
+        {"pa": ["Patos", "Patios", "Papas", "Pañuelos"]},
+        {"ro": ["ropas", "rocas", "rodillas", "rosas"]},
+        {"in": ["insectos", "intrusos", "indios", "inocentes"]}
+      ]
+    },
+    "notas": "Este juego se puede realizar con todo el grupo."
+  },
+  {
+    "id": "AZUL-2",
+    "color": "AZUL",
+    "numero": 2,
+    "nivel": "Presilábico",
+    "titulo": "¿CUÁNTAS PALABRAS DIJE?",
+    "objetivo": "Que los niños avancen en su conceptualización acerca de la noción de palabra y su representación escrita.",
+    "descripcion": [
+      "El maestro coloca 2 objetos en la mesa (ej. lápiz y goma) y pregunta cuántas palabras dijo al nombrarlos. Luego, coloca tarjetas con los nombres escritos y pregunta cuántas palabras escribió.",
+      "La actividad se repite aumentando la cantidad de objetos a tres o cuatro.",
+      "En otra ocasión, se nombran objetos que no están a la vista, se pregunta la cantidad de palabras y luego se escriben para verificar.",
+      "La actividad se complejiza proponiendo oraciones simples como 'Mamá canta' y luego oraciones más complejas que incluyen artículos y objetos directos, siempre preguntando primero '¿Cuántas palabras dije?' y luego '¿Cuántas palabras escribí?'."
+    ],
+    "ejemplos": {
+      "Secuencia de enunciados": [
+        "Mamá canta.",
+        "Mamá come tacos.",
+        "El niño come tacos."
+      ]
+    }
+  },
+  {
+    "id": "AZUL-3",
+    "color": "AZUL",
+    "numero": 3,
+    "nivel": "Presilábico",
+    "titulo": "ANTICIPAN LA ESCRITURA DE NOMBRE DE OBJETOS",
+    "objetivo": "Provocar un conflicto cognitivo cuando el niño establece una relación entre la longitud de la escritura y el tamaño del referente.",
+    "descripcion": [
+      "El maestro presenta pares de objetos donde al objeto pequeño le corresponde un nombre largo y al grande uno corto (Ej: sacapuntas y libro).",
+      "Muestra tarjetas con los nombres escritos y pregunta: '¿Dónde dirá sacapuntas y dónde libro?'.",
+      "Después de los comentarios, el maestro informa la respuesta correcta y pregunta por qué creen que es así.",
+      "Guía la reflexión preguntando: '¿Cuál es más larga, sacapuntas o libro?' y '¿Cuál de las 2 tendrá que escribirse con más letras?' Se repite con 2 o 3 pares más y los niños copian las palabras."
+    ]
+  },
+  {
+    "id": "AZUL-4",
+    "color": "AZUL",
+    "numero": 4,
+    "nivel": "Presilábico",
+    "titulo": "ADIVINEN QUÉ SAQUÉ",
+    "objetivo": "Que los niños reflexionen acerca de aspectos sonoros del lenguaje al tener que descubrir una palabra a partir de las sílabas que la componen.",
+    "materiales": "Serie de figuras o recortes de revistas, una bolsa.",
+    "descripcion": [
+      "El maestro muestra todas las figuras, se asegura de que los niños las nombren correctamente, y luego las mete en una bolsa.",
+      "Saca una figura sin mostrarla y dice cómo empieza su nombre (ej: 'man...' para manzana) para que los niños adivinen.",
+      "La actividad avanza a palabras bisílabas, dando la sílaba inicial y final (ej: 'empieza con li y termina con món').",
+      "Finalmente, se trabaja con trisílabas, dando las tres sílabas en orden (ej: 'empieza con co, sigue con ne y termina con jo').",
+      "En todas las variantes, los niños toman turnos para proponer las sílabas a sus compañeros."
+    ]
+  },
+  {
+    "id": "AZUL-5",
+    "color": "AZUL",
+    "numero": 5,
+    "nivel": "Presilábico",
+    "titulo": "PALABRAS CORTAS Y LARGAS",
+    "objetivo": "Que los niños descubran que la longitud de las palabras no depende del tamaño del referente, sino de aspectos lingüísticos (cantidad de sonidos y letras).",
+    "descripcion": [
+      "El maestro propone decir palabras largas (o cortas). Ante dos propuestas (ej. mesa y camisa), pregunta cuál es más larga.",
+      "Para ayudar a la reflexión, se repiten las palabras dando una palmada por cada sílaba.",
+      "Como actividad posterior, los niños escriben palabras largas (o cortas) en sus cuadernos y las comentan en equipo.",
+      "Otra variante es proporcionar un párrafo para que subrayen las palabras largas o cortas, o que las recorten de periódicos."
+    ],
+    "notas": "Es posible realizar esta actividad con niños que trabajen con hipótesis silábica."
+  },
+  {
+    "id": "AZUL-6",
+    "color": "AZUL",
+    "numero": 6,
+    "nivel": "Presilábico",
+    "titulo": "RELACIONAN OBJETOS CON LA ESCRITURA DEL SINÓNIMO",
+    "objetivo": "Que los niños descubran que un mismo objeto puede recibir distintos nombres y que su escritura es también diferente.",
+    "descripcion": [
+      "El maestro guía a los niños para que piensen en sinónimos, dando la palabra menos usual para que ellos propongan la más conocida (ej. bolígrafo -> pluma).",
+      "Proporciona láminas con el mismo dibujo (ej. dos imágenes de lentes) y coloca debajo las tarjetas con las palabras sinónimas ('lentes' y 'anteojos').",
+      "Pregunta al niño qué cree que dice en cada tarjeta y cómo lo supo. Si el niño cree que dice lo mismo, el maestro pregunta si se escriben igual y por qué, guiando la reflexión hasta que comprenda que son palabras diferentes para el mismo objeto."
+    ],
+    "ejemplos": {
+      "Sinónimos": ["niño/chavo", "coche/carro", "cerdo/puerco", "autobús/camión"]
+    }
+  },
+  {
+    "id": "AZUL-7",
+    "color": "AZUL",
+    "numero": 7,
+    "nivel": "Presilábico",
+    "titulo": "UBICAN PALABRAS Y CONSTRUYEN ENUNCIADOS",
+    "objetivo": "Que los niños relacionen aspectos sonoros del habla con la escritura y ubiquen una palabra dentro de una oración.",
+    "materiales": "Láminas con escenas, cartulinas con oraciones y tarjetas con palabras sueltas.",
+    "descripcion": [
+      "Se presenta una lámina (ej. niños en la escuela) y el maestro pide que la describan.",
+      "Muestra un cartel con una oración alusiva ('Los niños van a la escuela'), la lee de corrido y pide al niño que la repita.",
+      "Luego, presenta una tarjeta con una palabra de la oración ('escuela') y pregunta si esa palabra está escrita en el cartel grande.",
+      "Si el niño la localiza, se le pregunta qué dice en la oración completa y qué dice en la tarjeta pequeña.",
+      "Se repite con otras láminas, procurando que la palabra a buscar esté en diferentes posiciones (inicio, medio, final)."
+    ],
+    "notas": "Esta actividad es útil para el trabajo de ubicación de partes de la oración y puede hacerse también con niños que están comenzando a trabajar con hipótesis silábica."
+  },
+  {
+    "id": "AZUL-8",
+    "color": "AZUL",
+    "numero": 8,
+    "nivel": "Presilábico",
+    "titulo": "¿QUIÉN ES?",
+    "objetivo": "Que los niños reflexionen acerca de los aspectos sonoros del habla (sílabas) al descubrir una palabra de un campo semántico a partir de sus componentes.",
+    "descripcion": [
+      "Se elige un campo semántico (ej. animales). El maestro da la sílaba inicial de una palabra para que los niños adivinen (ej: 'El nombre de este animal empieza con va...').",
+      "Luego, se complica el juego dando la sílaba inicial y final de palabras bisílabas (ej: 'Empieza con 'mos' y termina con 'ca'').",
+      "Posteriormente, se trabaja con palabras de tres sílabas, dando información sobre cada una de ellas (ej: 'empieza con hor, sigue con mi y termina con ga').",
+      "Los niños toman turnos para proponer las sílabas a sus compañeros."
+    ],
+    "notas": "Ocasionalmente se pueden realizar estas actividades con todo el grupo o trabajar simultáneamente con niños con niveles de conceptualización presilábico y silábico."
+  },
+  {
+    "id": "AZUL-9",
+    "color": "AZUL",
+    "numero": 9,
+    "nivel": "Presilábico",
+    "titulo": "ADIVINEN QUÉ ES",
+    "objetivo": "Que los niños reflexionen sobre la estructura de las palabras y se aproximen al descubrimiento de la relación entre escritura y aspectos sonoros del habla.",
+    "descripcion": [
+      "El maestro presenta una palabra escrita (ej. Banco) pero tapa la sílaba final.",
+      "Dice: 'Aquí escribí el nombre de una cosa que sirve para sentarse y que empieza con ban... adivinen qué es'.",
+      "Una vez que adivinan, el maestro pregunta: 'Si aquí (ban) dice ban, ¿qué estará escrito acá (en la parte oculta)?'.",
+      "Se estimula el intercambio de opiniones, asegurándose de que los niños intenten adivinar solo la parte oculta y no la palabra completa de nuevo."
+    ]
+  },
+  {
+    "id": "AZUL-10",
+    "color": "AZUL",
+    "numero": 10,
+    "nivel": "Presilábico",
+    "titulo": "ADIVINAN PALABRAS",
+    "objetivo": "Que los niños realicen un análisis fonético y descubran semejanzas en la escritura de palabras que empiezan igual y tienen el mismo número de sílabas.",
+    "descripcion": [
+      "El maestro dice una sílaba inicial y da una palmada por cada parte que falta. Los niños deben adivinar qué palabra bisílaba puede ser (ej. dice 'ca' y da una palmada; los niños proponen 'casa', 'cama', 'caja').",
+      "El maestro escribe las propuestas en el pizarrón y guía la reflexión sobre las semejanzas en la escritura: '¿En qué se parecen estas dos palabras escritas?', '¿Por qué empiezan igual?'.",
+      "Si hay propuestas equivocadas (ej. 'caballo'), se invita a silabear y palmear para notar la diferencia en el número de sílabas.",
+      "La actividad puede realizarse con palabras trisílabas."
+    ],
+    "notas": "Es posible realizar estos juegos con todo el grupo."
+  },
+  {
+    "id": "AZUL-11",
+    "color": "AZUL",
+    "numero": 11,
+    "nivel": "Presilábico",
+    "titulo": "CONSTRUYEN ORACIONES AL DICTADO",
+    "objetivo": "Observar si los alumnos manejan el valor estable de las palabras que componen una oración y conducirlos a reflexionar sobre ellas.",
+    "materiales": "Juegos de tarjetas con palabras escritas para formar oraciones.",
+    "descripcion": [
+      "Se preparan grupos de tarjetas para formar pares de oraciones donde solo cambia un elemento (sujeto, verbo u objeto).",
+      "El maestro dicta el primer enunciado (ej. 'Enrique escribe cuentos') sin pausas y pide al niño que lo forme con las tarjetas.",
+      "Se observa cómo el niño forma la oración y si hace corresponder una tarjeta por cada palabra, independientemente de la corrección de las grafías.",
+      "Luego, se dicta el segundo enunciado (ej. 'Ángel escribe cuentos') y se observa si el niño mantiene estables las palabras que no cambiaron o si reestructura toda la oración."
+    ],
+    "notas": "Esta actividad se puede realizar también con niños que trabajen con hipótesis silábica."
+  },
+  {
+    "id": "AZUL-12",
+    "color": "AZUL",
+    "numero": 12,
+    "nivel": "Presilábico",
+    "titulo": "ESCRIBEN NOMBRES QUE EMPIEZAN IGUAL",
+    "objetivo": "Que los niños lleguen a descubrir la estabilidad en la correspondencia lengua oral-lengua escrita.",
+    "descripcion": [
+      "El maestro dicta palabras que comienzan con la misma sílaba (ej. manzana, mandarina, mango).",
+      "Observa si los niños notan la similitud y comienzan a escribir esas palabras con las mismas letras iniciales, aunque no sean las correctas.",
+      "Los niños confrontan sus escrituras en equipo. El maestro guía la reflexión preguntando cómo empieza cada palabra y si se podrían escribir con las mismas letras iniciales."
+    ]
+  },
+  {
+    "id": "AZUL-13",
+    "color": "AZUL",
+    "numero": 13,
+    "nivel": "Presilábico",
+    "titulo": "CORRESPONDIENTE IMAGEN-TEXTO",
+    "objetivo": [
+      "Aproximarse al descubrimiento de que la escritura de una palabra es independiente de las características del objeto que representa.",
+      "Comenzar a relacionar la escritura con los aspectos sonoros del habla."
+    ],
+    "materiales": "Imágenes de un mismo campo semántico (ej. animales) y tarjetas con sus nombres escritos.",
+    "descripcion": [
+      "Se pide a los alumnos que coloquen la tarjeta con el nombre que le corresponde a cada animalito.",
+      "Se estimula la discusión y justificación de sus elecciones.",
+      "Si un niño justifica su elección basándose en el tamaño del referente (ej. texto largo para animal grande), el maestro crea un conflicto cognitivo guiándolo a reflexionar sobre la longitud sonora de las palabras: '¿Qué es más largo, decir hormiga o decir león?'."
+    ]
+  },
+  {
+    "id": "AZUL-14",
+    "color": "AZUL",
+    "numero": 14,
+    "nivel": "Presilábico",
+    "titulo": "ANTICIPAN Y CONSTRUYEN PALABRAS",
+    "objetivo": "Descubrir que la unión de los aspectos sonoros de dos palabras puede formar una nueva.",
+    "materiales": "Pares de tarjetas con palabras escritas.",
+    "descripcion": [
+      "El maestro muestra un par de tarjetas (ej. sol y dado) e informa lo que dicen, pidiendo al niño que identifique cuál es cuál, justificando su respuesta.",
+      "Una vez identificadas, pregunta: '¿Podremos formar una sola palabra si juntamos estas dos? ¿Cuál? ¿Cuál tendremos que poner primero?'.",
+      "Se presenta una variante que puede generar conflicto: formar una palabra cuyo referente es más pequeño que el de una de las palabras que la componen (ej. cama + león = camaleón)."
+    ],
+    "ejemplos": {
+      "Palabras compuestas": ["auto+pista = autopista", "pan+talón = pantalón", "palo+mas = palomas"]
+    }
+  },
+  {
+    "id": "AZUL-15",
+    "color": "AZUL",
+    "numero": 15,
+    "nivel": "Presilábico",
+    "titulo": "ESCRIBEN SINÓNIMOS",
+    "objetivo": "Reflexionar acerca de que palabras distintas, aun cuando tengan el mismo significado, requieren escrituras diferentes.",
+    "descripcion": [
+      "El maestro propone sinónimos y los niños los escriben (ej. pelo y cabello).",
+      "El maestro observa las escrituras (si son idénticas, si varía el orden de las letras, etc.).",
+      "Los alumnos comparan y comentan sus producciones, guiados por el maestro para crear conflicto cognitivo y entender las hipótesis de los niños."
+    ],
+    "ejemplos": {
+      "Sinónimos": ["pelo/cabello", "barriga/panza", "niño/chamaco", "cerdo/cochino"]
+    }
+  }
+]

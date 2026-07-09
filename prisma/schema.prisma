@@ -1,0 +1,125 @@
+// Schema alineado al legacy MySQL (causa_db)
+// Docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum Role {
+  USER
+  ADMIN
+}
+
+// Equivalente a tabla `usuarios` del sitio PHP
+model User {
+  id        Int     @id @default(autoincrement())
+  name      String  @map("nombre")
+  email     String  @unique
+  password  String?
+  estado    String  @default("pendiente")
+  phone     String? @map("telefono")
+
+  planActivo            Int?      @default(0) @map("plan_activo")
+  planId                String?   @map("plan_id")
+  fechaProximoPago      DateTime? @map("fecha_proximo_pago") @db.Date
+  stripeCustomerId      String?   @map("stripe_customer_id")
+  stripeSubscriptionId  String?   @map("stripe_subscription_id")
+
+  tokenVerificacion     String?   @map("token_verificacion")
+  resetToken            String?   @map("reset_token")
+  resetTokenExpiresAt   DateTime? @map("reset_token_expires_at")
+
+  usosPlanBasico        Int @default(0) @map("usos_plan_basico")
+  usosPlanIntermedio    Int @default(0) @map("usos_plan_intermedio")
+  usosFisica            Int @default(0) @map("usos_fisica")
+  usosEvaluacionDiag    Int @default(0) @map("usos_evaluacion_diagnostica")
+  usosEvaluacion        Int @default(0) @map("usos_evaluacion")
+  usosProtocolos        Int @default(0) @map("usos_protocolos")
+  usosBitacora          Int @default(0) @map("usos_bitacora")
+  usosContexto          Int @default(0) @map("usos_contexto")
+  usosExamenes          Int @default(5) @map("usos_examenes")
+
+  fechaInicioCiclo      DateTime? @map("fecha_inicio_ciclo") @db.Date
+  psicologoSolicitado   Boolean   @default(false) @map("psicologo_solicitado")
+  status                String    @default("activo")
+  usosDiariosPadres     Int       @default(2) @map("usos_diarios_padres")
+  ultimoUsoPadres       DateTime? @map("ultimo_uso_padres") @db.Date
+  referidoPor           String?   @map("referido_por")
+  contextoGuardado      String?   @map("contexto_guardado") @db.Text
+
+  role Role @default(USER)
+
+  grupo         Grupo?
+  historialUso  HistorialUso[]
+  convenioCetl  ConvenioCetl?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map("usuarios")
+}
+
+model Grupo {
+  id                        Int     @id @default(autoincrement())
+  userId                    Int     @unique @map("usuario_id")
+  gradoPlaneacion           String? @map("grado_planeacion")
+  duracionPlaneacion        String? @map("duracion_planeacion")
+  numeroTotalEstudiantes    Int?    @map("numero_total_estudiantes")
+  auditivos                 Int?
+  visuales                  Int?
+  kinestesicos              Int?
+  refuerzoLectoGeneral      String? @map("refuerzo_lecto_general")
+  estrategiasLectoGeneral   String? @map("estrategias_lecto_general") @db.Text
+  refuerzoCalculo           String? @map("refuerzo_calculo")
+  estrategiasCalculo        String? @map("estrategias_calculo") @db.Text
+  refuerzoOperaciones       String? @map("refuerzo_operaciones")
+  estrategiasOperaciones    String? @map("estrategias_operaciones") @db.Text
+  tieneNoLectoescritura     String? @map("tiene_no_lectoescritura")
+  numeroAlumnosLecto        Int?    @map("numero_alumnos_lectoescritura")
+  refuerzoLectoAdecuacion   String? @map("refuerzo_lecto_adecuacion")
+  estrategiasLectoAdecuacion String? @map("estrategias_lecto_adecuacion") @db.Text
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("grupos")
+}
+
+model Recurso {
+  id          Int      @id @default(autoincrement())
+  titulo      String
+  descripcion String?  @db.Text
+  categoria   String?
+  archivo     String?
+  ruta        String?
+  createdAt   DateTime @default(now()) @map("fecha_subida")
+
+  @@map("recursos")
+}
+
+model HistorialUso {
+  id         Int      @id @default(autoincrement())
+  userId     Int      @map("usuario_id")
+  herramienta String
+  ipUsuario  String   @map("ip_usuario")
+  fecha      DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("historial_uso")
+}
+
+model ConvenioCetl {
+  id       Int      @id @default(autoincrement())
+  userId   Int      @unique @map("usuario_id")
+  activo   Boolean  @default(true)
+  fechaAlta DateTime @default(now()) @map("fecha_alta")
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("convenio_cetl")
+}

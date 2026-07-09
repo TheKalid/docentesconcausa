@@ -1,0 +1,647 @@
+[
+  {
+    "Numero": "16",
+    "Titulo": "Formamos rectángulos",
+    "Proposito": "Comprender la agrupación y desagrupación en decenas mediante material concreto.",
+    "Contenidos": ["Sistema de numeración decimal", "Agrupamiento", "Equivalencia 10=1"],
+    "Materiales": ["Rectángulos de colores (amarillos, rojos, azules)", "Dados"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Repartir a cada equipo rectángulos amarillos.",
+      "Explicar que 10 amarillos forman 1 rojo, y 10 rojos forman 1 azul.",
+      "Los niños lanzan dados, toman la cantidad y van agrupando hasta poder cambiar por rectángulos mayores."
+    ],
+    "PreguntasGuia": [
+      "¿Cuántos amarillos forman un rojo?",
+      "¿Qué pasa si reúnes 10 rojos?",
+      "¿Quién consiguió primero un rectángulo azul?"
+    ],
+    "Variantes": ["Aumentar el número de rectángulos o jugar por tiempo límite."],
+    "Evaluacion": [
+      "Agrupa correctamente 10→1 en varias ocasiones.",
+      "Explica la equivalencia entre unidades, decenas y centenas."
+    ],
+    "Evidencias": ["Foto del material agrupado", "Tabla de cambios realizados"]
+  },
+  {
+    "Numero": "17",
+    "Titulo": "Formamos decenas",
+    "Proposito": "Identificar y usar la decena como agrupación de 10 unidades.",
+    "Contenidos": ["Decenas", "Unidades", "Agrupación"],
+    "Materiales": ["Palitos, ligas o fichas", "Tarjetas de números"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Cada niño recibe varias unidades (palitos).",
+      "Forman grupos de 10 y los atan con ligas.",
+      "Representan la cantidad con decenas y unidades."
+    ],
+    "PreguntasGuia": [
+      "¿Qué es más rápido: contar de uno en uno o por decenas?",
+      "¿Qué representa cada grupo atado?"
+    ],
+    "Variantes": ["Usar otros materiales como monedas o semillas."],
+    "Evaluacion": [
+      "Agrupa en decenas correctamente.",
+      "Escribe el número correspondiente en notación decimal."
+    ],
+    "Evidencias": ["Foto de agrupaciones", "Registro escrito del número"]
+  },
+  {
+    "Numero": "18",
+    "Titulo": "La empacadora",
+    "Proposito": "Relacionar agrupamiento de productos con decenas y centenas.",
+    "Contenidos": ["Decenas", "Centenas", "Sistema de numeración decimal"],
+    "Materiales": ["Objetos pequeños (cajas, tapitas, frijoles)", "Recipientes"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Simular que cada equipo es una empacadora.",
+      "Agrupar los objetos en cajas de 10 y luego en paquetes de 100.",
+      "Registrar cuántos paquetes completos y sueltos tienen."
+    ],
+    "PreguntasGuia": [
+      "¿Cuántos paquetes forman 100?",
+      "¿Qué pasa si sobra material que no completa 10?"
+    ],
+    "Variantes": ["Representar los resultados en un ábaco."],
+    "Evaluacion": [
+      "Agrupa y cuenta usando decenas y centenas.",
+      "Registra correctamente la cantidad total."
+    ],
+    "Evidencias": ["Foto de paquetes", "Registro en tabla"]
+  },
+  {
+    "Numero": "19",
+    "Titulo": "Los camiones de refrescos",
+    "Proposito": "Simular distribución de productos en decenas para comprender el valor posicional.",
+    "Contenidos": ["Decenas", "Unidades", "Valor posicional"],
+    "Materiales": ["Dibujos o maquetas de camiones", "Botellitas o tapas"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Cada camión transporta 10 refrescos.",
+      "Los alumnos agrupan refrescos en camiones y cuentan cuántos llevan.",
+      "Representan con números la cantidad de camiones y sueltos."
+    ],
+    "PreguntasGuia": [
+      "¿Cuántos refrescos caben en 3 camiones?",
+      "¿Cómo anotarías el total de camiones y sueltos?"
+    ],
+    "Variantes": ["Aumentar la capacidad a 20 por camión."],
+    "Evaluacion": [
+      "Agrupa en decenas usando los camiones.",
+      "Explica el valor de cada cifra en el número formado."
+    ],
+    "Evidencias": ["Registro escrito", "Foto del material"]
+  },
+  {
+    "Numero": "20",
+    "Titulo": "Registramos con número",
+    "Proposito": "Pasar de representaciones concretas a la escritura convencional de números.",
+    "Contenidos": ["Sistema decimal", "Notación convencional", "Valor posicional"],
+    "Materiales": ["Hojas cuadriculadas", "Tarjetas con objetos"],
+    "Organizacion": "Individual",
+    "Pasos": [
+      "Observar un conjunto de objetos agrupados en decenas y unidades.",
+      "Pedir que registren primero con dibujos y después con números.",
+      "Comparar diferentes formas de registrar."
+    ],
+    "PreguntasGuia": [
+      "¿Cómo representarías esta cantidad más rápido?",
+      "¿Qué significa cada cifra en el número?"
+    ],
+    "Variantes": ["Usar centenas para alumnos avanzados."],
+    "Evaluacion": [
+      "Registra correctamente con dígitos.",
+      "Explica la relación entre el número y la cantidad representada."
+    ],
+    "Evidencias": ["Registros en hojas", "Foto del trabajo"]
+  },
+  {
+    "Numero": "21",
+    "Titulo": "La bodega",
+    "Proposito": "Simular almacenamiento en decenas y centenas para afianzar el sistema decimal.",
+    "Contenidos": ["Decenas", "Centenas", "Valor posicional"],
+    "Materiales": ["Dibujos de bodegas", "Objetos pequeños"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Organizar los objetos en cajas de 10 dentro de la bodega.",
+      "Cada 10 cajas forman una centena.",
+      "Registrar en una tabla cuántas decenas y centenas tienen."
+    ],
+    "PreguntasGuia": [
+      "¿Qué representa una caja?",
+      "¿Cómo anotas cuántas centenas y decenas tienes?"
+    ],
+    "Variantes": ["Usar una maqueta física de bodega."],
+    "Evaluacion": [
+      "Agrupa en decenas y centenas sin error.",
+      "Relaciona las agrupaciones con el número escrito."
+    ],
+    "Evidencias": ["Tabla de registros", "Foto del material"]
+  },
+  {
+    "Numero": "22",
+    "Titulo": "El banco",
+    "Proposito": "Introducir el valor posicional mediante billetes y monedas ficticias.",
+    "Contenidos": ["Unidades", "Decenas", "Centenas", "Valor posicional"],
+    "Materiales": ["Billetes y monedas recortables", "Hojas de registro"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Cada billete equivale a una decena, cada moneda a una unidad.",
+      "Simular depósitos y retiros en el banco.",
+      "Registrar la cantidad con números."
+    ],
+    "PreguntasGuia": [
+      "¿Qué vale más: un billete o 10 monedas?",
+      "¿Cómo representarías 23 con billetes y monedas?"
+    ],
+    "Variantes": ["Usar centenas como cheques grandes."],
+    "Evaluacion": [
+      "Representa cantidades con monedas y billetes.",
+      "Registra con números correctamente."
+    ],
+    "Evidencias": ["Registro bancario", "Foto de materiales"]
+  },
+  {
+    "Numero": "23",
+    "Titulo": "Mensajes II",
+    "Proposito": "Reflexionar sobre notación numérica como sistema de comunicación.",
+    "Contenidos": ["Valor posicional", "Notación convencional"],
+    "Materiales": ["Tarjetas con mensajes", "Símbolos y números"],
+    "Organizacion": "Parejas",
+    "Pasos": [
+      "Intercambiar mensajes que incluyan números.",
+      "Descifrar el mensaje e interpretar su significado.",
+      "Discutir cómo cambia el mensaje al cambiar la cifra."
+    ],
+    "PreguntasGuia": [
+      "¿Qué diferencia hay entre 13 y 31?",
+      "¿Cómo afecta el orden de las cifras?"
+    ],
+    "Variantes": ["Inventar un código secreto con números."],
+    "Evaluacion": [
+      "Interpreta correctamente números en mensajes.",
+      "Explica la importancia del orden en las cifras."
+    ],
+    "Evidencias": ["Mensajes escritos", "Registro de interpretación"]
+  },
+  {
+    "Numero": "24",
+    "Titulo": "¿Cuántos palitos hay?",
+    "Proposito": "Reconocer agrupamientos de 10 en colecciones de palitos.",
+    "Contenidos": ["Decenas", "Unidades", "Conteo"],
+    "Materiales": ["Palitos", "Ligas"],
+    "Organizacion": "Individual y grupal",
+    "Pasos": [
+      "Contar palitos sueltos.",
+      "Formar grupos de 10.",
+      "Representar la cantidad con decenas y unidades."
+    ],
+    "PreguntasGuia": [
+      "¿Cuántos grupos de 10 tienes?",
+      "¿Qué pasa con los que sobran?"
+    ],
+    "Variantes": ["Usar clips, lápices o fichas."],
+    "Evaluacion": [
+      "Forma grupos de 10 correctamente.",
+      "Registra el número correspondiente."
+    ],
+    "Evidencias": ["Foto de agrupaciones", "Registro en hoja"]
+  },
+  {
+    "Numero": "25",
+    "Titulo": "El mercado",
+    "Proposito": "Simular compras y ventas para comprender decenas y unidades.",
+    "Contenidos": ["Valor posicional", "Decenas", "Unidades"],
+    "Materiales": ["Billetes y monedas de juguete", "Tarjetas de productos"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Asignar precios en decenas y unidades.",
+      "Comprar y pagar con monedas y billetes.",
+      "Registrar las transacciones."
+    ],
+    "PreguntasGuia": [
+      "¿Cómo pagas un producto de 34?",
+      "¿Qué pasa si no completas con billetes y necesitas monedas?"
+    ],
+    "Variantes": ["Usar precios mayores que involucren centenas."],
+    "Evaluacion": [
+      "Representa correctamente compras con decenas/unidades.",
+      "Registra en números la compra."
+    ],
+    "Evidencias": ["Registros de compras", "Foto del juego"]
+  },
+  {
+    "Numero": "26",
+    "Titulo": "Jugamos con el ábaco",
+    "Proposito": "Representar cantidades usando valor posicional en un ábaco.",
+    "Contenidos": ["Unidades", "Decenas", "Centenas", "Ábaco"],
+    "Materiales": ["Ábaco de colores", "Tarjetas con números"],
+    "Organizacion": "Grupal e individual",
+    "Pasos": [
+      "Mostrar cómo colocar fichas en el ábaco.",
+      "Dar números y pedir que los representen.",
+      "Comparar representaciones entre compañeros."
+    ],
+    "PreguntasGuia": [
+      "¿Cuántas decenas y unidades tiene este número?",
+      "¿Qué pasa si mueves 10 unidades a la columna de decenas?"
+    ],
+    "Variantes": ["Trabajar con números hasta centenas."],
+    "Evaluacion": [
+      "Representa correctamente números en el ábaco.",
+      "Explica cómo cambian las posiciones."
+    ],
+    "Evidencias": ["Foto del ábaco", "Registros de números"]
+  },
+  {
+    "Numero": "27",
+    "Titulo": "Cartas y aros",
+    "Proposito": "Asociar números con su valor posicional mediante un juego.",
+    "Contenidos": ["Valor posicional", "Unidades", "Decenas"],
+    "Materiales": ["Cartas con números", "Aros o círculos"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Colocar aros en el piso representando decenas y unidades.",
+      "Los niños lanzan cartas con números y deben colocarlas en el aro correcto.",
+      "Comprobar la cantidad total formada."
+    ],
+    "PreguntasGuia": [
+      "¿Dónde va el 4 si representa 40?",
+      "¿Cómo sabemos cuál es la cifra de las decenas?"
+    ],
+    "Variantes": ["Usar centenas como tercer aro."],
+    "Evaluacion": [
+      "Coloca cartas correctamente en aros.",
+      "Explica el valor de cada posición."
+    ],
+    "Evidencias": ["Foto del juego", "Tabla de resultados"]
+  },
+  {
+    "Numero": "28",
+    "Titulo": "Los nombres de los números",
+    "Proposito": "Relacionar la escritura numérica con su nombre.",
+    "Contenidos": ["Lectura y escritura de números", "Valor posicional"],
+    "Materiales": ["Tarjetas con números", "Tarjetas con nombres"],
+    "Organizacion": "Parejas",
+    "Pasos": [
+      "Emparejar números con sus nombres escritos.",
+      "Leer en voz alta y verificar la relación.",
+      "Registrar 5 parejas correctas."
+    ],
+    "PreguntasGuia": [
+      "¿Qué número corresponde a 'treinta y dos'?",
+      "¿Cómo se escribe '47' con palabras?"
+    ],
+    "Variantes": ["Inventar adivinanzas con números y nombres."],
+    "Evaluacion": [
+      "Empareja al menos 5 números con sus nombres.",
+      "Lee en voz alta sin error."
+    ],
+    "Evidencias": ["Lista de parejas", "Lectura grabada o escrita"]
+  },
+  {
+    "Numero": "29",
+    "Titulo": "El locutor",
+    "Proposito": "Practicar la lectura de números en voz alta con rapidez y precisión.",
+    "Contenidos": ["Lectura de números", "Valor posicional"],
+    "Materiales": ["Micrófono de juguete", "Tarjetas de números"],
+    "Organizacion": "Grupal",
+    "Pasos": [
+      "Un niño hace de locutor y lee en voz alta los números de las tarjetas.",
+      "El grupo verifica la lectura correcta.",
+      "Registrar las lecturas más rápidas."
+    ],
+    "PreguntasGuia": [
+      "¿Qué número leíste?",
+      "¿Qué pasa si cambias el orden de las cifras?"
+    ],
+    "Variantes": ["Competencia de lectura entre equipos."],
+    "Evaluacion": [
+      "Lee correctamente números de dos cifras.",
+      "Explica cómo cambia el número si cambia el orden."
+    ],
+    "Evidencias": ["Registro de lecturas", "Foto de la actividad"]
+  },
+  {
+    "Numero": "30",
+    "Titulo": "Máquinas de decenas",
+    "Proposito": "Modelar transformaciones en el valor posicional con decenas.",
+    "Contenidos": ["Decenas", "Transformaciones", "Patrones"],
+    "Materiales": ["Tarjetas de entrada y salida", "Ábaco"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Proponer una regla de máquina: +10, −10.",
+      "Dar un número de entrada y obtener la salida.",
+      "Registrar varias entradas y salidas."
+    ],
+    "PreguntasGuia": [
+      "¿Qué regla sigue la máquina?",
+      "¿Cómo comprobamos el resultado?"
+    ],
+    "Variantes": ["Usar reglas dobles (+10, luego +1)."],
+    "Evaluacion": [
+      "Identifica correctamente la regla.",
+      "Aplica la regla en 5 ejemplos."
+    ],
+    "Evidencias": ["Tabla de entradas y salidas", "Foto del ábaco"]
+  },
+  {
+    "Numero": "31",
+    "Titulo": "Comunicamos mensajes con el ábaco",
+    "Proposito": "Representar números en un ábaco y comunicar mensajes.",
+    "Contenidos": ["Ábaco", "Valor posicional", "Comunicación"],
+    "Materiales": ["Ábaco", "Tarjetas de números"],
+    "Organizacion": "Parejas",
+    "Pasos": [
+      "Un niño representa un número en el ábaco.",
+      "El compañero debe leer el número.",
+      "Intercambiar roles y verificar."
+    ],
+    "PreguntasGuia": [
+      "¿Qué número representa este ábaco?",
+      "¿Cómo lo comprobarías?"
+    ],
+    "Variantes": ["Hacerlo a contrarreloj."],
+    "Evaluacion": [
+      "Representa y lee correctamente 5 números.",
+      "Explica la lectura del ábaco."
+    ],
+    "Evidencias": ["Foto del ábaco", "Registro de números"]
+  },
+  {
+    "Numero": "32",
+    "Titulo": "Destapamos cartas y descubrimos números",
+    "Proposito": "Relacionar cartas con números y reforzar el valor posicional.",
+    "Contenidos": ["Números", "Valor posicional"],
+    "Materiales": ["Cartas con números", "Mesa de juego"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Colocar cartas boca abajo.",
+      "Cada jugador destapa una carta y dice el número.",
+      "Comparar los números obtenidos."
+    ],
+    "PreguntasGuia": [
+      "¿Qué número es mayor?",
+      "¿Cuál es la diferencia entre ambos?"
+    ],
+    "Variantes": ["Destapar dos cartas y sumarlas."],
+    "Evaluacion": [
+      "Identifica correctamente el número de las cartas.",
+      "Compara dos números con precisión."
+    ],
+    "Evidencias": ["Foto del juego", "Registro de comparaciones"]
+  },
+  {
+    "Numero": "33",
+    "Titulo": "Lotería",
+    "Proposito": "Identificar y nombrar números en un juego tradicional.",
+    "Contenidos": ["Lectura y escritura de números"],
+    "Materiales": ["Cartones de lotería con números", "Fichas"],
+    "Organizacion": "Grupal",
+    "Pasos": [
+      "Repartir cartones de lotería.",
+      "Cantar los números en voz alta.",
+      "Los niños colocan fichas en los números correctos."
+    ],
+    "PreguntasGuia": [
+      "¿Qué número te salió?",
+      "¿Dónde lo colocaste?"
+    ],
+    "Variantes": ["Usar números de tres cifras."],
+    "Evaluacion": [
+      "Reconoce al menos 10 números correctamente.",
+      "Marca en su cartón los números cantados."
+    ],
+    "Evidencias": ["Foto del juego", "Registro de ganadores"]
+  },
+  {
+    "Numero": "34",
+    "Titulo": "Gana el número mayor",
+    "Proposito": "Comparar dos números y decidir cuál es mayor.",
+    "Contenidos": ["Comparación de números"],
+    "Materiales": ["Tarjetas con números"],
+    "Organizacion": "Parejas",
+    "Pasos": [
+      "Cada jugador toma una tarjeta.",
+      "Comparan ambos números.",
+      "El mayor gana la ronda."
+    ],
+    "PreguntasGuia": [
+      "¿Cuál número es mayor?",
+      "¿Por qué?"
+    ],
+    "Variantes": ["Usar tres tarjetas y ordenarlas."],
+    "Evaluacion": [
+      "Identifica correctamente el número mayor.",
+      "Ordena números en 3 rondas."
+    ],
+    "Evidencias": ["Registro de rondas", "Foto del juego"]
+  },
+  {
+    "Numero": "35",
+    "Titulo": "Juego de dados",
+    "Proposito": "Reconocer sumas y registros con números hasta decenas.",
+    "Contenidos": ["Suma", "Decenas", "Unidades"],
+    "Materiales": ["Dados", "Hojas de registro"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Lanzar dos dados y sumar el resultado.",
+      "Registrar la suma con dígitos.",
+      "Comparar con otros equipos."
+    ],
+    "PreguntasGuia": [
+      "¿Cuánto sumaste?",
+      "¿Qué número obtuviste?"
+    ],
+    "Variantes": ["Usar tres dados para mayor reto."],
+    "Evaluacion": [
+      "Suma correctamente al menos 5 veces.",
+      "Registra en dígitos cada suma."
+    ],
+    "Evidencias": ["Registro de sumas", "Foto del juego"]
+  },
+  {
+    "Numero": "36",
+    "Titulo": "Tiro al blanco",
+    "Proposito": "Reforzar conteo y suma mediante un juego de puntería.",
+    "Contenidos": ["Conteo", "Suma", "Números"],
+    "Materiales": ["Diana con números", "Pelotas pequeñas"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Lanzar pelotas a la diana.",
+      "Sumar los números alcanzados.",
+      "Registrar el total."
+    ],
+    "PreguntasGuia": [
+      "¿Cuánto sumaste en total?",
+      "¿Quién obtuvo más puntos?"
+    ],
+    "Variantes": ["Diana con múltiplos de 10."],
+    "Evaluacion": [
+      "Suma correctamente al menos 3 intentos.",
+      "Registra el puntaje total."
+    ],
+    "Evidencias": ["Registro de puntajes", "Foto de la diana"]
+  },
+  {
+    "Numero": "37",
+    "Titulo": "¿Cuál es la tarjeta?",
+    "Proposito": "Identificar números a partir de pistas y deducciones.",
+    "Contenidos": ["Comparación de números", "Valor posicional"],
+    "Materiales": ["Tarjetas con números"],
+    "Organizacion": "Parejas",
+    "Pasos": [
+      "Un niño da pistas sobre su tarjeta.",
+      "El compañero debe adivinar el número.",
+      "Intercambiar roles."
+    ],
+    "PreguntasGuia": [
+      "¿Qué pista fue más útil?",
+      "¿Qué números descartaste?"
+    ],
+    "Variantes": ["Pistas con operaciones sencillas."],
+    "Evaluacion": [
+      "Adivina correctamente al menos 3 números.",
+      "Da pistas claras y precisas."
+    ],
+    "Evidencias": ["Registro de tarjetas", "Notas de pistas usadas"]
+  },
+  {
+    "Numero": "38",
+    "Titulo": "Las listas",
+    "Proposito": "Ordenar números en forma creciente o decreciente.",
+    "Contenidos": ["Orden de números", "Comparación"],
+    "Materiales": ["Tarjetas de números", "Hojas"],
+    "Organizacion": "Parejas",
+    "Pasos": [
+      "Dar un conjunto de números desordenados.",
+      "Ordenarlos de menor a mayor.",
+      "Explicar cómo lo hicieron."
+    ],
+    "PreguntasGuia": [
+      "¿Cuál número va primero?",
+      "¿Cómo sabes el orden correcto?"
+    ],
+    "Variantes": ["Ordenar de mayor a menor."],
+    "Evaluacion": [
+      "Ordena correctamente 5 números.",
+      "Explica su procedimiento."
+    ],
+    "Evidencias": ["Lista ordenada", "Foto del trabajo"]
+  },
+  {
+    "Numero": "39",
+    "Titulo": "La ruleta",
+    "Proposito": "Reconocer números en un juego de azar.",
+    "Contenidos": ["Números", "Comparación"],
+    "Materiales": ["Ruleta con números", "Fichas"],
+    "Organizacion": "Grupal",
+    "Pasos": [
+      "Hacer girar la ruleta.",
+      "Leer el número señalado.",
+      "Registrar en una tabla."
+    ],
+    "PreguntasGuia": [
+      "¿Qué número salió?",
+      "¿Dónde lo anotarías?"
+    ],
+    "Variantes": ["Ruleta con múltiplos de 10."],
+    "Evaluacion": [
+      "Reconoce correctamente 5 números.",
+      "Registra en la tabla sin error."
+    ],
+    "Evidencias": ["Foto de la ruleta", "Tabla de registros"]
+  },
+  {
+    "Numero": "40",
+    "Titulo": "El payaso",
+    "Proposito": "Relacionar números con imágenes de forma lúdica.",
+    "Contenidos": ["Números", "Valor posicional"],
+    "Materiales": ["Dibujo de payaso con casillas numeradas", "Fichas"],
+    "Organizacion": "Grupal",
+    "Pasos": [
+      "Lanzar ficha al dibujo del payaso.",
+      "Leer el número de la casilla alcanzada.",
+      "Registrar el resultado."
+    ],
+    "PreguntasGuia": [
+      "¿Qué número alcanzaste?",
+      "¿Cuál es mayor de los obtenidos?"
+    ],
+    "Variantes": ["Casillas con operaciones simples."],
+    "Evaluacion": [
+      "Reconoce números al azar.",
+      "Compara con otros compañeros."
+    ],
+    "Evidencias": ["Foto del tablero", "Registro de rondas"]
+  },
+  {
+    "Numero": "41",
+    "Titulo": "Encuentra el número",
+    "Proposito": "Buscar y reconocer números en diferentes contextos.",
+    "Contenidos": ["Reconocimiento de números"],
+    "Materiales": ["Tarjetas con números", "Carteles o revistas"],
+    "Organizacion": "Parejas",
+    "Pasos": [
+      "Dar un número objetivo.",
+      "Buscarlo en tarjetas o materiales.",
+      "Comentar dónde lo encontraron."
+    ],
+    "PreguntasGuia": [
+      "¿Dónde viste el número?",
+      "¿Cómo lo reconociste?"
+    ],
+    "Variantes": ["Buscar números en el entorno escolar."],
+    "Evaluacion": [
+      "Encuentra al menos 3 números pedidos.",
+      "Describe el contexto donde apareció."
+    ],
+    "Evidencias": ["Lista de hallazgos", "Foto del material"]
+  },
+  {
+    "Numero": "42",
+    "Titulo": "Busca el número",
+    "Proposito": "Refinar la atención y rapidez en el reconocimiento de números.",
+    "Contenidos": ["Reconocimiento rápido de números"],
+    "Materiales": ["Carteles con números mezclados", "Tarjetas"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Mostrar carteles con números mezclados.",
+      "Pedir a los alumnos que encuentren un número específico.",
+      "Premiar rapidez y exactitud."
+    ],
+    "PreguntasGuia": [
+      "¿Qué número encontraste?",
+      "¿Qué otro número estaba cerca?"
+    ],
+    "Variantes": ["Competencia entre equipos."],
+    "Evaluacion": [
+      "Encuentra 5 números en tiempo limitado.",
+      "Reconoce sin error."
+    ],
+    "Evidencias": ["Lista de números encontrados", "Foto del cartel"]
+  },
+  {
+    "Numero": "43",
+    "Titulo": "Peces de colores",
+    "Proposito": "Relacionar colores y números para reforzar reconocimiento.",
+    "Contenidos": ["Números", "Correspondencia"],
+    "Materiales": ["Láminas con peces numerados y de colores"],
+    "Organizacion": "Grupal",
+    "Pasos": [
+      "Mostrar lámina con peces numerados.",
+      "Indicar un color y número objetivo.",
+      "Los alumnos deben localizarlo rápidamente."
+    ],
+    "PreguntasGuia": [
+      "¿Qué pez encontraste?",
+      "¿Qué número tenía?"
+    ],
+    "Variantes": ["Usar más de un atributo (color+tamaño)."],
+    "Evaluacion": [
+      "Encuentra correctamente 5 peces solicitados.",
+      "Reconoce sin error los números."
+    ],
+    "Evidencias": ["Foto de la lámina", "Registro de hallazgos"]
+  }
+]

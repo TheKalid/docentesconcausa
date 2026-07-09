@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto Directo - Planeando con Causa</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <style>
+        :root {
+            --color-primario: #1e3a8a;
+            --color-acento: #f39c12;
+            --color-fondo: #f8f9fa;
+            --color-texto: #334155;
+            --color-tarjeta: #ffffff;
+            --color-borde: #e2e8f0;
+            --fuente-principal: 'Poppins', sans-serif;
+        }
+
+        body {
+            font-family: var(--fuente-principal);
+            background-color: var(--color-fondo);
+            margin: 0;
+            color: var(--color-texto);
+            line-height: 1.7;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        .logo {
+            max-width: 180px;
+            width: 100%; /* Asegura que no rebase su contenedor */
+            margin-bottom: 10px;
+        }
+
+        .agradecimiento {
+            background-color: #fff3cd;
+            border: 1px solid #ffeeba;
+            color: #856404;
+            padding: 15px;
+            border-radius: 10px;
+            font-size: 1rem;
+            margin-bottom: 25px;
+            opacity: 0;
+            transform: translateY(15px);
+            animation: fadeSlideUp 1.2s ease forwards;
+        }
+
+        @keyframes fadeSlideUp {
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            color: var(--color-primario);
+            margin-bottom: 10px;
+        }
+
+        .contact-info {
+            background-color: var(--color-tarjeta);
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+            text-align: left;
+            margin-top: 30px;
+        }
+
+        .contact-info h3 {
+            font-size: 1.5rem;
+            color: var(--color-primario);
+            margin-top: 0;
+            border-bottom: 2px solid var(--color-borde);
+            padding-bottom: 15px;
+            margin-bottom: 20px;
+        }
+
+        .info-item {
+            display: flex;
+            align-items: flex-start; /* Alineación superior para textos de varias líneas */
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .info-item i {
+            font-size: 1.5rem;
+            color: var(--color-acento);
+            margin-top: 5px; /* Compensa visualmente la altura del texto */
+        }
+
+        .info-item a {
+            color: var(--color-texto);
+            text-decoration: none;
+            font-weight: 600;
+            word-break: break-word; /* CRÍTICO: Evita que correos largos rompan el diseño en móviles */
+        }
+
+        .info-item a:hover {
+            color: var(--color-acento);
+        }
+
+        .faq-section {
+            margin-top: 50px;
+            text-align: left;
+        }
+
+        .faq-section h2 {
+            color: var(--color-primario);
+            font-size: 2rem;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .faq-item {
+            border-bottom: 1px solid var(--color-borde);
+            padding: 15px 0;
+        }
+
+        .faq-item summary {
+            font-weight: 600;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .faq-item summary::-webkit-details-marker {
+            display: none;
+        }
+
+        .faq-item summary::after {
+            content: '\f078';
+            font-family: 'Font Awesome 6 Free';
+            font-weight: 900;
+            transition: transform 0.3s;
+        }
+
+        .faq-item[open] summary::after {
+            transform: rotate(180deg);
+        }
+
+        .faq-item .faq-answer {
+            padding: 15px 0 0 10px;
+            color: #64748b;
+        }
+
+        /* =========================================
+           MEDIA QUERIES (DISEÑO RESPONSIVO MÓVIL)
+           ========================================= */
+        @media (max-width: 768px) {
+            .container {
+                padding: 25px 15px; /* Reducimos padding lateral en móviles */
+            }
+
+            h1 {
+                font-size: 1.8rem; /* Títulos más pequeños */
+            }
+
+            .contact-info {
+                padding: 20px; /* Tarjeta más compacta */
+                margin-top: 20px;
+            }
+
+            .contact-info h3 {
+                font-size: 1.3rem;
+            }
+
+            .info-item i {
+                font-size: 1.3rem;
+            }
+
+            .faq-section h2 {
+                font-size: 1.6rem;
+                margin-bottom: 20px;
+            }
+
+            .agradecimiento {
+                font-size: 0.95rem;
+                padding: 12px;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            /* Ajustes extra para teléfonos muy angostos */
+            .info-item {
+                flex-direction: column; /* Apila el icono arriba del texto */
+                gap: 5px;
+            }
+            .info-item i {
+                margin-top: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <img src="logo.png" alt="Logo Planeando con Causa" class="logo">
+
+        <div class="agradecimiento">
+            Docentes con Causa agradece infinitamente su apoyo y participación en esta causa.
+            Gracias a su compromiso, podemos seguir ayudando a la educación y a quienes más lo necesitan.
+        </div>
+
+        <h1>Contacto Directo</h1>
+        <div class="contact-info">
+            <p>
+                <strong>Envíanos correo a cualquier hora y te atenderemos lo más pronto posible:</strong>
+            </p>
+            <div class="info-item">
+                <i class="fas fa-envelope"></i>
+                <a href="mailto:docentesconcausaedtech@gmail.com">soporte@docentesconcausa.com o docentesconcausaedtech@gmail.com </a>
+            </div>
+            <div class="info-item">
+                <i class="fab fa-whatsapp"></i>
+                <a href="https://wa.me/523312345678" target="_blank">Enviar WhatsApp al 3322 5640 69</a>
+            </div>
+            <div class="info-item">
+                <i class="fas fa-clock"></i>
+                <div>
+                    <strong>Horario de Atención por WhatsApp:</strong><br>
+                    Lunes a Viernes<br>
+                    4:00 PM - 6:00 PM
+                </div>
+            </div>
+            <p style="margin-top: 20px; font-size: 0.95rem;">
+                <strong>Recuerda en tu solicitud mencionar tu correo electrónico con el que te registraste y tu nombre completo.</strong><br>
+                En Docentes con Causa, hacemos que tu trabajo trascienda a los más necesitados.
+            </p>
+        </div>
+
+        <section class="faq-section">
+            <h2>Preguntas Frecuentes</h2>
+
+            <details class="faq-item">
+                <summary>¿Cómo se hacen las donaciones?</summary>
+                <div class="faq-answer">
+                    <p>Cada 3 meses el CEO de Docentes con Causa, emite un cheque para que un docente elegido al azar lleve en persona la donación, puedes revisar las evidencias en el apartado de "Evidencias".</p>
+                </div>
+            </details>
+
+            <details class="faq-item">
+                <summary>¿Yo quisiera llevar una donación, me puedo postular?</summary>
+                <div class="faq-answer">
+                    <p>Por supuesto, puedes enviar correo a docentesconcausaedtech@gmail.com y nos pondremos en contacto contigo.</p>
+                </div>
+            </details>
+
+            <details class="faq-item">
+                <summary>¿Cómo puedo obtener más planeaciones?</summary>
+                <div class="faq-answer">
+                    <p>Puedes adquirir más créditos de planeaciones solicitándolas en Servicio al Cliente por una módica cantidad o actualizar tu plan de suscripción para aumentar el número mensual disponible.</p>
+                </div>
+            </details>
+
+            <details class="faq-item">
+                <summary>¿Cómo funciona el generador de planeaciones?</summary>
+                <div class="faq-answer">
+                    <p>Nuestra IA crea planeaciones basadas en tus selecciones (grado, campo formativo, etc.) siguiendo la metodología de la Nueva Escuela Mexicana aplicando tecnología avanzada.</p>
+                </div>
+            </details>
+
+            <details class="faq-item">
+                <summary>¿Cómo cancelo mi suscripción?</summary>
+                <div class="faq-answer">
+                    <p>Puedes cancelar tu suscripción comunicándote por correo, mandando un mensaje de WhatsApp o en tu panel de administrador "Cuando esté habilitado".</p>
+                </div>
+            </details>
+
+            <details class="faq-item">
+                <summary>¿Cómo solicito una factura?</summary>
+                <div class="faq-answer">
+                    <p>Puedes solicitar tu factura por medio de nuestro correo a "soporte@docentesconcausa.com" junto con tus datos fiscales correspondientes.</p>
+                </div>
+            </details>
+        </section>
+    </div>
+</body>
+
+</html>

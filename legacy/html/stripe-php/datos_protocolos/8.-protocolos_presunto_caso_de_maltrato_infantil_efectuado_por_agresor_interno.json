@@ -1,0 +1,109 @@
+{
+  "Protocolo de Actuación Escolar ante Presunto Caso de Maltrato Infantil por Personal del Plantel": {
+    "Objetivo": [
+      "Establecer las líneas de actuación de la Autoridad Escolar ante la detección en un plantel educativo de una presunta situación de maltrato infantil cometido por personal del plantel.",
+      "Dar certeza de acción a las áreas involucradas, evitando omisiones ante hechos de violencia."
+    ],
+    "Responsabilidades Mínimas de la Comunidad Educativa": [
+      "Conocer, observar y aplicar la Constitución Política de los Estados Unidos Mexicanos.",
+      "Aplicar la Ley General de Educación.",
+      "Aplicar la Ley de Educación del Estado Libre y Soberano de Jalisco.",
+      "Aplicar la Ley General de los Derechos de Niñas, Niños y Adolescentes.",
+      "Aplicar la Ley de los Derechos de Niñas, Niños y Adolescentes en el Estado de Jalisco.",
+      "Aplicar la Ley General de Responsabilidades Administrativas.",
+      "Aplicar la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.",
+      "Aplicar la Ley de la Comisión Nacional de los Derechos Humanos.",
+      "Aplicar el Código Nacional de Procedimientos Penales.",
+      "Aplicar el Código Penal del Estado de Jalisco.",
+      "Aplicar la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.",
+      "Aplicar la Ley de Justicia para Adolescentes del Estado de Jalisco.",
+      "Respetar el Código de Ética y Reglas de Integridad para los Servidores Públicos.",
+      "Aplicar el Marco para la excelencia en la enseñanza y gestión escolar en Educación Básica.",
+      "Cumplir con las Reglas de Conducta para las Escuelas de Educación Básica del Estado de Jalisco.",
+      "Observar otros documentos normativos emitidos por la Secretaría de Educación Pública o del Estado de Jalisco."
+    ],
+    "Roles y Responsabilidades": {
+      "Docentes, Personal Administrativo y de Apoyo a la Educación": [
+        "Detectar o recibir la queja de un presunto caso de maltrato infantil por personal del plantel.",
+        "Registrar la información en la bitácora del plantel.",
+        "Informar al Director durante la jornada escolar.",
+        "Abstenerse de cualquier conducta que afecte la dignidad de los estudiantes.",
+        "Intervenir oportunamente ante situaciones de violencia o discriminación."
+      ],
+      "Director": [
+        "Analizar la guía de observación para detectar indicadores de riesgo.",
+        "Registrar y documentar el caso en la bitácora escolar.",
+        "Notificar por escrito a la madre, padre o tutor y registrar en el expediente del alumno.",
+        "Notificar verbal y por escrito al presunto agresor su separación del contacto con alumnos.",
+        "Solicitar la presencia de servicios médicos si el caso lo requiere.",
+        "Levantar acta de hechos conforme al formato correspondiente.",
+        "Brindar información de contacto con la Fiscalía Estatal.",
+        "Informar al Supervisor Escolar y/o Jefe de Sector Escolar según el nivel educativo."
+      ],
+      "Padre, Madre o Tutor": [
+        "Acudir al plantel cuando el Director los convoque."
+      ],
+      "Supervisor Escolar y/o Jefe de Sector Escolar": [
+        "Dar aviso a la Fiscalía del Estado y a la Procuraduría de Protección de Niñas, Niños y Adolescentes.",
+        "Obtener constancia que evidencie su actuar.",
+        "Reportar el caso a la Dirección de Psicopedagogía y obtener folio.",
+        "Notificar a superiores jerárquicos hasta llegar a la Subsecretaría.",
+        "Realizar reporte a la Procuraduría en caso de no obtener respuesta de los tutores."
+      ],
+      "Autoridades Externas": {
+        "Subsecretaría y/o Nivel Educativo": [
+          "Evaluar el expediente del alumno.",
+          "Brindar facilidades para el traslado del estudiante a otro plantel si los padres lo solicitan."
+        ],
+        "Dirección de Psicopedagogía": [
+          "Recibir el reporte del Supervisor y otorgar folio.",
+          "Gestionar intervención psicosocial.",
+          "Coordinar con unidades administrativas de la Secretaría de Educación.",
+          "Dar aviso al Órgano Interno de Control.",
+          "Orientar en la aplicación del protocolo."
+        ],
+        "Órgano Interno de Control": [
+          "Investigar y sancionar omisiones de servidores públicos."
+        ],
+        "Unidades Administrativas de la Secretaría de Educación": [
+          "Ejecutar procesos de intervención y seguimiento para toda la comunidad educativa."
+        ]
+      }
+    },
+    "Procedimiento": [
+      "Detectar o recibir queja verbal o escrita de maltrato infantil por personal del plantel.",
+      "Registrar la información en la bitácora escolar.",
+      "Informar al Director durante la jornada escolar.",
+      "Analizar indicadores de riesgo con la guía de observación.",
+      "Si no se identifican indicadores suficientes, notificar a tutores, registrar en expediente, intervenir psicosocialmente y finalizar proceso.",
+      "Si se identifican al menos dos indicadores generales y uno específico, el Director separa al presunto agresor y lo notifica en presencia de testigos.",
+      "Solicitar servicios médicos si hay maltrato físico.",
+      "Levantar acta de hechos conforme al formato.",
+      "Contactar a los padres o tutores para informar sobre los hechos.",
+      "Si acuden, firmar acta y brindar orientación para la denuncia.",
+      "Informar al Supervisor Escolar o Jefe de Sector con soporte documental.",
+      "En máximo 24 horas, el Supervisor da aviso a Fiscalía y Procuraduría correspondiente.",
+      "Reportar a la Dirección de Psicopedagogía en máximo 24 horas, y obtener folio.",
+      "La Dirección de Psicopedagogía analiza y da seguimiento, emite folio si procede.",
+      "Informar al Órgano Interno de Control al día siguiente hábil.",
+      "Gestionar apoyos psicosociales con las Unidades Administrativas.",
+      "Órgano Interno de Control realiza la investigación y aplica sanciones.",
+      "El Supervisor notifica por escrito a superiores hasta la Subsecretaría.",
+      "Ejecutar intervención y seguimiento en la comunidad educativa.",
+      "Si se solicita traslado de plantel, se analiza y autoriza de ser procedente. Fin del proceso.",
+      "Si los tutores no acuden a la cita, se registra en el acta y se emite nuevo citatorio.",
+      "Si faltan tres veces en cinco días hábiles, se informa al Supervisor o Jefe de Sector.",
+      "Se establece estrategia diferenciada de comunicación y orientación.",
+      "Si no hay respuesta, se reporta a la Procuraduría correspondiente. Regresar al paso 12."
+    ],
+    "Disposiciones por Omisiones": {
+      "Escuelas Públicas": [
+        "Las omisiones serán investigadas y sancionadas por el Órgano Interno de Control cuando involucre a un servidor público."
+      ],
+      "Escuelas Particulares": [
+        "Se aplica el mismo protocolo, pero se sustituye el aviso al OIC por notificación a la Dirección General de Planeación de la Secretaría de Educación del Estado de Jalisco.",
+        "Dicha dirección determinará si procede instaurar un procedimiento de infracción administrativa conforme al artículo 147 de la Ley de Educación del Estado Libre y Soberano de Jalisco."
+      ]
+    }
+  }
+}

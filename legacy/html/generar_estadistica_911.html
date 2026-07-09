@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estadística 911 - Docentes con Causa</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <style>
+        /* Estilos consistentes con el resto de tu proyecto */
+        :root {
+            --color-primario: #0d2c4b;
+            --color-acento: #007bff;
+            --color-acento-hover: #0056b3;
+            --color-fondo: #f8f9fa;
+            --color-texto: #212529;
+            --color-tarjeta: #ffffff;
+            --color-borde: #dee2e6;
+            --color-exito: #28a745;
+            --color-exito-hover: #218838;
+        }
+        body { font-family: 'Source Sans Pro', sans-serif; background-color: var(--color-fondo); color: var(--color-texto); line-height: 1.6; }
+        .container { max-width: 900px; margin: 20px auto; padding: 20px; }
+        .page-header { text-align: center; margin-bottom: 30px; }
+        .page-header h1 { font-size: 2.5rem; color: var(--color-primario); }
+        .page-header p { color: #6c757d; font-size: 1.1rem; }
+        .card { background-color: var(--color-tarjeta); border-radius: 12px; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.06); border: 1px solid var(--color-borde); margin-bottom: 30px; }
+        fieldset { border: 1px solid var(--color-borde); border-radius: 8px; padding: 20px; margin-bottom: 25px; }
+        legend { font-weight: 700; font-size: 1.2rem; color: var(--color-primario); padding: 0 10px; }
+        .form-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; }
+        .form-group { margin-bottom: 15px; }
+        label { display: block; font-weight: 600; margin-bottom: 8px; }
+        input[type="text"], input[type="number"], input[type="date"], textarea { width: 100%; padding: 10px 12px; border: 1px solid var(--color-borde); border-radius: 8px; font-size: 1rem; box-sizing: border-box; }
+        textarea { min-height: 100px; resize: vertical; }
+        button { display: inline-flex; align-items: center; justify-content: center; gap: 10px; padding: 12px 20px; border: none; border-radius: 8px; font-size: 1rem; font-weight: 700; cursor: pointer; transition: all 0.3s; color: white; }
+        .btn-primario { background-color: var(--color-acento); }
+        .btn-primario:hover { background-color: var(--color-acento-hover); }
+        .btn-secundario { background-color: #6c757d; }
+        .btn-secundario:hover { background-color: #5a6268; }
+        .btn-exito { background-color: var(--color-exito); }
+        .btn-exito:hover { background-color: var(--color-exito-hover); }
+        .tabla-alumnos { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        .tabla-alumnos th, .tabla-alumnos td { text-align: left; padding: 12px; border-bottom: 1px solid var(--color-borde); }
+        .tabla-alumnos th { background-color: #f8f9fa; color: var(--color-primario); }
+        .edad-calculada { font-weight: 700; font-size: 1.1rem; text-align: center; }
+        .return-section { display: flex; justify-content: center; margin-top: 40px; }
+        .btn-return { display: inline-flex; align-items: center; gap: 8px; background-color: var(--color-primario); color: white; padding: 12px 25px; border-radius: 50px; text-decoration: none; font-weight: 600; }
+        #validacion-total { margin-top: 10px; font-weight: 600; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="page-header">
+            <h1><i class="fas fa-chart-bar"></i> Formulario de Estadística 911</h1>
+            <p>Captura los datos iniciales y finales de tu grupo para el ciclo escolar.</p>
+        </header>
+
+        <form id="form-estadistica" action="procesar_estadistica_911.php" method="POST">
+            
+            <div class="card">
+                <fieldset>
+                    <legend>Estadística Inicial</legend>
+                    <div class="form-grid">
+                        <div class="form-group">
+                            <label for="total-alumnos-inicial">Total de Alumnos:</label>
+                            <input type="number" id="total-alumnos-inicial" name="total_alumnos_inicial" min="0">
+                        </div>
+                        <div class="form-group">
+                            <label for="total-ninas-inicial">Niñas:</label>
+                            <input type="number" id="total-ninas-inicial" name="total_ninas_inicial" min="0">
+                        </div>
+                        <div class="form-group">
+                            <label for="total-ninos-inicial">Niños:</label>
+                            <input type="number" id="total-ninos-inicial" name="total_ninos_inicial" min="0">
+                        </div>
+                    </div>
+                    <div id="validacion-total"></div>
+                    <hr style="margin: 20px 0;">
+                    <div class="form-grid">
+                        <div class="form-group">
+                            <label for="alumnos-extranjeros-inicial">Alumnos Extranjeros:</label>
+                            <input type="number" id="alumnos-extranjeros-inicial" name="alumnos_extranjeros_inicial" min="0" value="0">
+                        </div>
+                        <div class="form-group">
+                            <label for="alumnos-indigenas-inicial">Alumnos de Pueblos Originarios:</label>
+                            <input type="number" id="alumnos-indigenas-inicial" name="alumnos_indigenas_inicial" min="0" value="0">
+                        </div>
+                        <div class="form-group">
+                            <label for="alumnos-discapacidad-inicial">Alumnos con Discapacidad:</label>
+                            <input type="number" id="alumnos-discapacidad-inicial" name="alumnos_discapacidad_inicial" min="0" value="0">
+                        </div>
+                    </div>
+                </fieldset>
+            </div>
+            
+            <div class="card">
+                <fieldset>
+                    <legend>Estadística Final</legend>
+                    <div class="form-grid">
+                         <div class="form-group">
+                            <label for="total-alumnos-final">Total de Alumnos:</label>
+                            <input type="number" id="total-alumnos-final" name="total_alumnos_final" min="0">
+                        </div>
+                        <div class="form-group">
+                            <label for="total-ninas-final">Niñas:</label>
+                            <input type="number" id="total-ninas-final" name="total_ninas_final" min="0">
+                        </div>
+                        <div class="form-group">
+                            <label for="total-ninos-final">Niños:</label>
+                            <input type="number" id="total-ninos-final" name="total_ninos_final" min="0">
+                        </div>
+                    </div>
+                    <hr style="margin: 20px 0;">
+                    <div class="form-grid">
+                        <div class="form-group">
+                            <label for="alumnos-reprobados">Alumnos Reprobados:</label>
+                            <input type="number" id="alumnos-reprobados" name="alumnos_reprobados" min="0" value="0">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="alumnos-nuevos">Altas (Alumnos Nuevos):</label>
+                        <textarea id="alumnos-nuevos" name="alumnos_nuevos_detalle" placeholder="Ej: Juan Pérez (Ingresó el 15/10/2024), María López (Ingresó el 03/11/2024)..."></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="alumnos-bajas">Bajas (Alumnos que se fueron):</label>
+                        <textarea id="alumnos-bajas" name="alumnos_bajas_detalle" placeholder="Ej: Pedro Gómez (Motivo: Cambio de domicilio), Ana García (Motivo: Baja)..."></textarea>
+                    </div>
+                </fieldset>
+            </div>
+
+            <div class="card">
+                <fieldset>
+                    <legend>Herramienta: Cálculo de Edades</legend>
+                    <div class="form-group">
+                        <label for="fecha-corte-ciclo">Fecha de Corte para el Cálculo:</label>
+                        <input type="date" id="fecha-corte-ciclo" value="<?php echo date('Y') . '-09-15'; ?>">
+                    </div>
+                    
+                    <button type="button" id="btn-agregar-alumno" class="btn-secundario"><i class="fas fa-plus"></i> Agregar Alumno a la Lista</button>
+
+                    <table class="tabla-alumnos">
+                        <thead>
+                            <tr>
+                                <th>Nombre Completo del Alumno</th>
+                                <th>Fecha de Nacimiento</th>
+                                <th style="text-align: center;">Edad Calculada</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tabla-alumnos-body">
+                        </tbody>
+                    </table>
+
+                    <div style="text-align: center; margin-top: 25px;">
+                        <button type="button" id="btn-calcular-edades" class="btn-primario"><i class="fas fa-calculator"></i> Calcular Todas las Edades</button>
+                    </div>
+                </fieldset>
+            </div>
+
+            <div style="text-align: center;">
+                <button type="submit" class="btn-exito" style="padding: 15px 40px; font-size: 1.2rem;"><i class="fas fa-save"></i> Guardar Estadística del Grupo</button>
+            </div>
+        </form>
+
+        <section class="return-section">
+            <a href="index.php" class="btn-return"><span>⬅️</span><span>Regresar al Menú Principal</span></a>
+        </section>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const totalAlumnosInput = document.getElementById('total-alumnos-inicial');
+            const ninasInput = document.getElementById('total-ninas-inicial');
+            const ninosInput = document.getElementById('total-ninos-inicial');
+            const validacionDiv = document.getElementById('validacion-total');
+
+            function validarTotal() {
+                const total = parseInt(totalAlumnosInput.value) || 0;
+                const ninas = parseInt(ninasInput.value) || 0;
+                const ninos = parseInt(ninosInput.value) || 0;
+                if (total === 0 && (ninas > 0 || ninos > 0)) {
+                    validacionDiv.textContent = '⚠️ El campo "Total de Alumnos" también debe llenarse.';
+                    validacionDiv.style.color = 'orange';
+                    return;
+                };
+
+                if ((ninas + ninos) !== total) {
+                    validacionDiv.textContent = '⚠️ La suma de niñas y niños no coincide con el total de alumnos.';
+                    validacionDiv.style.color = 'orange';
+                } else if (total > 0) {
+                    validacionDiv.textContent = '✅ El total coincide.';
+                    validacionDiv.style.color = 'var(--color-exito)';
+                } else {
+                    validacionDiv.textContent = '';
+                }
+            }
+            totalAlumnosInput.addEventListener('input', validarTotal);
+            ninasInput.addEventListener('input', validarTotal);
+            ninosInput.addEventListener('input', validarTotal);
+
+            const btnAgregarAlumno = document.getElementById('btn-agregar-alumno');
+            const tablaBody = document.getElementById('tabla-alumnos-body');
+            const btnCalcularEdades = document.getElementById('btn-calcular-edades');
+            const fechaCorteInput = document.getElementById('fecha-corte-ciclo');
+
+            btnAgregarAlumno.addEventListener('click', function() {
+                const nuevaFila = document.createElement('tr');
+                nuevaFila.innerHTML = `
+                    <td><input type="text" placeholder="Nombre y apellidos..."></td>
+                    <td><input type="date"></td>
+                    <td class="edad-calculada">---</td>
+                `;
+                tablaBody.appendChild(nuevaFila);
+            });
+
+            btnCalcularEdades.addEventListener('click', function() {
+                const fechaCorteString = fechaCorteInput.value;
+                if (!fechaCorteString) {
+                    alert('Por favor, selecciona una fecha de corte para poder calcular las edades.');
+                    return;
+                }
+                const fechaCorte = new Date(fechaCorteString + "T00:00:00");
+
+                const filas = tablaBody.getElementsByTagName('tr');
+                for (let i = 0; i < filas.length; i++) {
+                    const fila = filas[i];
+                    const inputFechaNacimiento = fila.querySelector('input[type="date"]');
+                    const celdaEdad = fila.querySelector('.edad-calculada');
+                    if (inputFechaNacimiento.value) {
+                        const fechaNacimiento = new Date(inputFechaNacimiento.value + "T00:00:00");
+                        let edad = fechaCorte.getFullYear() - fechaNacimiento.getFullYear();
+                        const mesCorte = fechaCorte.getMonth();
+                        const mesNacimiento = fechaNacimiento.getMonth();
+
+                        if (mesCorte < mesNacimiento || (mesCorte === mesNacimiento && fechaCorte.getDate() < fechaNacimiento.getDate())) {
+                            edad--;
+                        }
+                        celdaEdad.textContent = edad >= 0 ? edad : "N/A";
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>

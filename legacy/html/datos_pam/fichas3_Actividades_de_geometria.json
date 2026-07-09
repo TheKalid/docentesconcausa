@@ -1,0 +1,467 @@
+[
+  {
+    "Numero": "44",
+    "Titulo": "Línea recta",
+    "Proposito": "Identificar, trazar y diferenciar la línea recta de otras formas.",
+    "Contenidos": ["Líneas rectas", "Trazado", "Comparación"],
+    "Materiales": ["Hojas", "Reglas", "Lápices"],
+    "Organizacion": "Individual y grupal",
+    "Pasos": [
+      "Explicar qué es una línea recta y mostrar ejemplos.",
+      "Pedir a los alumnos que tracen varias líneas rectas usando regla.",
+      "Comparar las rectas trazadas con líneas curvas."
+    ],
+    "PreguntasGuia": [
+      "¿Cómo se diferencia una línea recta de una curva?",
+      "¿Dónde podemos encontrar líneas rectas en el aula?"
+    ],
+    "Variantes": ["Trazar líneas rectas en diferentes direcciones (horizontal, vertical, diagonal)."],
+    "Evaluacion": [
+      "Traza correctamente 5 líneas rectas.",
+      "Identifica objetos rectos en el entorno."
+    ],
+    "Evidencias": ["Hojas con trazos", "Fotos de objetos señalados"]
+  },
+  {
+    "Numero": "45",
+    "Titulo": "Línea curva",
+    "Proposito": "Reconocer y diferenciar la línea curva de la recta.",
+    "Contenidos": ["Líneas curvas", "Comparación de formas"],
+    "Materiales": ["Hojas", "Lápices", "Objetos con curvas"],
+    "Organizacion": "Individual",
+    "Pasos": [
+      "Mostrar ejemplos de líneas curvas en objetos (aros, círculos).",
+      "Pedir que tracen varias líneas curvas en la hoja.",
+      "Comparar con rectas ya trazadas."
+    ],
+    "PreguntasGuia": [
+      "¿Qué diferencia ves entre esta curva y una recta?",
+      "¿Dónde observas curvas en la naturaleza?"
+    ],
+    "Variantes": ["Trazar curvas abiertas y cerradas."],
+    "Evaluacion": [
+      "Traza al menos 5 curvas.",
+      "Explica la diferencia con la línea recta."
+    ],
+    "Evidencias": ["Hojas con curvas", "Fotos de objetos curvos"]
+  },
+  {
+    "Numero": "46",
+    "Titulo": "Carpetitas de papel",
+    "Proposito": "Explorar figuras geométricas mediante recortes y dobleces.",
+    "Contenidos": ["Figuras geométricas planas", "Simetría", "Construcción de formas"],
+    "Materiales": ["Hojas cuadradas", "Tijeras", "Colores"],
+    "Organizacion": "Individual y parejas",
+    "Pasos": [
+      "Doblar las hojas en diferentes formas (triángulo, rectángulo, cuadrado).",
+      "Recortar figuras al borde de los dobleces.",
+      "Abrir la hoja y observar las figuras generadas."
+    ],
+    "PreguntasGuia": [
+      "¿Qué figuras aparecieron después de recortar?",
+      "¿Por qué aparecen repetidas las formas?"
+    ],
+    "Variantes": ["Colorear las figuras para resaltar la simetría."],
+    "Evaluacion": [
+      "Reconoce al menos 3 figuras distintas en su carpetita.",
+      "Explica cómo los dobleces generaron simetría."
+    ],
+    "Evidencias": ["Carpetitas recortadas", "Fotos de figuras obtenidas"]
+  },
+  {
+    "Numero": "47",
+    "Titulo": "Marcas en masa",
+    "Proposito": "Identificar y construir figuras geométricas usando masa o plastilina.",
+    "Contenidos": ["Círculo", "Triángulo", "Cuadrado", "Rectángulo"],
+    "Materiales": ["Masa o plastilina", "Palitos", "Tarjetas con figuras"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Dar masa a los equipos y pedir que construyan figuras básicas.",
+      "Comparar las construcciones con las tarjetas modelo.",
+      "Comentar qué características tiene cada figura."
+    ],
+    "PreguntasGuia": [
+      "¿Qué diferencia hay entre un cuadrado y un rectángulo?",
+      "¿Qué forma es más fácil construir con la masa?"
+    ],
+    "Variantes": ["Construir figuras tridimensionales (cubos, esferas)."],
+    "Evaluacion": [
+      "Construye correctamente al menos 3 figuras.",
+      "Nombra las características de cada figura (lados, vértices)."
+    ],
+    "Evidencias": ["Fotos de figuras en masa", "Notas de observaciones"]
+  },
+  {
+    "Numero": "48",
+    "Titulo": "Recortan envases",
+    "Proposito": "Reconocer y clasificar figuras planas en superficies de objetos cotidianos.",
+    "Contenidos": ["Reconocimiento de figuras geométricas"],
+    "Materiales": ["Envases de cartón o plástico", "Tijeras", "Pegamento"],
+    "Organizacion": "Parejas",
+    "Pasos": [
+      "Recortar superficies planas de envases.",
+      "Identificar las figuras resultantes (cuadrados, rectángulos, círculos).",
+      "Clasificar en grupos de la misma figura."
+    ],
+    "PreguntasGuia": [
+      "¿Qué figura encontraste más veces?",
+      "¿Qué diferencia hay entre estas figuras?"
+    ],
+    "Variantes": ["Usar envolturas de regalo o cajas pequeñas."],
+    "Evaluacion": [
+      "Clasifica correctamente al menos 3 tipos de figuras.",
+      "Explica una diferencia entre dos figuras."
+    ],
+    "Evidencias": ["Colección de recortes", "Registro de clasificación"]
+  },
+  {
+    "Numero": "49",
+    "Titulo": "El cuadrado y el rectángulo",
+    "Proposito": "Diferenciar cuadrado y rectángulo a partir de sus lados y ángulos.",
+    "Contenidos": ["Cuadrado", "Rectángulo", "Propiedades de figuras"],
+    "Materiales": ["Hojas", "Reglas", "Cartulinas"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Trazar cuadrados y rectángulos con regla.",
+      "Comparar longitud de lados.",
+      "Comentar similitudes y diferencias."
+    ],
+    "PreguntasGuia": [
+      "¿Qué tienen en común el cuadrado y el rectángulo?",
+      "¿Qué los diferencia?"
+    ],
+    "Variantes": ["Recortar cuadrados y rectángulos y armar mosaicos."],
+    "Evaluacion": [
+      "Dibuja correctamente un cuadrado y un rectángulo.",
+      "Menciona al menos una semejanza y una diferencia."
+    ],
+    "Evidencias": ["Dibujos en hojas", "Notas de comparación"]
+  },
+  {
+    "Numero": "50",
+    "Titulo": "El triángulo",
+    "Proposito": "Identificar triángulos y clasificarlos según sus lados.",
+    "Contenidos": ["Triángulo", "Tipos de triángulos"],
+    "Materiales": ["Hojas", "Tijeras", "Cartulina"],
+    "Organizacion": "Individual",
+    "Pasos": [
+      "Recortar triángulos de cartulina.",
+      "Clasificarlos por lados iguales y diferentes.",
+      "Nombrar tipos de triángulo."
+    ],
+    "PreguntasGuia": [
+      "¿Qué triángulos tienen todos sus lados iguales?",
+      "¿Qué pasa si cambias un lado?"
+    ],
+    "Variantes": ["Clasificar también por ángulos."],
+    "Evaluacion": [
+      "Reconoce al menos 3 tipos de triángulos.",
+      "Clasifica correctamente por lados."
+    ],
+    "Evidencias": ["Colección de triángulos", "Registro de clasificación"]
+  },
+  {
+    "Numero": "51",
+    "Titulo": "El círculo",
+    "Proposito": "Reconocer y construir círculos usando objetos del entorno.",
+    "Contenidos": ["Círculo", "Curvas cerradas"],
+    "Materiales": ["Objetos circulares", "Hojas", "Lápices"],
+    "Organizacion": "Individual",
+    "Pasos": [
+      "Usar objetos redondos como moldes.",
+      "Trazar círculos en hojas.",
+      "Comparar tamaños de los círculos."
+    ],
+    "PreguntasGuia": [
+      "¿Qué objetos de tu salón tienen forma de círculo?",
+      "¿Qué diferencia hay entre un círculo grande y uno pequeño?"
+    ],
+    "Variantes": ["Hacer círculos con compás."],
+    "Evaluacion": [
+      "Traza correctamente al menos 3 círculos.",
+      "Identifica objetos circulares en el aula."
+    ],
+    "Evidencias": ["Hojas con trazos", "Lista de objetos"]
+  },
+  {
+    "Numero": "52",
+    "Titulo": "Sombreros de periódico",
+    "Proposito": "Construir figuras geométricas útiles mediante dobleces.",
+    "Contenidos": ["Figuras planas", "Construcción con papel"],
+    "Materiales": ["Periódicos", "Tijeras"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Doblar hojas de periódico siguiendo instrucciones.",
+      "Formar triángulos y cuadrados en el proceso.",
+      "Comentar qué figuras aparecen."
+    ],
+    "PreguntasGuia": [
+      "¿Qué figuras aparecieron en tu sombrero?",
+      "¿Qué doblez fue necesario para obtenerlo?"
+    ],
+    "Variantes": ["Construir barcos o aviones de papel."],
+    "Evaluacion": [
+      "Elabora al menos un sombrero correctamente.",
+      "Identifica figuras geométricas en el modelo."
+    ],
+    "Evidencias": ["Sombreros de papel", "Fotos de construcción"]
+  },
+  {
+    "Numero": "53",
+    "Titulo": "Rehilete",
+    "Proposito": "Construir un rehilete para identificar triángulos y simetrías.",
+    "Contenidos": ["Triángulo", "Simetría", "Construcción de figuras"],
+    "Materiales": ["Cartulina", "Tijeras", "Clavillo", "Popote"],
+    "Organizacion": "Individual",
+    "Pasos": [
+      "Recortar un cuadrado de cartulina.",
+      "Hacer cortes en diagonal hacia el centro.",
+      "Doblar esquinas alternadas y fijar con un clavillo."
+    ],
+    "PreguntasGuia": [
+      "¿Qué figuras se forman al cortar el cuadrado?",
+      "¿Qué partes son iguales en el rehilete?"
+    ],
+    "Variantes": ["Pintar cada triángulo de diferente color."],
+    "Evaluacion": [
+      "Construye un rehilete que gire.",
+      "Identifica las figuras que lo forman."
+    ],
+    "Evidencias": ["Rehiletes construidos", "Fotos del proceso"]
+  },
+  {
+    "Numero": "54",
+    "Titulo": "Los dobleces",
+    "Proposito": "Reconocer simetría en figuras geométricas mediante dobleces.",
+    "Contenidos": ["Simetría", "Figuras geométricas"],
+    "Materiales": ["Hojas de papel", "Tijeras"],
+    "Organizacion": "Individual",
+    "Pasos": [
+      "Doblar figuras a la mitad.",
+      "Marcar ejes de simetría.",
+      "Comparar mitades iguales."
+    ],
+    "PreguntasGuia": [
+      "¿Qué pasa al doblar la figura?",
+      "¿Qué partes son iguales?"
+    ],
+    "Variantes": ["Usar figuras irregulares."],
+    "Evaluacion": [
+      "Identifica ejes de simetría en al menos 3 figuras.",
+      "Explica qué significa simetría."
+    ],
+    "Evidencias": ["Hojas dobladas", "Fotos de comparación"]
+  },
+  {
+    "Numero": "55",
+    "Titulo": "Envolturas para regalo",
+    "Proposito": "Explorar formas geométricas al envolver objetos.",
+    "Contenidos": ["Círculo", "Rectángulo", "Cuadrado"],
+    "Materiales": ["Papel de colores", "Cajas pequeñas", "Cinta adhesiva"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Elegir un objeto y envolverlo.",
+      "Observar qué figuras aparecen al cortar el papel.",
+      "Comparar envolturas entre equipos."
+    ],
+    "PreguntasGuia": [
+      "¿Qué figuras observaste en tu envoltura?",
+      "¿Qué fue más fácil envolver: un cubo o un cilindro?"
+    ],
+    "Variantes": ["Usar papel transparente para resaltar formas."],
+    "Evaluacion": [
+      "Envolvió correctamente un objeto.",
+      "Identificó al menos 2 figuras geométricas en la envoltura."
+    ],
+    "Evidencias": ["Fotos de envolturas", "Notas de observaciones"]
+  },
+  {
+    "Numero": "56",
+    "Titulo": "Rompecabezas de cuadrado",
+    "Proposito": "Reconstruir cuadrados a partir de piezas.",
+    "Contenidos": ["Cuadrado", "Composición y descomposición de figuras"],
+    "Materiales": ["Rompecabezas recortado", "Cartulina"],
+    "Organizacion": "Parejas",
+    "Pasos": [
+      "Entregar piezas de un cuadrado.",
+      "Pedir que lo reconstruyan.",
+      "Discutir las estrategias usadas."
+    ],
+    "PreguntasGuia": [
+      "¿Qué piezas usaste primero?",
+      "¿Cómo comprobaste que formaba un cuadrado?"
+    ],
+    "Variantes": ["Cronometrar el armado."],
+    "Evaluacion": [
+      "Reconstruye correctamente el cuadrado.",
+      "Explica cómo lo hizo."
+    ],
+    "Evidencias": ["Fotos del rompecabezas armado"]
+  },
+  {
+    "Numero": "57",
+    "Titulo": "Rompecabezas de rectángulo",
+    "Proposito": "Reconstruir rectángulos a partir de piezas.",
+    "Contenidos": ["Rectángulo", "Composición y descomposición de figuras"],
+    "Materiales": ["Rompecabezas recortado", "Cartulina"],
+    "Organizacion": "Parejas",
+    "Pasos": [
+      "Entregar piezas de un rectángulo.",
+      "Reconstruir la figura completa.",
+      "Comparar con el modelo."
+    ],
+    "PreguntasGuia": [
+      "¿Qué diferencias encontraste con el cuadrado?",
+      "¿Qué pistas te ayudaron?"
+    ],
+    "Variantes": ["Competencia por tiempo."],
+    "Evaluacion": [
+      "Reconstruye correctamente el rectángulo.",
+      "Explica cómo identificó las piezas."
+    ],
+    "Evidencias": ["Fotos del rompecabezas armado"]
+  },
+  {
+    "Numero": "58",
+    "Titulo": "Rompecabezas de círculo",
+    "Proposito": "Reconstruir círculos a partir de piezas.",
+    "Contenidos": ["Círculo", "Composición de figuras"],
+    "Materiales": ["Rompecabezas recortado", "Cartulina"],
+    "Organizacion": "Parejas",
+    "Pasos": [
+      "Entregar piezas de un círculo.",
+      "Armar la figura completa.",
+      "Discutir la dificultad del armado."
+    ],
+    "PreguntasGuia": [
+      "¿Qué diferencia tuviste al armar el círculo?",
+      "¿Qué parte fue más difícil?"
+    ],
+    "Variantes": ["Aumentar número de piezas."],
+    "Evaluacion": [
+      "Reconstruye correctamente el círculo.",
+      "Explica las dificultades encontradas."
+    ],
+    "Evidencias": ["Fotos del rompecabezas armado"]
+  },
+  {
+    "Numero": "59",
+    "Titulo": "Rompecabezas",
+    "Proposito": "Armar diferentes figuras geométricas con piezas sueltas.",
+    "Contenidos": ["Cuadrado", "Rectángulo", "Círculo", "Triángulo"],
+    "Materiales": ["Piezas de rompecabezas", "Cartulina"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Entregar varias piezas.",
+      "Construir diferentes figuras.",
+      "Comparar con modelos."
+    ],
+    "PreguntasGuia": [
+      "¿Qué figuras pudiste armar?",
+      "¿Qué fue más fácil, un cuadrado o un círculo?"
+    ],
+    "Variantes": ["Armar figuras inventadas."],
+    "Evaluacion": [
+      "Reconstruye al menos 2 figuras correctamente.",
+      "Explica cómo las armó."
+    ],
+    "Evidencias": ["Fotos de rompecabezas armados"]
+  },
+  {
+    "Numero": "60",
+    "Titulo": "Jugamos con ligas",
+    "Proposito": "Construir figuras geométricas usando ligas y tablas con clavos.",
+    "Contenidos": ["Figuras geométricas", "Construcción de formas"],
+    "Materiales": ["Tableros con clavos", "Ligas de colores"],
+    "Organizacion": "Parejas",
+    "Pasos": [
+      "Dar un tablero con clavos.",
+      "Usar ligas para formar figuras.",
+      "Comparar resultados."
+    ],
+    "PreguntasGuia": [
+      "¿Qué figura formaste?",
+      "¿Qué otras podrías formar?"
+    ],
+    "Variantes": ["Formar figuras tridimensionales con varias tablas."],
+    "Evaluacion": [
+      "Construye al menos 3 figuras distintas.",
+      "Nombra correctamente las figuras."
+    ],
+    "Evidencias": ["Fotos de las figuras con ligas"]
+  },
+
+  {
+    "Numero": "61",
+    "Titulo": "Cuentan cuadros",
+    "Proposito": "Reconocer la cuadrícula como unidad de medida y desarrollar el conteo.",
+    "Contenidos": ["Conteo", "Cuadrícula", "Área inicial"],
+    "Materiales": ["Hojas cuadriculadas", "Lápices de colores"],
+    "Organizacion": "Individual",
+    "Pasos": [
+      "Dar a cada niño una hoja cuadriculada.",
+      "Pedir que coloreen figuras usando cierto número de cuadros.",
+      "Contar los cuadros de cada figura y comparar con compañeros."
+    ],
+    "PreguntasGuia": [
+      "¿Cuántos cuadros coloreaste?",
+      "¿Qué figura usó más cuadros?",
+      "¿Se puede formar la misma figura con igual número de cuadros?"
+    ],
+    "Variantes": ["Formar letras o números con cuadros coloreados."],
+    "Evaluacion": [
+      "Cuenta correctamente los cuadros usados.",
+      "Compara cantidades entre figuras."
+    ],
+    "Evidencias": ["Hojas cuadriculadas coloreadas", "Notas de conteo"]
+  },
+  {
+    "Numero": "62",
+    "Titulo": "Ensalada de frutas",
+    "Proposito": "Relacionar figuras geométricas con objetos de la vida cotidiana.",
+    "Contenidos": ["Figuras geométricas", "Correspondencia objeto–figura"],
+    "Materiales": ["Frutas reales o ilustraciones", "Tarjetas con figuras"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Mostrar diferentes frutas (manzanas, naranjas, plátanos).",
+      "Relacionar cada fruta con la figura geométrica que se le asemeje.",
+      "Clasificar las frutas según su forma."
+    ],
+    "PreguntasGuia": [
+      "¿Qué fruta se parece a un círculo?",
+      "¿Cuál se parece a un cilindro?",
+      "¿Qué otras formas encuentras en los alimentos?"
+    ],
+    "Variantes": ["Ampliar con verduras u otros objetos escolares."],
+    "Evaluacion": [
+      "Relaciona correctamente 3 frutas con figuras geométricas.",
+      "Explica la semejanza observada."
+    ],
+    "Evidencias": ["Fotos de la actividad", "Tabla de clasificación"]
+  },
+  {
+    "Numero": "63",
+    "Titulo": "Haz lo que yo",
+    "Proposito": "Reforzar el reconocimiento de figuras y posiciones mediante el juego de imitación.",
+    "Contenidos": ["Figuras geométricas", "Espacialidad", "Juego simbólico"],
+    "Materiales": ["Tarjetas con figuras", "Espacio libre en el aula"],
+    "Organizacion": "Grupal",
+    "Pasos": [
+      "El maestro o un alumno hace una figura con su cuerpo o con objetos.",
+      "Los demás deben imitar la figura o la posición.",
+      "Repetir con variaciones hasta que todos participen."
+    ],
+    "PreguntasGuia": [
+      "¿Qué figura imitaste?",
+      "¿Qué fue más difícil de reproducir?",
+      "¿Qué otra figura se puede representar con el cuerpo?"
+    ],
+    "Variantes": ["Hacer las figuras en el piso con cuerdas o gis."],
+    "Evaluacion": [
+      "Imita correctamente al menos 3 figuras.",
+      "Identifica la figura representada por sus compañeros."
+    ],
+    "Evidencias": ["Fotos de las imitaciones", "Registro del juego"]
+  }
+]
+

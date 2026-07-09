@@ -1,0 +1,338 @@
+[
+  {
+    "id": "MORADA-1",
+    "color": "MORADA",
+    "numero": 1,
+    "nivel": "Generales / Transversales",
+    "titulo": "IDENTIFICAN PORTADORES DE TEXTO",
+    "objetivo": [
+      "Advertir que los diversos portadores de textos contienen distintos tipos de información",
+      "Advertir que el lenguaje usado varía en cada uno de ellos",
+      "Descubrir que la lengua escrita cumple diversas funciones y no pertenece sólo a los libros",
+      "Entender que la lectura y la escritura no son sólo una preocupación escolar que sirve para pasar de año",
+      "Reconocer que existen distintos tipos de letra"
+    ],
+    "descripcion": "El maestro se asegura de que la biblioteca del grupo esté enriquecida con diversos materiales que los niños traen de sus casas (recetas, libros, etiquetas de envases, folletos) para que identifiquen diferentes tipos de información y usos de la lengua escrita."
+  },
+  {
+    "id": "MORADA-2",
+    "color": "MORADA",
+    "numero": 2,
+    "nivel": "Generales / Transversales",
+    "titulo": "APROVECHAMIENTO DEL MATERIAL ESCOLAR",
+    "objetivo": "Familiarizarse con las características físicas de distintos portadores de textos a través de su clasificación y ordenamiento.",
+    "descripcion": "Semanalmente, diferentes equipos de niños ordenan el material de la biblioteca del salón (revistas, periódicos, cartas, etc.). El maestro los estimula a usar sus propios criterios de clasificación (tamaño, color, tipo de papel, tipo de letra) y luego indaga sobre el criterio que utilizaron para organizar el material."
+  },
+  {
+    "id": "MORADA-3",
+    "color": "MORADA",
+    "numero": 3,
+    "nivel": "Generales / Transversales",
+    "titulo": "JUEGOS DE ADIVINANZA",
+    "objetivo": "Anticipar el contenido y la función de diversos portadores de texto a partir de sus características y fragmentos de su contenido.",
+    "descripcion": [
+      "El maestro muestra un portador de texto (revista, receta, etc.) y pregunta al grupo qué es, de qué trata y para quién será.",
+      "Presenta varios portadores y pregunta dónde se podría encontrar información específica (ej. el programa de TV en un periódico).",
+      "Lee un párrafo de uno de los portadores sin mostrar cuál es, y los niños deben adivinar de qué material lo leyó, justificando su respuesta.",
+      "Se realiza la misma actividad incluyendo varios portadores del mismo tipo (ej. tres cuentos) para que identifiquen que textos similares se pueden encontrar en portadores similares.",
+      "Finalmente, los niños se turnan para 'hacer como si leyeran' un portador, imitando el lenguaje correspondiente para que el grupo adivine de cuál se trata."
+    ]
+  },
+  {
+    "id": "MORADA-4",
+    "color": "MORADA",
+    "numero": 4,
+    "nivel": "Generales / Transversales",
+    "titulo": "ANTICIPAN EL CONTENIDO DE UN TEXTO",
+    "objetivo": "Realizar anticipaciones sobre el contenido de un texto, utilizando como apoyo las imágenes y las características del texto mismo, para desarrollar estrategias de lectura.",
+    "descripcion": [
+      "Con apoyo en la imagen ('¿Dónde estará?'): El maestro pide a los niños que busquen información específica en un portador de texto (ej. recetas de cocina en una revista), guiándose por las imágenes y la diagramación.",
+      "Con apoyo en la imagen ('¿Qué dirá?'): El maestro señala un texto junto a una imagen y pide a los niños que imaginen qué está escrito. Se crea un conflicto cognitivo sugiriendo que podría ser una palabra o una oración, y se les pide que justifiquen sus ideas.",
+      "Con apoyo en imágenes y textos intercambiados ('Y ahora ¿Qué dice?'): Se usan tarjetas con imágenes y textos por separado. Se combinan (ej. imagen con muchos elementos y texto corto, o viceversa) para que los niños anticipen el contenido. Luego se intercambian los textos de las imágenes y se discute si el significado cambia.",
+      "Anticipación a partir de acciones: El maestro escribe una oración sobre una acción que un niño acaba de realizar (ej. 'Raúl trajo un lápiz') y pide al grupo que anticipe qué dice el texto, usando el nombre del niño como pista."
+    ]
+  },
+  {
+    "id": "MORADA-5",
+    "color": "MORADA",
+    "numero": 5,
+    "nivel": "Generales / Transversales",
+    "titulo": "EL PRÉSTAMO DE LOS LIBROS",
+    "objetivo": [
+      "Descubrir la función de la escritura en la organización de una biblioteca: identificar materiales, registrar lectores y llevar control de préstamos.",
+      "Aprender de forma activa el funcionamiento de una biblioteca y el rol del bibliotecario."
+    ],
+    "descripcion": [
+      "Se organiza un sistema de préstamo para la biblioteca del aula. Cada niño elabora su propia credencial de lector, con su foto y su nombre escrito con lápiz.",
+      "El maestro prepara una ficha para cada libro con su título y autor, y un espacio para registrar quién se lo lleva y las fechas de préstamo y devolución.",
+      "Se designa a un bibliotecario (rol rotativo cada quince días) que se encarga de anotar en la ficha el nombre del lector y la fecha, y de guardar la ficha junto con la credencial del niño hasta que el libro sea devuelto.",
+      "Se realizan actividades relacionadas, como analizar las fichas para ver quién ha leído un libro o cuáles libros están prestados."
+    ]
+  },
+  {
+    "id": "MORADA-6",
+    "color": "MORADA",
+    "numero": 6,
+    "nivel": "Generales / Transversales",
+    "titulo": "TRABAJO CON LIBROS DE CUENTOS",
+    "objetivo": "Familiarizarse con la lectura como fuente de placer y conocimiento, estimulando la imaginación, la atención, la comprensión y el vocabulario.",
+    "descripcion": "El maestro lee cuentos al grupo, asegurándose de que todos puedan ver y oír bien. Lee con buena entonación, anuncia el título, y a veces desliza el dedo por los renglones para mostrar la direccionalidad. Ayuda a los niños a descubrir el significado de palabras nuevas a partir del contexto, haciendo preguntas que los guíen antes de dar la definición."
+  },
+  {
+    "id": "MORADA-7",
+    "color": "MORADA",
+    "numero": 7,
+    "nivel": "Generales / Transversales",
+    "titulo": "INTERPRETAN LAS IMÁGENES DEL CUENTO",
+    "objetivo": "Relacionar las imágenes de un cuento con la narración oral para construir el significado global de la historia.",
+    "descripcion": "Después de leer cada página de un cuento, el maestro muestra la imagen correspondiente para que los niños la comenten. Al terminar la lectura, hace preguntas sobre la trama y los personajes para verificar la comprensión. Luego, vuelve a mostrar algunas imágenes y pregunta qué estaba pasando en esa parte específica del cuento."
+  },
+  {
+    "id": "MORADA-8",
+    "color": "MORADA",
+    "numero": 8,
+    "nivel": "Generales / Transversales",
+    "titulo": "DESCUBREN LA RELACIÓN IMAGEN-TEXTO",
+    "objetivo": "Comprender que el texto escrito y la imagen son dos fuentes de información diferentes y que el texto puede proporcionar detalles que la imagen no muestra.",
+    "descripcion": "Mientras lee un cuento, el maestro se detiene en una página y pregunta a los niños qué ven en ella (imagen y texto). Pregunta para qué sirve el texto y qué creen que dice. Para hacer notar que el texto agrega información, el maestro lee una parte que describe pensamientos o acciones no visibles en la ilustración y pregunta: '¿Dónde está esto en el dibujo?'."
+  },
+  {
+    "id": "MORADA-9",
+    "color": "MORADA",
+    "numero": 9,
+    "nivel": "Generales / Transversales",
+    "titulo": "LA DIRECCIÓN EN LA LECTURA",
+    "objetivo": "Descubrir la direccionalidad convencional de la lectura (pasar las páginas en orden, leer de izquierda a derecha y de arriba hacia abajo) para poder construir el significado de un texto.",
+    "descripcion": [
+      "Al pasar las páginas: Usando un cuento conocido, el maestro pregunta por dónde se empieza a leer. Lee deliberadamente una página incorrecta para que los niños noten que el relato no tiene sentido y así descubran la necesidad de seguir el orden correcto.",
+      "En una página: El maestro lee unos renglones y se detiene, preguntando dónde debe seguir. Sigue la dirección que los niños le indiquen (ej. de derecha a izquierda), lo que resultará en una lectura sin sentido, y luego la contrasta con la lectura correcta para que deduzcan la dirección convencional."
+    ]
+  },
+  {
+    "id": "MORADA-10",
+    "color": "MORADA",
+    "numero": 10,
+    "nivel": "Generales / Transversales",
+    "titulo": "LEEN CUENTOS",
+    "objetivo": "Fomentar la lectura como una actividad placentera y colaborativa, y propiciar el intercambio de hipótesis entre niños de diferentes niveles de conceptualización.",
+    "descripcion": "El maestro estimula a los alumnos a que, en grupos que ellos mismos formen, escojan cuentos de la biblioteca para tratar de leerlos. Se promueve que se ayuden unos a otros, permitiendo que los niños más avanzados apoyen a los que tienen un nivel de conceptualización menor. Para los niños que ya lo permitan, se les anima a leer un cuento solos, comentar lo que entendieron y realizar un dibujo con un texto alusivo."
+  },
+  {
+    "id": "MORADA-11",
+    "color": "MORADA",
+    "numero": 11,
+    "nivel": "Generales / Transversales",
+    "titulo": "INVENTAN CUENTOS",
+    "objetivo": "Usar la escritura como un medio para registrar una creación colectiva y preservar la memoria.",
+    "descripcion": "El maestro propone inventar un cuento entre todo el grupo, iniciando frases para que los niños las completen (ej. 'Había una vez...'). Ante la pregunta de cómo hacer para no olvidar el cuento, se llega a la conclusión de que hay que escribirlo. El maestro va anotando el cuento en el pizarrón a medida que lo crean, para luego leerlo y guardarlo para formar un libro de cuentos del grupo."
+  },
+  {
+    "id": "MORADA-12",
+    "color": "MORADA",
+    "numero": 12,
+    "nivel": "Generales / Transversales",
+    "titulo": "MODIFICAN CUENTOS",
+    "objetivo": "Participar en la construcción de una trama, alterando un cuento conocido, para reflexionar sobre la estructura narrativa.",
+    "descripcion": "El maestro lee un cuento conocido pero hace pausas para que los niños completen las frases, proponiendo alternativas a la historia original (pueden cambiar un sustantivo, un verbo, etc.). El maestro anota en el pizarrón las modificaciones. Al final, lee la versión modificada por los niños y la compara con la versión original del libro."
+  },
+  {
+    "id": "MORADA-13",
+    "color": "MORADA",
+    "numero": 13,
+    "nivel": "Generales / Transversales",
+    "titulo": "ESCENIFICAN CUENTOS",
+    "objetivo": "Interpretar y representar una historia, ya sea leída o inventada, de forma colaborativa.",
+    "descripcion": "Los niños escenifican un cuento leído por el maestro o inventado por ellos. Se les anima a improvisar disfraces y elementos con el material disponible en el aula. Si durante la representación se desvían de la trama original, el maestro interviene para recordarles esa parte del cuento, leyéndola de nuevo si es necesario."
+  },
+  {
+    "id": "MORADA-14",
+    "color": "MORADA",
+    "numero": 14,
+    "nivel": "Generales / Transversales",
+    "titulo": "PRESENCIAN Y PARTICIPAN EN ACTOS DE LECTURA",
+    "objetivo": "Observar las múltiples funciones de la lectura en la vida cotidiana y los distintos tipos de lenguaje asociados a diferentes portadores de texto.",
+    "descripcion": "Durante el año, el maestro lee frecuentemente al grupo diversos tipos de textos: cuentos, noticias de periódico, biografías, definiciones del diccionario, recetas médicas, cartas, telegramas y folletos de propaganda. En estas lecturas, se asegura de que los niños puedan ver el texto y ocasionalmente señala con el dedo para reforzar la direccionalidad de la lectura."
+  },
+  {
+    "id": "MORADA-15",
+    "color": "MORADA",
+    "numero": 15,
+    "nivel": "Generales / Transversales",
+    "titulo": "DIFERENCIAS ENTRE HABLAR Y LEER",
+    "objetivo": "Distinguir entre el lenguaje oral espontáneo y el lenguaje que proviene de la lectura de un texto.",
+    "descripcion": "El maestro se coloca de espaldas al grupo y alterna entre decir frases espontáneas ('¡Ay, me ésta empezando a doler la cabeza!') y leer fragmentos de diferentes textos. Después de cada intervención, los niños deben decir si el maestro estaba hablando o leyendo."
+  },
+  {
+    "id": "MORADA-16",
+    "color": "MORADA",
+    "numero": 16,
+    "nivel": "Generales / Transversales",
+    "titulo": "DIFERENCIAN LA LECTURA DE OTRAS ACCIONES",
+    "objetivo": "Identificar los componentes esenciales de un acto de lectura y distinguirlo de acciones similares pero que no constituyen lectura.",
+    "descripcion": "El maestro, con un libro en la mano y de frente al grupo, realiza una serie de acciones y después de cada una, los niños deben decir si estaba leyendo o no, y por qué. Las acciones incluyen: hojear el libro rápidamente, deslizar el dedo por el texto con los ojos cerrados, mirar el texto mientras emite sonidos sin sentido, y finalmente, leer en voz alta."
+  },
+  {
+    "id": "MORADA-17",
+    "color": "MORADA",
+    "numero": 17,
+    "nivel": "Generales / Transversales",
+    "titulo": "IDENTIFICAN LA LECTURA SILENCIOSA",
+    "objetivo": "Reconocer la lectura silenciosa como una forma válida de lectura.",
+    "descripcion": "Similar a la actividad anterior, el maestro realiza acciones frente al grupo, pero esta vez incluye la lectura silenciosa, procurando que se note la fijación de la mirada y el movimiento de los ojos. También puede leer en silencio mientras desliza el dedo por los renglones o moviendo los labios sin emitir voz. Los niños deben identificar en qué momentos estaba leyendo."
+  },
+  {
+    "id": "MORADA-18",
+    "color": "MORADA",
+    "numero": 18,
+    "nivel": "Generales / Transversales",
+    "titulo": "DESCUBREN DISTINTOS TIPOS DE LETRA",
+    "objetivo": "Reconocer y familiarizarse con diferentes tipos de letra (script, imprenta mayúscula, cursiva) tanto en textos impresos como manuscritos.",
+    "descripcion": "El maestro se asegura de que la biblioteca contenga textos con diversos tipos de letra. Al escribir en el pizarrón, utiliza tanto script como imprenta mayúscula (ej. 'MARIO', 'Mario come dulces') para que los niños adviertan las diferencias. También puede mostrarles ejemplos de su propia escritura en cursiva, como al escribir un recado, informándoles lo que dice el texto."
+  },
+  {
+    "id": "MORADA-19",
+    "color": "MORADA",
+    "numero": 19,
+    "nivel": "Generales / Transversales",
+    "titulo": "HACEN INTENTOS DE ESCRITURA",
+    "objetivo": "Utilizar la escritura para diversas funciones comunicativas, expresándose libremente según su nivel de conceptualización.",
+    "descripcion": "El maestro invita constantemente a los niños a escribir, con la consigna de que lo hagan 'como ellos crean y puedan'. Se les sugiere escribir textos funcionales como una carta a sus padres, lo que hicieron el fin de semana, un saludo a un compañero enfermo o tarjetas para diversas ocasiones (Navidad, cumpleaños), dándoles libertad para realizar el trabajo completo (dibujar, recortar, escribir)."
+  },
+  {
+    "id": "MORADA-20",
+    "color": "MORADA",
+    "numero": 20,
+    "nivel": "Generales / Transversales",
+    "titulo": "COLECCIONES DE PALABRAS",
+    "objetivo": "Desarrollar un análisis constante de la lengua escrita a través de la creación y uso de una colección personal de palabras (tarjetero) para descubrir las características del sistema de escritura.",
+    "descripcion": [
+      "Cada niño forma durante el año su propia colección de palabras escritas en tarjetas. Se estimula el intercambio y la copia entre compañeros, con la condición de que cada niño sepa leer las palabras que posee.",
+      "Para enriquecer las colecciones, el maestro sugiere actividades como: buscar palabras que empiecen con una letra o sílaba conocida; que empiecen igual que su nombre; escribir palabras largas o cortas; formar palabras con letras móviles y copiarlas; buscar palabras en diversos portadores de texto.",
+      "También se trabaja en el análisis de las palabras del tarjetero para formar otras nuevas, ya sea buscando 'palabras escondidas' o usando las letras conocidas para construir palabras que les gustaría escribir.",
+      "Finalmente, usan las tarjetas para formar oraciones, ya sea buscando las palabras de una oración dictada por el maestro o construyendo enunciados libremente."
+    ]
+  },
+  {
+    "id": "MORADA-21",
+    "color": "MORADA",
+    "numero": 21,
+    "nivel": "Generales / Transversales",
+    "titulo": "LOS DICTADOS",
+    "objetivo": "Reflexionar sobre la escritura de palabras, confrontar opiniones y evaluar el nivel de conceptualización de los alumnos.",
+    "descripcion": [
+      "En el pizarrón: Un niño pasa a escribir una palabra. El maestro guía la reflexión del grupo sobre su escritura ('¿Cuántas letras tiene?', '¿Con qué empieza?'). Una vez corregida, todos la copian.",
+      "Con consulta y autocorrección: El maestro dicta una palabra. Los niños la escriben, comparan con sus compañeros y discuten. Luego, se escribe en el pizarrón, se analiza grupalmente y se da la oportunidad de corregir.",
+      "Sin consulta (Evaluación): El maestro explica que este dictado es para saber cómo escribe cada uno 'solito'. Se realiza en hojas sueltas para evaluar el nivel de cada alumno."
+    ]
+  },
+  {
+    "id": "MORADA-22",
+    "color": "MORADA",
+    "numero": 22,
+    "nivel": "Generales / Transversales",
+    "titulo": "EL USO DEL ALFABETO",
+    "objetivo": "Comprender la función del orden alfabético como una convención para organizar y facilitar la búsqueda de información.",
+    "descripcion": "Cuando los tarjeteros de los niños tienen muchas palabras y se vuelve difícil encontrar una, el maestro plantea la necesidad de ordenarlas. Explica qué es el abecedario y su función. Con ayuda de un abecedario visible en el salón, los niños organizan sus tarjetas alfabéticamente. Se destaca que no es necesario aprenderlo de memoria, sino comprender su utilidad para buscar palabras en diccionarios, directorios o enciclopedias."
+  },
+  {
+    "id": "MORADA-23",
+    "color": "MORADA",
+    "numero": 23,
+    "nivel": "Generales / Transversales",
+    "titulo": "EL TRABAJO CON EL NOMBRE PROPIO",
+    "objetivo": "Utilizar el nombre propio como un modelo de escritura estable para realizar comparaciones y descubrir características del sistema de escritura.",
+    "descripcion": "Al inicio del año, cada niño recibe una tarjeta con su nombre para identificar sus pertenencias. Diariamente, los niños buscan su propia tarjeta, lo que propicia el reconocimiento y la ayuda entre compañeros. El maestro también aprovecha el reparto de cuadernos y trabajos para que los niños intenten leer los nombres de sus compañeros."
+  },
+  {
+    "id": "MORADA-24",
+    "color": "MORADA",
+    "numero": 24,
+    "nivel": "Generales / Transversales",
+    "titulo": "ANÁLISIS Y COMPARACIÓN DE NOMBRES",
+    "objetivo": "Comparar nombres propios para analizar su longitud y características.",
+    "descripcion": "Con las tarjetas de los nombres a la vista, se realizan actividades de análisis. Por equipos, clasifican los nombres en largos y cortos, discutiendo sus criterios. Luego, se comparan en el pizarrón, contando letras y reflexionando sobre la relación entre la longitud sonora y la longitud escrita."
+  },
+  {
+    "id": "MORADA-25",
+    "color": "MORADA",
+    "numero": 25,
+    "nivel": "Generales / Transversales",
+    "titulo": "LAS LETRAS QUE COMPONEN LOS NOMBRES",
+    "objetivo": "Analizar y comparar las grafías que componen los nombres propios para descubrir regularidades y diferencias en el sistema de escritura.",
+    "descripcion": [
+      "Letra inicial: Los niños se agrupan por la letra inicial de sus nombres, los escriben en el pizarrón y los comparan, analizando en qué se parecen y en qué son diferentes.",
+      "Letra final: Se agrupan los nombres que terminan con la misma letra (ej. 'a' u 'o') para que los niños tomen conciencia de la regularidad de género en los nombres.",
+      "Letras iguales en diferente orden: Se analizan casos de nombres que usan las mismas letras pero en orden distinto (ej. ROSA MARÍA / MARÍA ROSA).",
+      "Nombres con raíz común: Se comparan nombres como GABRIEL/GABRIELA para que descubran que en uno está contenida la raíz del otro.",
+      "Nombres compuestos: Se analizan nombres como JUAN JOSÉ para que identifiquen que están formados por dos palabras que conocen.",
+      "Modificaciones (diminutivos, sobrenombres): Se comparan nombres con sus formas afectivas (TERESA/TERESITA, FRANCISCO/PACO) para analizar cómo cambia la escritura, reflexionando si se agregan, quitan o cambian letras."
+    ]
+  },
+  {
+    "id": "MORADA-26",
+    "color": "MORADA",
+    "numero": 26,
+    "nivel": "Generales / Transversales",
+    "titulo": "BUSCAN PALABRAS QUE EMPIEZAN IGUAL QUE EL NOMBRE PROPIO",
+    "objetivo": "Utilizar el conocimiento del nombre propio como punto de partida para la escritura de nuevas palabras.",
+    "descripcion": "Cada niño piensa y escribe palabras que empiecen igual que su nombre. El maestro los alienta a escribir como puedan, utilizando la letra o sílaba inicial de su nombre como ancla para la nueva escritura. Los niños con la misma inicial pueden trabajar juntos para intercambiar ideas."
+  },
+  {
+    "id": "MORADA-27",
+    "color": "MORADA",
+    "numero": 27,
+    "nivel": "Generales / Transversales",
+    "titulo": "ADIVINAN SU NOMBRE ESCRITO",
+    "objetivo": "Deducir un nombre escrito a partir de sus características gráficas (letra inicial, final, longitud).",
+    "descripcion": "Un niño escoge una tarjeta con un nombre sin mostrarla al resto del grupo. Los demás deben adivinar de quién es el nombre haciendo preguntas sobre sus características: '¿Es un nombre largo o corto?', '¿Con qué letra empieza?', '¿Con qué termina?', '¿Cuántas letras tiene?'."
+  },
+  {
+    "id": "MORADA-28",
+    "color": "MORADA",
+    "numero": 28,
+    "nivel": "Generales / Transversales",
+    "titulo": "ENRIQUECEN EL TARJETERO",
+    "objetivo": "Ampliar la colección personal de palabras (tarjetero) con los nombres propios que ya son capaces de leer y escribir.",
+    "descripcion": "El maestro recuerda a los niños que pueden agregar a su colección de tarjetas (tarjetero) todos los nombres de sus compañeros que ya sean capaces de reconocer y leer, para así aumentar su repertorio de palabras conocidas."
+  },
+  {
+    "id": "MORADA-29",
+    "color": "MORADA",
+    "numero": 29,
+    "nivel": "Generales / Transversales",
+    "titulo": "NOMBRES PROPIOS EN ENUNCIADOS",
+    "objetivo": "Reconocer y analizar nombres propios dentro de estructuras sintácticas más complejas (oraciones).",
+    "descripcion": "Se hace referencia a las Fichas de color Rosa Números 26, 27, 28 y 29, donde se trabaja con el reconocimiento y la escritura de nombres propios que forman parte de oraciones."
+  },
+  {
+    "id": "MORADA-30",
+    "color": "MORADA",
+    "numero": 30,
+    "nivel": "Generales / Transversales",
+    "titulo": "PLANIFICACIÓN DE ACTIVIDADES CON LOS NIÑOS",
+    "objetivo": "Descubrir la función de la escritura como herramienta para planificar y guardar memoria de acuerdos colectivos.",
+    "descripcion": "El maestro involucra a los niños en la planificación de las actividades para los siguientes días, tomando en cuenta sus intereses. Una vez que llegan a un acuerdo, el maestro les hace ver la necesidad de escribir el plan para no olvidarlo. Escribe el plan en el pizarrón, los niños lo interpretan, y al día siguiente el maestro consulta la hoja en presencia de ellos para recordar lo que tenían que hacer, demostrando la utilidad de lo escrito."
+  },
+  {
+    "id": "MORADA-31",
+    "color": "MORADA",
+    "numero": 31,
+    "nivel": "Generales / Transversales",
+    "titulo": "LOS ALBUMES",
+    "objetivo": "Utilizar la escritura y el dibujo como medios de expresión para crear sus propios libros (álbumes), valorando sus trabajos como material de lectura para el grupo.",
+    "descripcion": [
+      "Álbum individual: Cada niño elige un tema de su interés, junta material (recortes), dibuja y escribe sobre él, creando su propio álbum. Al terminar, lo presenta al grupo.",
+      "Álbum por equipo: El equipo elige un tema (ej. un cuento leído), discuten los aspectos a incluir, se reparten el trabajo y al final juntan sus hojas para crear un álbum colectivo, decidiendo el título entre todos.",
+      "Álbum del grupo: El maestro forma un álbum con trabajos de todos los niños sobre un mismo tema. Al revisarlo, se aprovecha para que los niños interpreten los textos y reconozcan quién es el autor de cada trabajo. Se estimula la autocorrección, permitiendo que los niños modifiquen con lápiz sus escrituras antiguas si ya no están de acuerdo con ellas."
+    ]
+  },
+  {
+    "id": "MORADA-32",
+    "color": "MORADA",
+    "numero": 32,
+    "nivel": "Generales / Transversales",
+    "titulo": "DIARIO DEL GRUPO",
+    "objetivo": "Reconocer la función de la escritura para guardar memoria y registrar hechos, y descubrir que la escritura es un modelo más preciso que el dibujo.",
+    "descripcion": "Se utiliza un cuaderno como diario del grupo. Cada día, un niño diferente se lo lleva a casa para registrar las actividades realizadas en clase, ya sea dibujando, escribiendo o combinando ambas formas. Al día siguiente, el encargado muestra y explica su trabajo al grupo. Periódicamente, se consulta el diario para recordar eventos pasados o para comparar las producciones del inicio del curso con las actuales y así notar sus avances."
+  }
+]

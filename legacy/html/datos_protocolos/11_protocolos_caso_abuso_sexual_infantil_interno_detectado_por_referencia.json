@@ -1,0 +1,93 @@
+{
+  "Protocolo de Actuación ante Presunto Caso de Abuso Sexual Infantil Interno (Detectado por Referencia)": {
+    "Objetivo": [
+      "Establecer las líneas de actuación ante la detección de un presunto abuso sexual infantil al interior del plantel educativo, identificado por referencia de un tercero.",
+      "Dar certeza de acción a las áreas involucradas, evitando omisiones ante hechos de violencia."
+    ],
+    "Responsabilidades Mínimas de la Comunidad Educativa": [
+      "Aplicar la Constitución Política de los Estados Unidos Mexicanos.",
+      "Aplicar la Ley General de Educación.",
+      "Aplicar la Ley de Educación del Estado Libre y Soberano de Jalisco.",
+      "Aplicar la Ley General de los Derechos de Niñas, Niños y Adolescentes.",
+      "Aplicar la Ley de los Derechos de Niñas, Niños y Adolescentes en el Estado de Jalisco.",
+      "Aplicar la Ley General de Responsabilidades Administrativas.",
+      "Aplicar el Código Penal del Estado de Jalisco y el Código Nacional de Procedimientos Penales.",
+      "Aplicar el Código de Ética y Reglas de Integridad del Estado de Jalisco.",
+      "Respetar las Reglas de Conducta para Escuelas de Educación Básica del Estado de Jalisco.",
+      "Aplicar las disposiciones internas del plantel educativo."
+    ],
+    "Roles y Responsabilidades": {
+      "Docentes, Personal Administrativo y de Apoyo": [
+        "Detectar o recibir referencia de un presunto caso de abuso sexual infantil.",
+        "Registrar la información en la bitácora del plantel.",
+        "Informar al Director de manera inmediata.",
+        "Evitar cualquier conducta que vulnere la dignidad o seguridad de los alumnos.",
+        "Intervenir de manera oportuna ante situaciones de violencia o discriminación."
+      ],
+      "Director": [
+        "Separar al presunto agresor del alumnado si pertenece al personal del plantel.",
+        "Contactar y convocar de inmediato a los padres o tutores para informar los hechos.",
+        "Levantar acta de hechos, asegurando confidencialidad y recabando firmas.",
+        "Orientar a los padres/tutores para interponer denuncia ante Fiscalía del Estado.",
+        "Reportar a la Procuraduría o Delegación correspondiente si los padres no acuden.",
+        "Informar de los hechos al Supervisor Escolar o Jefe de Sector."
+      ],
+      "Padre, Madre o Tutor": [
+        "Acudir al plantel según convocatoria del Director.",
+        "Firmar acta de hechos.",
+        "Interponer denuncia en la Fiscalía del Estado."
+      ],
+      "Supervisor Escolar y/o Jefe de Sector Escolar": [
+        "Dar aviso a la Fiscalía y Procuraduría o Delegación correspondiente.",
+        "Reportar el caso a la Dirección de Psicopedagogía y obtener folio.",
+        "Notificar por escrito a sus superiores hasta la Subsecretaría."
+      ],
+      "Subsecretaría y/o Nivel Educativo": [
+        "Brindar facilidades para el traslado del alumno a otro plantel si lo solicitan los padres."
+      ],
+      "Dirección de Psicopedagogía": [
+        "Recibir reporte y otorgar folio.",
+        "Intervenir con apoyos psicosociales y gestionar con Unidades Administrativas.",
+        "Dar aviso al Órgano Interno de Control.",
+        "Orientar sobre la aplicación del protocolo."
+      ],
+      "Órgano Interno de Control": [
+        "Investigar y sancionar omisiones de servidores públicos conforme a sus atribuciones."
+      ],
+      "Unidades Administrativas de la Secretaría de Educación de Jalisco": [
+        "Ejecutar el proceso de intervención y seguimiento para toda la comunidad educativa."
+      ]
+    },
+    "Procedimiento": [
+      "Detectar o recibir referencia de un presunto caso de abuso sexual infantil.",
+      "Registrar la información en la bitácora del plantel.",
+      "Informar al Director durante la jornada escolar.",
+      "Confirmar el presunto caso, notificar verbal y por escrito la separación del presunto agresor.",
+      "Incluir dos testigos del plantel en la notificación (posiblemente el representante sindical).",
+      "Contactar a los tutores inmediatamente para informar los hechos.",
+      "Si los tutores acuden, levantar acta de hechos y orientar sobre denuncia ante Fiscalía.",
+      "Si los tutores no acuden, reportar a la Procuraduría o Delegación correspondiente.",
+      "Informar con soporte documental al Supervisor Escolar o Jefe de Sector durante la jornada.",
+      "El Supervisor dará aviso a la Fiscalía y Procuraduría en un lapso no mayor a 24 horas.",
+      "El Supervisor reporta a la Dirección de Psicopedagogía en un plazo no mayor a 24 horas.",
+      "La Dirección de Psicopedagogía analiza el caso y emite folio si procede.",
+      "El Supervisor informa por escrito a sus superiores hasta la Subsecretaría en un máximo de 24 horas.",
+      "Psicopedagogía informa al Órgano Interno de Control al día siguiente hábil de su notificación.",
+      "Psicopedagogía gestiona apoyos psicosociales a través de Unidades Administrativas.",
+      "El Órgano Interno de Control investiga y sanciona en caso de omisión.",
+      "Dirección de Psicopedagogía y Unidades Administrativas ejecutan el seguimiento e intervención.",
+      "Si los padres solicitan el traslado del estudiante, el Nivel Educativo facilitará el proceso."
+    ],
+    "Casos Especiales": {
+      "Entre Estudiantes": "Si las conductas sexuales son entre niñas, niños o adolescentes, se aplicará el protocolo de acoso escolar con connotación sexual."
+    },
+    "Omisiones": [
+      "Las omisiones al protocolo serán investigadas, substanciadas y sancionadas por el Órgano Interno de Control cuando involucre a servidores públicos."
+    ],
+    "Escuelas Particulares": [
+      "Se sigue el mismo procedimiento, pero se omite el aviso al Órgano Interno de Control.",
+      "En su lugar, se notifica a la Dirección General de Planeación de la Secretaría de Educación de Jalisco.",
+      "Esta determinará si procede un procedimiento de infracción administrativa conforme al artículo 147 de la Ley de Educación del Estado de Jalisco."
+    ]
+  }
+}

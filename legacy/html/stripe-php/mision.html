@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nuestra Misión - Planeando con Causa</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Roboto+Slab:wght@700&display=swap" rel="stylesheet">
+
+    <style>
+        /* --- Definición de variables de color y fuentes --- */
+        /* Usar variables permite cambiar el diseño de toda la página fácilmente desde un solo lugar. */
+        :root {
+            --color-primario: #1e3a8a;      /* Azul oscuro institucional */
+            --color-acento: #f39c12;        /* Dorado/Naranja para botones y acentos */
+            --color-fondo: #f8f9fa;         /* Un gris muy claro para el fondo */
+            --color-texto: #34495e;
+            --color-tarjeta: #ffffff;
+            --fuente-titulos: 'Roboto Slab', serif;
+            --fuente-cuerpo: 'Poppins', sans-serif;
+        }
+
+        /* --- Estilos generales --- */
+        /* Se aplican a toda la página */
+        body {
+            font-family: var(--fuente-cuerpo);
+            background-color: var(--color-fondo);
+            margin: 0; /* Quita el margen por defecto del navegador */
+            color: var(--color-texto);
+            line-height: 1.7; /* Espacio entre líneas de texto */
+        }
+
+        /* Contenedor principal que centra todo el contenido */
+        .container {
+            max-width: 1100px;
+            margin: 0 auto; /* Centra el contenedor horizontalmente */
+            padding: 40px 20px;
+        }
+
+        /* --- Encabezado principal de la página --- */
+        .page-header {
+            text-align: center;
+            margin-bottom: 60px;
+        }
+        .page-header h1 {
+            font-family: var(--fuente-titulos);
+            font-size: 3rem;
+            color: var(--color-primario);
+            margin: 0;
+        }
+        .page-header .subtitle {
+            font-size: 1.25rem;
+            color: var(--color-acento);
+            font-style: italic;
+            margin-top: 10px;
+        }
+
+        /* --- Sección de la imagen principal --- */
+        .hero-section {
+            text-align: center;
+            margin-bottom: 60px;
+        }
+        .hero-section img {
+            max-width: 100%;
+            width: 800px;
+            border-radius: 15px; /* Bordes redondeados */
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); /* Sombra suave */
+        }
+
+        /* --- Contenedor de los bloques de misión --- */
+        .mission-blocks {
+            display: grid; /* Usa CSS Grid para un layout moderno */
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Crea columnas responsivas */
+            gap: 30px; /* Espacio entre los bloques */
+        }
+
+        /* --- Estilo de cada bloque de misión --- */
+        .mission-block {
+            background-color: var(--color-tarjeta);
+            padding: 35px;
+            border-radius: 12px;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.07);
+            border-top: 4px solid var(--color-acento); /* Detalle de color distintivo en la parte superior */
+            transition: transform 0.3s, box-shadow 0.3s; /* Animación suave al pasar el mouse */
+        }
+        /* Efecto de "elevación" al pasar el mouse */
+        .mission-block:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 12px 35px rgba(0, 0, 0, 0.1);
+        }
+        .mission-block h2 {
+            font-family: var(--fuente-titulos);
+            font-size: 1.5rem;
+            color: var(--color-primario);
+            margin-top: 0;
+            margin-bottom: 15px;
+        }
+        .mission-block p {
+            font-size: 1rem;
+            margin: 0;
+        }
+
+        /* --- Sección del botón de regreso --- */
+        .return-section {
+            text-align: center;
+            margin-top: 60px;
+        }
+        .btn-return {
+            display: inline-flex; /* Permite alinear el ícono y el texto dentro del botón */
+            align-items: center;
+            gap: 10px; /* Espacio entre el ícono y el texto */
+            background-color: var(--color-acento);
+            color: white;
+            text-decoration: none; /* Quita el subrayado del enlace */
+            padding: 15px 35px;
+            border-radius: 50px; /* Botón completamente redondeado (forma de píldora) */
+            font-weight: 700;
+            font-size: 1.1rem;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+        .btn-return:hover {
+            background-color: #d35400; /* Naranja más oscuro */
+            transform: scale(1.05); /* Agranda ligeramente el botón al pasar el mouse */
+        }
+        
+        /* --- Estilo para el pie de página --- */
+        footer {
+            background-color: var(--color-primario); /* Fondo oscuro para contraste */
+            color: #e0e7ff; /* Texto claro */
+            text-align: center;
+            padding: 25px 20px;
+            margin-top: 60px;
+        }
+
+        /* --- Diseño Responsivo --- */
+        /* Estas reglas se aplican solo si el ancho de la pantalla es de 768px o menos (móviles) */
+        @media (max-width: 768px) {
+            .page-header h1 {
+                font-size: 2.5rem;
+            }
+            .mission-blocks {
+                grid-template-columns: 1fr; /* Hace que los bloques se apilen en una sola columna */
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        
+        <header class="page-header">
+            <h1>Planeando con Causa</h1>
+            <p class="subtitle">Nuestra misión, nuestro corazón docente</p>
+        </header>
+
+        <main>
+            <section class="hero-section">
+                <img src="https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzOTAwNXwwfDF8c2VhcmNofDE0fHx0ZWFjaGVyJTIwY29tbXVuaXR5fGVufDB8fHx8MTY4OTU5OTU0OXww&ixlib=rb-4.0.3&q=80&w=1080" alt="Maestros colaborando y sonriendo">
+            </section>
+
+            <section class="mission-blocks">
+                
+                <article class="mission-block">
+                    <h2>El compromiso con la educación y el corazón docente</h2>
+                    <p>Creemos firmemente que la planeación didáctica es el corazón de la práctica educativa. Nuestra misión es dignificar esta labor, ofreciendo una herramienta inteligente que no solo ahorra tiempo, sino que enriquece la enseñanza con un enfoque humano, contextualizado y alineado a las necesidades reales de cada aula en México.</p>
+                </article>
+
+                <article class="mission-block">
+                    <h2>Más que una plataforma, una comunidad con propósito</h2>
+                    <p>No somos solo una herramienta, somos un movimiento. Cada suscripción contribuye directamente a causas sociales vitales: apoyamos a niños con cáncer, a niños con TEA y financiamos campañas de reforestación. Tu trabajo en el aula trasciende y genera un impacto positivo medible en la sociedad y el medio ambiente.</p>
+                </article>
+
+                <article class="mission-block">
+                    <h2>Un futuro donde los maestros tengan el apoyo que merecen</h2>
+                    <p>Visualizamos un futuro donde cada docente en México se sienta valorado, empoderado y, sobre todo, acompañado. Nuestra misión se expande para incluir redes de apoyo psicológico y formación continua, asegurando que los maestros no solo tengan las mejores herramientas, sino también el bienestar para usarlas y transformar el futuro del país.</p>
+                </article>
+            </section>
+
+            <section class="return-section">
+                <a href="index.php" class="btn-return">
+                <span>⬅️</span>
+                <span>Regresar a la Página Principal</span>
+                </a>
+            </section>
+        </main>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Planeando con Causa | Todos los derechos reservados</p>
+    </footer>
+
+</body>
+</html>

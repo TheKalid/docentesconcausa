@@ -1,0 +1,615 @@
+[
+  {
+    "id": "ROSA-1",
+    "color": "ROSA",
+    "numero": 1,
+    "nivel": "Generales",
+    "titulo": "JUEGO DE LOS NOMBRES",
+    "objetivo": "Promover el conocimiento y la integración del grupo a través de un juego colectivo.",
+    "descripcion": [
+      "Se realiza el primer día de clases y se repite hasta que todos se aprendan los nombres.",
+      "El grupo se sienta en círculo. Cada quien dice su nombre y el maestro lo escribe en el pizarrón.",
+      "Comienza el juego: el primer niño dice su nombre (Carlos). El segundo dice el del anterior y el suyo (Carlos, María). El tercero dice los dos anteriores y el suyo (Carlos, María, Hugo), y así sucesivamente, tratando de recordar la cadena completa.",
+      "Se reinicia varias veces comenzando por un niño distinto."
+    ]
+  },
+  {
+    "id": "ROSA-2",
+    "color": "ROSA",
+    "numero": 2,
+    "nivel": "Generales",
+    "titulo": "LO QUE TÚ ME DIJISTE",
+    "objetivo": "Favorecer el conocimiento y la integración del grupo, incluido el maestro.",
+    "descripcion": [
+      "Se organizan en parejas y cada niño le cuenta a su compañero algo sobre un tema acordado (ej. programas de TV que le gustan).",
+      "Posteriormente, cada alumno relata al grupo lo que le dijo su pareja (ej. 'Rosita me dijo que le gusta ver la Pantera Rosa...')."
+    ],
+    "variantes": [
+      "Lo que sabemos de ti: Un alumno saca una tarjeta con el nombre de alguien y dice lo que sabe de esa persona, el resto del grupo ayuda a completar la información.",
+      "¿Quién es el que...?: El maestro o un alumno pregunta algo específico (ej. '¿quién es el que dijo que tiene un hermanito muy acusón?') y el grupo adivina a quién se refiere."
+    ]
+  },
+  {
+    "id": "ROSA-3",
+    "color": "ROSA",
+    "numero": 3,
+    "nivel": "Generales",
+    "titulo": "LA PAPA CALIENTE",
+    "objetivo": "Promover la integración y conocimiento del grupo, y familiarizar a los niños con el trabajo colectivo.",
+    "materiales": "Un objeto para pasarse (lápiz, pelota, etc.).",
+    "descripcion": [
+      "El grupo se sienta en círculo. Un niño al centro aplaude mientras los demás se pasan un objeto ('la papa caliente').",
+      "Cuando el niño del centro deja de aplaudir, quien tenga el objeto debe responder una pregunta o hablar sobre un tema acordado previamente (ej. 'lo que me gusta comer').",
+      "Los temas deben ser cercanos a la realidad de los alumnos (mi familia, mis amigos, la televisión, etc.)."
+    ]
+  },
+  {
+    "id": "ROSA-4",
+    "color": "ROSA",
+    "numero": 4,
+    "nivel": "Generales",
+    "titulo": "JUNTAN OBJETOS",
+    "objetivo": "Contribuir a valorar la importancia de la colaboración y del trabajo colectivo.",
+    "materiales": "Material de desecho (cajitas, botones, recortes) y cajas o botes para clasificar.",
+    "descripcion": [
+      "El maestro pide la colaboración de los niños para reunir material de trabajo, como recortes de revistas o material de desecho.",
+      "Se enfatiza que el material es para todo el grupo.",
+      "Una vez reunido, los niños lo clasifican en cajas o botes, buscando sus propios criterios de clasificación.",
+      "Se les anima a colocar etiquetas con el nombre de los objetos en cada caja, escribiendo como ellos puedan e intercambiando opiniones."
+    ]
+  },
+  {
+    "id": "ROSA-5",
+    "color": "ROSA",
+    "numero": 5,
+    "nivel": "Generales",
+    "titulo": "HACEN CONSTRUCCIONES",
+    "objetivo": "Promover la creatividad y conducir a los niños a valorar el resultado de la cooperación que surge del trabajo en equipo.",
+    "materiales": "Material de desecho (cajas, popotes, envases), tijeras, cinta adhesiva, pegamento.",
+    "descripcion": [
+      "Los niños traen material de desecho de sus casas, se junta y se reparte a los equipos.",
+      "Cada equipo se pone de acuerdo para hacer una construcción (una casa, un barco, etc.), decidiendo cómo lo harán y qué tarea le corresponde a cada miembro.",
+      "Al terminar, se analiza el proceso de trabajo: si todos participaron, cómo se organizaron, etc."
+    ]
+  },
+  {
+    "id": "ROSA-6",
+    "color": "ROSA",
+    "numero": 6,
+    "nivel": "Generales",
+    "titulo": "DIBUJAN UN CUENTO",
+    "objetivo": "Promover la creatividad y conducir a los niños a valorar el resultado de la cooperación que surge del trabajo en equipo.",
+    "materiales": "Cartulina para cada equipo.",
+    "descripcion": [
+      "El maestro lee un cuento al grupo.",
+      "Luego, cada equipo debe ponerse de acuerdo para dibujar en una sola cartulina un resumen del cuento, distribuyendo las escenas o personajes entre sus miembros.",
+      "El objetivo es que trabajen en conjunto para crear una sola obra representativa, y no que cada uno dibuje lo mismo por separado.",
+      "Al finalizar, el maestro guía una reflexión sobre el trabajo colaborativo y el resultado: '¿En este dibujo se entiende lo que pasaba en el cuento?', '¿Cómo podremos arreglarlo?'."
+    ]
+  },
+  {
+    "id": "ROSA-7",
+    "color": "ROSA",
+    "numero": 7,
+    "nivel": "Generales",
+    "titulo": "DRAMATIZACIÓN",
+    "objetivo": "Promover la creatividad y valorar el resultado de la cooperación en equipo.",
+    "descripcion": [
+      "Los alumnos organizan una dramatización de un cuento conocido o inventado, o sobre un tema de interés.",
+      "Se les anima a organizarse solos, improvisando el vestuario y los materiales con lo que tengan disponible en el aula o trayendo cosas de casa.",
+      "Se elige a uno o dos equipos para que representen la obra mientras el resto del grupo actúa como público.",
+      "Si alteran mucho el contenido de un cuento leído, el maestro valora su creatividad y luego propone leer de nuevo la historia para intentar hacerla más fiel al original."
+    ]
+  },
+  {
+    "id": "ROSA-8",
+    "color": "ROSA",
+    "numero": 8,
+    "nivel": "Generales",
+    "titulo": "JUEGAN A LA LONCHERÍA",
+    "objetivo": [
+      "Reflexionar acerca de un tipo especial de portador de texto (los menús).",
+      "Producir e interpretar textos en un contexto lúdico y funcional."
+    ],
+    "descripcion": [
+      "Se propone jugar a la lonchería una vez al mes, juntando la comida que los niños traen para el recreo para compartirla.",
+      "Se clasifica la comida, se le inventa un nombre a la lonchería y se hace un cartel.",
+      "El maestro sugiere hacer menús. Cada equipo escribe uno, discutiendo cómo debe hacerse.",
+      "Se organizan los roles de clientes y meseros. Los clientes leen el menú y ordenan; los meseros toman nota de los pedidos y sirven la comida."
+    ],
+    "notas": "Se recomienda incluir menús impresos reales para que los niños conozcan sus características."
+  },
+  {
+    "id": "ROSA-9",
+    "color": "ROSA",
+    "numero": 9,
+    "nivel": "Generales",
+    "titulo": "PERIÓDICO MURAL",
+    "objetivo": "Descubrir que la lengua escrita sirve para comunicarse con los demás, promoviendo la creatividad y la cooperación.",
+    "descripcion": [
+      "Se elige un tema para el periódico mural.",
+      "Cada equipo se pone de acuerdo sobre qué parte del tema va a desarrollar y distribuye las tareas (escribir textos, buscar recortes, dibujar).",
+      "Cuando los trabajos de los equipos están terminados, se juntan para formar el periódico mural.",
+      "El maestro explica que el propósito del periódico es dar a conocer al resto de la escuela lo que ellos saben o han hecho."
+    ]
+  },
+  {
+    "id": "ROSA-10",
+    "color": "ROSA",
+    "numero": 10,
+    "nivel": "Generales",
+    "titulo": "LAS CONFERENCIAS",
+    "objetivo": "Favorecer la integración del grupo y valorar la importancia de la colaboración y del trabajo en común.",
+    "descripcion": [
+      "Cada equipo se organiza para investigar sobre un tema que elijan o que el maestro proponga.",
+      "Distribuyen las tareas: unos hacen entrevistas, otros dibujan, otros investigan, etc.",
+      "Una vez completado el trabajo, uno o varios miembros del equipo dan la 'conferencia' al resto del grupo.",
+      "La actividad también puede organizarse de forma colectiva, donde el grupo decide qué tarea le corresponde a cada equipo (dibujar, escribir, exponer)."
+    ]
+  },
+  {
+    "id": "ROSA-11",
+    "color": "ROSA",
+    "numero": 11,
+    "nivel": "Generales",
+    "titulo": "FORMAN PALABRAS",
+    "objetivo": [
+      "Realizar intentos de escritura.",
+      "Valorar la importancia de la colaboración en el trabajo del grupo."
+    ],
+    "descripcion": [
+      "El maestro aprovecha cualquier ocasión para que los niños escriban palabras, fomentando un ambiente donde todas las opiniones se respetan.",
+      "Se sugiere el juego 'Veo, veo de colores'. Cuando adivinan el objeto (ej. plumón), cada quien intenta escribir la palabra en su cuaderno.",
+      "Luego, un niño pasa a escribirla en el pizarrón mientras los demás colaboran con él, aportando ideas y discutiendo la escritura."
+    ]
+  },
+  {
+    "id": "ROSA-12",
+    "color": "ROSA",
+    "numero": 12,
+    "nivel": "Generales",
+    "titulo": "SE EXPRESAN POR MEDIO DE GESTOS",
+    "objetivo": "Tomar conciencia de la posibilidad de comunicarse a través de gestos y de las limitaciones que tiene esta forma de expresión sin el lenguaje oral.",
+    "descripcion": [
+      "Juegan a ser personas mudas: un niño representa una acción con gestos (barrer, peinarse, comer) y el grupo adivina qué está haciendo.",
+      "Dicen cosas con el cuerpo: el maestro sugiere expresar ideas sin hablar (Adiós, ¡Qué feo huele!, Tenemos frío).",
+      "Caras y gestos: cada equipo representa algo (un personaje, una película) y el resto del grupo adivina.",
+      "Se proponen situaciones que no pueden ser representadas con gestos (ej. 'Agustín nació en Oaxaca') para que los alumnos noten las limitaciones de este tipo de lenguaje."
+    ]
+  },
+  {
+    "id": "ROSA-13",
+    "color": "ROSA",
+    "numero": 13,
+    "nivel": "Generales",
+    "titulo": "PALMEAN PALABRAS Y LAS REPRESENTAN GRÁFICAMENTE",
+    "objetivo": "Reflexionar sobre los aspectos sonoros del habla y utilizar códigos para representar la cantidad de sílabas de una palabra.",
+    "descripcion": [
+      "El maestro propone decir palabras dando una palmada por cada sílaba (ej. Ma-ri-po-sa, cuatro palmadas).",
+      "Se practica con palabras de diferente número de sílabas.",
+      "Luego, se introduce un código: hacer un cuadrito por cada palmada. El maestro da ejemplos en el pizarrón.",
+      "Los niños practican en sus cuadernos, dibujando objetos y poniendo al lado los cuadritos correspondientes al número de sílabas de su nombre.",
+      "Finalmente, se juega a adivinar: se muestran tres imágenes y un cartel con un número de cuadritos, y los niños deben decir a qué imagen corresponde el cartel."
+    ]
+  },
+  {
+    "id": "ROSA-14",
+    "color": "ROSA",
+    "numero": 14,
+    "nivel": "Generales",
+    "titulo": "LOS PAQUETES",
+    "objetivo": "Para niños presilábicos, crear un conflicto cognitivo al confrontar su escritura con la lectura del nombre. Para niños silábicos o alfabéticos, realizar actos de escritura que permitan observar sus avances.",
+    "materiales": "Objetos de distinto tamaño, papel para envolver, cinta adhesiva.",
+    "descripcion": [
+      "Se juega a la paquetería. Cada niño envuelve un objeto y escribe en la envoltura el nombre de lo que contiene.",
+      "A los niños presilábicos se les dan objetos que creen conflicto (objeto pequeño-nombre largo, o viceversa).",
+      "Se juntan todos los paquetes y, por turnos, los niños tratan de leer lo que está escrito para adivinar el contenido.",
+      "Se fomenta la discusión. Los niños de niveles más avanzados se fijarán en la escritura, mientras que los presilábicos pueden basarse en el tamaño del paquete o la cantidad de letras.",
+      "Al final, el maestro dicta los nombres de los objetos para observar si hay cambios en la escritura cuando el objeto está ausente."
+    ]
+  },
+  {
+    "id": "ROSA-15",
+    "color": "ROSA",
+    "numero": 15,
+    "nivel": "Generales",
+    "titulo": "DIBUJAN ENUNCIADOS",
+    "objetivo": "Descubrir las limitaciones del dibujo y las ventajas de la escritura como medio de comunicación.",
+    "descripcion": [
+      "El maestro pide en secreto a un niño que dibuje una acción, pero le da enunciados que son difíciles de representar visualmente (ej. 'Juanita es una buena niña', 'Mi hermano canta bonito').",
+      "El resto del grupo intenta adivinar el enunciado a partir del dibujo.",
+      "El maestro destaca que el dibujo no puede transmitir toda la información y pregunta cómo se podría expresar la idea completa. La respuesta es escribiéndola.",
+      "El maestro escribe el enunciado para mostrar cómo la escritura, a diferencia del dibujo, no permite un amplio margen de interpretaciones."
+    ]
+  },
+  {
+    "id": "ROSA-16",
+    "color": "ROSA",
+    "numero": 16,
+    "nivel": "Generales",
+    "titulo": "JUEGAN A LA FRUTERÍA",
+    "objetivo": "Acordar una convención que permite otorgar a palabras conocidas un significado diferente dentro de un contexto de juego.",
+    "materiales": "Tarjetas, alfileres de seguridad.",
+    "descripcion": [
+      "Cada niño escoge el nombre de una fruta y lo escribe en una tarjeta que se prende en su ropa.",
+      "Todos se forman en un círculo. El maestro explica el juego: cuando diga el nombre de una fruta, el niño que tenga ese nombre da media vuelta. Cuando diga 'Frutería', todos deben cambiarse de lugar rápidamente.",
+      "Para hacerlo más ameno, el maestro puede narrar una historia en la que vaya mencionando las frutas y la palabra clave ('Frutería')."
+    ],
+    "variantes": "Se puede jugar a la papelería, la juguetería, el hospital, etc., siguiendo la misma dinámica."
+  },
+  {
+    "id": "ROSA-17",
+    "color": "ROSA",
+    "numero": 17,
+    "nivel": "Generales",
+    "titulo": "CONSTRUYEN PÁRRAFOS EN FORMA ORAL",
+    "objetivo": [
+      "Realizar relatos con una secuencia lógica.",
+      "Ser capaces de proponer ajustes en los enunciados que componen un relato para expresarlo de forma más clara."
+    ],
+    "materiales": "Láminas con una secuencia de historia o cuento.",
+    "descripcion": [
+      "El maestro presenta una secuencia de láminas y pide a los niños que inventen una historia, proponiendo qué podría decirse para cada lámina.",
+      "Cuando llegan a un acuerdo, el maestro escribe el texto en el pizarrón.",
+      "Luego, lee el texto completo y guía una reflexión para mejorarlo: '¿Nos quedó bien este cuento?', '¿No podríamos agregarle o quitarle algo?', '¿Será necesario repetir tantas veces la palabra 'niña'?'",
+      "El maestro introduce las modificaciones sugeridas y vuelve a leer el texto mejorado."
+    ]
+  },
+  {
+    "id": "ROSA-18",
+    "color": "ROSA",
+    "numero": 18,
+    "nivel": "Generales",
+    "titulo": "INVENTAN NOMBRES",
+    "objetivo": "Descubrir la arbitrariedad del lenguaje y aplicar conocimientos lingüísticos en la invención de sustantivos.",
+    "descripcion": [
+      "Inventan nombres de animales: El maestro da un ejemplo: 'Conozco un animal que tiene cinco patas, alas y trompa de elefante que se llama mapataluco' y estimula a los niños a continuar.",
+      "Inventan nombres de comidas: Se propone inventar el nombre de una comida con ingredientes absurdos (ej. 'una comida con frijoles, pasto y cascarón de huevo se llama pastrica').",
+      "El mismo juego puede realizarse con medicinas, frutas, personas, etc."
+    ]
+  },
+  {
+    "id": "ROSA-19",
+    "color": "ROSA",
+    "numero": 19,
+    "nivel": "Generales",
+    "titulo": "INVENTAN VERBOS",
+    "objetivo": "Descubrir la arbitrariedad del lenguaje y aplicar conocimientos lingüísticos para inventar verbos.",
+    "descripcion": [
+      "El maestro da un ejemplo de un verbo inventado para una acción: 'vi a una señora que se colgaba del cabello, yo inventé que se pelicolumpiaba'.",
+      "Pide a los niños que inventen palabras para acciones raras (caminar de manos) o para las que no existen verbos específicos (andar en bicicleta -> bicicletear).",
+      "En todos los casos, se idean situaciones donde sea necesario conjugar los verbos inventados ('Ahora todos dedicruzaremos nuestros dedos')."
+    ]
+  },
+  {
+    "id": "ROSA-20",
+    "color": "ROSA",
+    "numero": 20,
+    "nivel": "Generales",
+    "titulo": "INVENTAN ADJETIVOS",
+    "objetivo": "Descubrir la arbitrariedad del lenguaje y aplicar conocimientos lingüísticos para inventar adjetivos.",
+    "descripcion": [
+      "La actividad parte de la observación de algo (un animal, una planta, una experiencia).",
+      "Después de que los niños describen sus características reales, el maestro sugiere inventar adjetivos. Por ejemplo, sobre un perrito: 'Este perro es muy orejiloco'.",
+      "Sobre una planta: 'Esta planta es hojijunda y verdilonga'.",
+      "Sobre un paseo: 'El paseo de hoy estuvo muy sinfuroso'.",
+      "Se estimula a los niños para que continúen inventando adjetivos."
+    ]
+  },
+  {
+    "id": "ROSA-21",
+    "color": "ROSA",
+    "numero": 21,
+    "nivel": "Generales",
+    "titulo": "ADIVINANZAS",
+    "objetivo": "Descubrir cómo una palabra inventada cobra significado por el uso que se le da en el contexto y reflexionar sobre las reglas de composición de diminutivos y aumentativos.",
+    "descripcion": [
+      "Cada equipo cambia el nombre de un objeto conocido por uno inventado (ej. camión -> saleto).",
+      "Un equipo da pistas usando la palabra inventada en un contexto claro para que el resto del grupo adivine qué objeto es (ej. 'hoy me vine a la escuela en saleto; como venía lleno, me tuve que venir parado').",
+      "Una vez adivinado, el maestro propone derivar diminutivos y aumentativos de la palabra inventada: '¿Si el saleto fuera muy grande, diríamos que era un...?' (saletote) '¿Y si fuera chico?' (saletito)."
+    ]
+  },
+  {
+    "id": "ROSA-22",
+    "color": "ROSA",
+    "numero": 22,
+    "nivel": "Generales",
+    "titulo": "AMPLÍAN ENUNCIADOS",
+    "objetivo": "Descubrir las posibilidades de ampliar enunciados para que la información suministrada sea más precisa.",
+    "descripcion": [
+      "El maestro escribe una oración simple en el pizarrón (ej. 'Juanita perdió un lápiz').",
+      "Luego, propone ampliarla haciendo preguntas: '¿Cuál Juanita fue?', '¿Dónde lo perdió?', '¿Cómo era el lápiz?'.",
+      "A medida que los niños agregan información, el maestro va reescribiendo la oración, haciéndola cada vez más completa y precisa.",
+      "Ejemplo de progresión: 'Juanita perdió un lápiz' -> 'Juanita Rodríguez perdió un lápiz' -> 'Juanita Rodríguez perdió un lápiz de color rojo en el salón, a la hora del recreo'."
+    ]
+  },
+  {
+    "id": "ROSA-23",
+    "color": "ROSA",
+    "numero": 23,
+    "nivel": "Generales",
+    "titulo": "¿DÓNDE DICE?",
+    "objetivo": "Que los niños anticipen una oración a partir del número de palabras que la componen.",
+    "descripcion": [
+      "El maestro escribe en el pizarrón tres oraciones de longitud diferente (ej. 'Pedro salió', 'Pedro salió temprano', 'Pedro salió temprano por la mañana').",
+      "Lee las tres oraciones de corrido y en orden distinto al que las escribió.",
+      "Enseguida, pide a los niños que anticipen dónde dice una de ellas (ej. 'Pedro salió temprano') y que justifiquen su respuesta basándose en la longitud del texto ('¿Cómo te diste cuenta?')."
+    ],
+    "variantes": "Se pueden usar otros conjuntos de oraciones, como mantener el sujeto y cambiar el verbo y los complementos."
+  },
+  {
+    "id": "ROSA-24",
+    "color": "ROSA",
+    "numero": 24,
+    "nivel": "Generales",
+    "titulo": "UBICAN PARTES DE LA ORACIÓN",
+    "objetivo": "Que los niños reflexionen acerca de las partes que componen una oración.",
+    "descripcion": [
+      "El maestro escribe una oración en el pizarrón (ej. 'La niña compró paletas'), preferiblemente en letra cursiva para evitar el descifrado.",
+      "La lee de corrido, sin detenerse en cada palabra, y se asegura de que los niños la recuerden.",
+      "Comienza a interrogar sobre las partes de la oración, señalando las palabras escritas: '¿Dirá niña? Señálame dónde dice niña', '¿Qué crees que diga aquí? (señalando 'paletas')', '¿Dirá 'compró' en algún lado?'.",
+      "La meta es que el maestro pueda entender lo que el niño piensa sobre qué parte de la emisión oral corresponde a qué parte del texto escrito."
+    ]
+  },
+  {
+    "id": "ROSA-25",
+    "color": "ROSA",
+    "numero": 25,
+    "nivel": "Generales",
+    "titulo": "DETERMINAN LA CANTIDAD DE PALABRAS DE UN ENUNCIADO",
+    "objetivo": "Permitir al maestro conocer las diferentes conceptualizaciones de sus alumnos sobre la noción de palabra, especialmente su dificultad para aislar artículos y preposiciones.",
+    "descripcion": [
+      "El maestro dice un enunciado de corrido (ej. 'Mario comió un taco') y pregunta: '¿Cuántas palabras dije?'.",
+      "Pide a los alumnos que especifiquen cuáles son esas palabras. Es posible que un niño diga que son tres ('Mario', 'comió', 'untaco'), lo que indica dificultad para aislar el artículo.",
+      "El maestro continúa con enunciados de complejidad progresiva para observar las diferentes posibilidades de análisis de los niños.",
+      "Después de la discusión oral, escribe cada oración y analizan las palabras que la componen."
+    ],
+    "notas": "Si un niño tiene dificultades mayores (como no poder aislar el verbo), se recomienda trabajar con la Ficha Azul No. 2, incluso si ya maneja la hipótesis silábica."
+  },
+  {
+    "id": "ROSA-27",
+    "color": "ROSA",
+    "numero": 27,
+    "nivel": "Generales",
+    "titulo": "PERMUTAN SUSTANTIVOS EN ORACIONES CON VERBO TRANSITIVO",
+    "objetivo": "Reflexionar acerca de permutaciones de sustantivos que producen un cambio en el significado de la oración.",
+    "descripcion": [
+      "El maestro escribe una oración donde el sujeto y el objeto pueden intercambiarse, cambiando el significado (ej. 'Leticia empuja a René').",
+      "Analizan las partes de la oración.",
+      "Luego, propone la permutación: 'Si René empuja a Leticia, ¿qué tendremos que escribir? ¿Es lo mismo? ¿Qué tendríamos que cambiar aquí para que diga René empuja a Leticia?'.",
+      "Se estimula a los niños para que ellos mismos realicen la transformación en la escritura.",
+      "Se pueden usar láminas para ayudar a comprender la diferencia de significado."
+    ]
+  },
+  {
+    "id": "ROSA-28",
+    "color": "ROSA",
+    "numero": 28,
+    "nivel": "Generales",
+    "titulo": "SUSTITUYEN SUSTANTIVOS",
+    "objetivo": "Reflexionar acerca de los cambios que se dan en la escritura de una oración cuando se propone cambiar un sujeto o un complemento.",
+    "descripcion": [
+      "El maestro escribe una oración (ej. 'Juan fue a la papelería') y la analizan.",
+      "A continuación, propone cambiar el sujeto: 'Ahora quiero escribir 'Pedro fue a la papelería''.",
+      "Guía la reflexión para que modifiquen la oración existente en lugar de escribir una nueva: '¿Qué tendremos que cambiar? ¿Qué borramos? ¿Qué escribimos aquí donde borramos?'.",
+      "El mismo procedimiento se realiza para cambiar el complemento (ej. cambiar 'papelería' por 'panadería')."
+    ]
+  },
+  {
+    "id": "ROSA-29",
+    "color": "ROSA",
+    "numero": 29,
+    "nivel": "Generales",
+    "titulo": "ANTICIPAN ENUNCIADOS",
+    "objetivo": "Anticipar el resultado de la transformación de oraciones en las que se permutan o sustituyen sustantivos.",
+    "descripcion": [
+      "Sustitución: El maestro escribe una oración ('Ricardo juega a la pelota') y la analizan. Luego, anuncia una transformación ('Voy a cambiar pelota por roña'), la realiza, y pregunta: '¿Qué quedó escrito ahora?'.",
+      "Permutación: El maestro escribe una oración ('Rosa platica con Josefina'). La analizan. Anuncia la permutación de los sustantivos ('esto que está aquí (Rosa) lo voy a pasar acá (al final)...'), la realiza y pregunta: '¿Qué dirá ahora?'.",
+      "Se repite con oraciones donde la permutación sí cambia el significado."
+    ]
+  },
+  {
+    "id": "ROSA-30",
+    "color": "ROSA",
+    "numero": 30,
+    "nivel": "Generales",
+    "titulo": "JUEGAN AL MERCADO",
+    "objetivo": [
+      "Guardar información (al hacer la lista del mandado).",
+      "Anunciar productos y precios (al escribir carteles para los puestos)."
+    ],
+    "materiales": "Semillas, palitos, juguetes, cajas, frascos, etc.",
+    "descripcion": [
+      "Los niños juntan materiales y organizan un mercado, decidiendo qué se venderá en cada puesto.",
+      "El maestro sugiere hacer carteles con los nombres de las mercancías y sus precios.",
+      "El grupo se divide en vendedores y compradores. Los compradores preparan su lista del mandado y los vendedores escriben los carteles para sus puestos.",
+      "Durante el juego, el maestro interviene para que los niños tengan necesidad de interpretar los textos de sus compañeros (ej. 'fíjese si esta señora ya compró todo lo que traía en su lista')."
+    ],
+    "variantes": "Jugar a la papelería, la tienda, el supermercado."
+  },
+  {
+    "id": "ROSA-31",
+    "color": "ROSA",
+    "numero": 31,
+    "nivel": "Generales",
+    "titulo": "COMPLETAN ENUNCIADOS",
+    "objetivo": "Reflexionar acerca de la lengua oral y establecer una relación entre ésta y la lengua escrita.",
+    "descripcion": [
+      "Omite el objeto: El maestro dice enunciados incompletos oralmente (ej. 'Margarita teje una...') y los niños proponen diferentes complementos (bufanda, canasta, etc.). El maestro escribe las oraciones completas en el pizarrón y las analizan.",
+      "Omite el sujeto: El maestro narra un cuento conocido omitiendo los sujetos (ej. 'Había una vez una...') y los niños proponen qué falta.",
+      "Omite el predicado: El maestro escribe un sujeto (ej. 'La mamá de Juanita...') con una entonación que implique que está incompleto y pregunta qué se podría decir sobre esa persona. Completa la oración con las propuestas y la analizan."
+    ]
+  },
+  {
+    "id": "ROSA-32",
+    "color": "ROSA",
+    "numero": 32,
+    "nivel": "Generales",
+    "titulo": "CONSTRUYEN ORACIONES",
+    "objetivo": "Reflexionar sobre las características de los verbos y su conjugación.",
+    "descripcion": [
+      "El maestro propone pensar enunciados con determinados verbos dados en infinitivo (ej. saltar).",
+      "Explica con ejemplos cómo se puede usar: 'Hoy en el recreo estuvimos saltando', 'Juan salta muy rápido', 'Ayer salté una barda'.",
+      "A medida que los niños proponen oraciones, el maestro las escribe y hace preguntas para que noten que en las diferentes formas conjugadas hay una parte que se conserva (el radical) tanto en el sonido como en la escritura."
+    ]
+  },
+  {
+    "id": "ROSA-33",
+    "color": "ROSA",
+    "numero": 33,
+    "nivel": "Generales",
+    "titulo": "JUEGAN AL DOCTOR",
+    "objetivo": [
+      "Descubrir la necesidad de mantener una estabilidad en la escritura para conservar el significado.",
+      "Conocer el contenido de portadores de texto como recetas médicas y etiquetas de productos."
+    ],
+    "descripcion": [
+      "Se organiza un consultorio y una farmacia en el aula. Los niños inventan nombres para los medicamentos y los escriben en etiquetas que pegan en frascos y cajas.",
+      "Se asignan roles de pacientes, doctores y farmacéuticos.",
+      "El paciente describe sus síntomas, el doctor escribe la receta, y el paciente la lleva a la farmacia.",
+      "El farmacéutico debe interpretar la receta y buscar el medicamento cuya etiqueta tenga una escritura similar. Esto genera la necesidad de que la escritura sea estable para que pueda ser interpretada por otro."
+    ],
+    "notas": "Es conveniente que los niños vean recetas médicas reales para que conozcan su contenido (nombres de medicamentos, dosis, etc.)."
+  },
+  {
+    "id": "ROSA-34",
+    "color": "ROSA",
+    "numero": 34,
+    "nivel": "Generales",
+    "titulo": "ENCUENTRAN PALABRAS REPETIDAS",
+    "objetivo": "Llegar a conocer una característica fundamental del sistema de escritura: una palabra, para conservar su significado, se escribe siempre de la misma manera.",
+    "materiales": "Libro de texto (ej. primer año).",
+    "descripcion": [
+      "Se utiliza un texto donde algunas palabras se repitan varias veces.",
+      "El maestro lee el texto y luego pide a los niños que busquen y subrayen con un mismo color todas las veces que encuentren una palabra igual (ej. con verde todas las veces que aparece 'ciruelas').",
+      "Se recomienda que después de subrayar, lean la palabra para asegurarse de su significado.",
+      "Para facilitar la tarea, el maestro puede ir escribiendo en el pizarrón las palabras que los niños van encontrando, propiciando la confrontación."
+    ]
+  },
+  {
+    "id": "ROSA-35",
+    "color": "ROSA",
+    "numero": 35,
+    "nivel": "Generales",
+    "titulo": "BUSCAN PALABRAS QUE RIMEN",
+    "objetivo": "Descubrir cómo secuencias iguales de fonemas dan por resultado palabras distintas que se asemejan en su forma oral y en su representación escrita.",
+    "descripcion": [
+      "El maestro propone decir palabras que rimen (ej. que terminen igual que 'tiburón').",
+      "A medida que los niños las proponen (camarón, algodón), el maestro las escribe en el pizarrón y los anima a leerlas.",
+      "Se propone inventar rimas y poesías, aclarando que 'se vale' usar palabras inventadas o 'cosas tontas' para hacerlo más divertido.",
+      "Finalmente, el maestro explica que a eso se le llama 'rimar' y propone buscar y subrayar palabras que rimen en alguna poesía del libro de texto."
+    ]
+  },
+  {
+    "id": "ROSA-36",
+    "color": "ROSA",
+    "numero": 36,
+    "nivel": "Generales",
+    "titulo": "TRABAJAN CON SINÓNIMOS",
+    "objetivo": "Comprender que hay palabras que significan lo mismo y tienen escritura diferente.",
+    "descripcion": [
+      "El maestro escribe una oración que permita cambiar una palabra por su sinónimo (ej. 'Un niño se enfermó de la panza').",
+      "Pregunta: '¿Qué podríamos cambiar aquí para que siga diciendo lo mismo?'.",
+      "Los alumnos pueden proponer sinónimos para 'niño' (chiquillo, chamaco) y para 'panza' (barriga, estómago).",
+      "El maestro o los niños van escribiendo las diferentes oraciones formadas con los sinónimos.",
+      "Luego, se reflexiona sobre las partes de los enunciados que cambiaron y las que permanecieron sin cambios."
+    ]
+  },
+  {
+    "id": "ROSA-37",
+    "color": "ROSA",
+    "numero": 37,
+    "nivel": "Generales",
+    "titulo": "LA TINTORERÍA",
+    "objetivo": [
+      "Anotar datos (características de la ropa).",
+      "Registrar que se recibió un objeto."
+    ],
+    "materiales": "Prendas de vestir de los niños (suéteres, sacos), boletas de tintorería (reales o hechas por ellos).",
+    "descripcion": [
+      "Se explica cómo funciona una tintorería y se muestran boletas reales.",
+      "Se propone jugar a la tintorería. Unos son clientes y otros tintoreros.",
+      "Los tintoreros preparan boletas con el nombre de su tintorería.",
+      "Cuando un cliente deja una prenda, el tintorero anota en la boleta sus características (ej. '1 Suéter azul') y le da una copia al cliente.",
+      "Después, los clientes regresan con su boleta a recoger sus prendas, y los tintoreros deben interpretar las boletas para encontrar la ropa correcta."
+    ]
+  },
+  {
+    "id": "ROSA-38",
+    "color": "ROSA",
+    "numero": 38,
+    "nivel": "Generales",
+    "titulo": "CONSTRUYEN ENUNCIADOS",
+    "objetivo": "Reflexionar sobre la existencia de diferentes oraciones que poseen el mismo significado.",
+    "descripcion": [
+      "Después de una actividad de interés (ej. observar un patito), el maestro pide a los niños que digan algo sobre el tema.",
+      "Cada vez que un niño propone un enunciado (ej. 'El patito tenía unas plumas muy suaves'), el maestro lo escribe en el pizarrón.",
+      "Luego, propone pensar otras formas de decir lo mismo y va escribiendo las diferentes oraciones con significado similar.",
+      "Ejemplo: 'Las plumas del patito eran muy suaves', '¡Qué suaves eran las plumas del patito!'."
+    ]
+  },
+  {
+    "id": "ROSA-39",
+    "color": "ROSA",
+    "numero": 39,
+    "nivel": "Generales",
+    "titulo": "TRABAJAN CON ANTÓNIMOS",
+    "objetivo": "Reflexionar sobre la existencia de los antónimos, empleándolos en pares de oraciones que tienen un significado opuesto.",
+    "descripcion": [
+      "El maestro escribe y lee oraciones con un sentido figurado o incorrecto (ej. 'La tortuga camina rápido', 'El algodón es duro').",
+      "Los niños inmediatamente corregirán los enunciados, proponiendo los antónimos.",
+      "El maestro guía la reflexión: '¿Qué palabra hay que cambiar aquí para que diga lo contrario?'.",
+      "Se sustituye en la oración la palabra por su antónimo."
+    ]
+  },
+  {
+    "id": "ROSA-40",
+    "color": "ROSA",
+    "numero": 40,
+    "nivel": "Generales",
+    "titulo": "CARAS Y GESTOS",
+    "objetivo": [
+      "Descubrir que la comunicación por gestos tiene limitaciones.",
+      "Descubrir que los artículos, pronombres y preposiciones también se escriben y que un texto puede leerse aunque tenga pocas letras."
+    ],
+    "materiales": "Tarjetitas para escribir palabras.",
+    "descripcion": [
+      "Se juega a 'Caras y Gestos', donde un niño representa con mímica el título de una película o un personaje de TV y el grupo adivina.",
+      "Los niños descubrirán la dificultad de representar con gestos palabras como 'la', 'me', 'de'.",
+      "Cuando esto ocurre, el maestro pregunta cómo se podrían expresar esas palabras. Si no surge una solución, propone escribirlas en tarjetitas para mostrarlas cuando sea necesario.",
+      "Los alumnos participan en la escritura de estas palabras cortas ('¿Cómo se escribirá la?'), y luego se usan las tarjetas como apoyo durante el juego."
+    ]
+  },
+  {
+    "id": "ROSA-41",
+    "color": "ROSA",
+    "numero": 41,
+    "nivel": "Generales",
+    "titulo": "FORMULAN ORACIONES NEGATIVAS",
+    "objetivo": "Tomar conciencia de las diferentes maneras posibles de formular enunciados negativos.",
+    "descripcion": [
+      "El maestro hace preguntas que puedan tener respuestas negativas (ej. '¿Quién nos visitó hoy?').",
+      "Estimula a los niños a pensar en distintas formas de dar una respuesta negativa (ej. 'Nadie', 'Hoy no nos visitó nadie', 'No vino nadie').",
+      "El maestro escribe las diferentes respuestas en el pizarrón, subraya los adverbios de negación (no, nadie, jamás, ninguno, etc.) y pide a los alumnos que piensen otras oraciones que contengan esas palabras."
+    ],
+    "notas": "Con niños de nivel alfabético, esta actividad continúa con la Ficha Verde No. 29."
+  },
+  {
+    "id": "ROSA-42",
+    "color": "ROSA",
+    "numero": 42,
+    "nivel": "Generales",
+    "titulo": "COMPLETAN ORACIONES ESCRITAS",
+    "objetivo": [
+      "Analizar la estructura de la oración para darse cuenta del tipo de palabra que falta (verbo, artículo, sustantivo, etc.).",
+      "Descubrir que, muchas veces, existen varias soluciones correctas."
+    ],
+    "descripcion": [
+      "El maestro escribe en el pizarrón oraciones incompletas.",
+      "Lee una oración, haciendo una pausa y señalando el espacio en blanco, y pregunta: '¿Qué podríamos escribir aquí para que quedara completo?'.",
+      "Se propicia la discusión. Se analizan casos donde solo hay una posibilidad (ej. 'Carlos __ Paulina son hermanos', donde solo cabe 'y') y casos donde hay varias soluciones (ej. '__ payasos son chistosos', donde caben 'unos', 'los', 'esos').",
+      "Se pregunta: '¿Se podrá decir de otra manera?' para que noten las múltiples posibilidades."
+    ],
+    "notas": "Este tipo de actividad se puede proponer a niños de nivel alfabético para que la realicen de forma individual en su cuaderno."
+  }
+]

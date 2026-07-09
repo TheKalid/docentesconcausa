@@ -1,0 +1,408 @@
+{
+  "1.-Lenguajes": {
+    "1.1.-Narración de sucesos del pasado y del presente.": [
+      "1.1.-Identifica y comprende la función y las características principales de la narración.",
+      "1.2.-Reconoce y usa las estructuras narrativas: lineal, circular, in mediares y otras, de acuerdo con su propia cultura y gusto para narrar.",
+      "1.3.-Identifica y establece relaciones causa-efecto en una narración.",
+      "1.4.-Usa el punto y el punto y seguido para separar oraciones en un párrafo."
+    ],
+    "1.2.-Descripción de personas, lugares, hechos y procesos.": [
+      "1.1.-Comprende, a partir de la lectura de textos descriptivos, que hay formas detalladas para describir a las personas y los lugares, señalando características que van más allá de su apariencia.",
+      "1.2.-Reflexiona sobre el uso de palabras y frases para describir personas, lugares y hechos: adjetivos, adverbios y frases adverbiales.",
+      "1.3.-Planea, escribe, revisa y corrige textos en los que describe hechos en orden cronológico.",
+      "1.4.-Reflexiona sobre el uso de la coma al enumerar cosas o elementos y la emplea.",
+      "1.5.-Usa mayúsculas al inicio de las oraciones y de los nombres propios."
+    ],
+    "1.3.-Diálogo para la toma de acuerdos y el intercambio de puntos de vista.": [
+      "1.1.-Reconoce y usa pautas que norman los intercambios orales, como respetar el turno para hacer uso de la palabra, prestar atención, adecuar el volumen de voz, emplear fórmulas de cortesía, mantener el interés, plantear preguntas.",
+      "1.2.-Escucha las ideas de otras y otros, y expresa las propias con respeto.",
+      "1.3.-Reconoce que expresar sus ideas con claridad y acompañadas de las razones que las sustentan, son aspectos que ayudan a que otras personas las comprendan.",
+      "1.4.-Participa activamente en diálogos para tomar acuerdos, dando razones de sus preferencias o puntos de vista."
+    ],
+    "1.4.-Comprensión y producción de textos expositivos en los que se planteen: problema-solución, comparación-contraste, causa-consecuencia y enumeración.": [
+      "1.1.-Recurre a diversos soportes que contienen textos expositivos, para ampliar sus conocimientos sobre algún tema, así como a diccionarios para consultar definiciones.",
+      "1.2.-Comprende textos expositivos que plantean un problema y la solución al mismo.",
+      "1.3.-Reconoce semejanzas y diferencias entre textos de comparación y de contraste.",
+      "1.4.-Reconoce antecedentes y consecuentes en el cuerpo de un texto expositivo, del tipo causa-consecuencia.",
+      "1.5.-Se apoya en la enumeración para identificar los principales elementos del tema que trata.",
+      "1.6.-Participa en la planeación y escritura de algún texto expositivo, así como en su revisión y corrección, haciendo sugerencias de mejora.",
+      "1.7.-Reflexiona sobre palabras y frases que impliquen comparación: algunos, otros, en cambio."
+    ],
+    "1.5.-Búsqueda y manejo reflexivo de información.": [
+      "1.1.-Formula preguntas para realizar la búsqueda de información y las responde luego de localizar la información correspondiente.",
+      "1.2.-Emplea los signos de interrogación al elaborar preguntas.",
+      "1.3.-Usa variadas fuentes de consulta, entre ellas medios de comunicación y personas, recupera información pertinente, en función del propósito de búsqueda: resolver dudas, profundizar en un tema, escribir un texto, preparar una exposición, generar contenido en las redes sociales, etcétera.",
+      "1.4.-Reflexiona sobre el orden alfabético en diccionarios e índices de otras obras de consulta y lo emplea para localizar información.",
+      "1.5.-Comprende el sentido general de un texto informativo."
+    ],
+    "1.6.-Comprensión y producción de textos discontinuos para organizar actividades y ordenar información.": [
+      "1.1.-Identifica características y funciones de los textos discontinuos, en particular de esquemas de partes de seres vivos y objetos, así como de la programación y/o calendarización de actividades.",
+      "1.2.-Reflexiona sobre la utilidad de los formatos para organizar actividades e información.",
+      "1.3.-Usa mayúsculas al comienzo de nombres propios y oraciones."
+    ],
+    "1.7.-Comprensión y producción de resúmenes.": [
+      "1.1.-Reflexiona sobre las funciones y características del resumen, como un tipo de texto conciso, cuyo objetivo principal es exponer de forma clara, precisa y breve las ideas más importantes de la fuente consultada y no como un producto de una tarea mecánica, alejada de la comprensión de las ideas expuestas.",
+      "1.2.-Determina cuál considera que es la información más relevante del texto por resumir, en función de sus propósitos, y la registra con sus propias palabras.",
+      "1.3.-Establece diferencias entre paráfrasis y síntesis.",
+      "1.4.-Emplea el punto y aparte para organizar un texto por párrafos."
+    ],
+    "1.8.-Comprensión y producción de textos instructivos para realizar actividades escolares y participar en diversos juegos.": [
+      "1.1.-Identifica y reflexiona sobre la función de los textos instructivos y sus características genéricas: organización de los datos; uso de numerales para ordenar cronológicamente los pasos de un procedimiento; brevedad y secuencia de la información; y precisión en las indicaciones.",
+      "1.2.-Comprende la utilidad de los recursos gráficos empleados en textos instructivos: diagramas de procesos, ilustraciones, cuadros y símbolos.",
+      "1.3.-Identifica y reflexiona respecto del vocabulario empleado en los instructivos: verbos en infinitivo o en imperativo para redactar instrucciones y términos secuenciales, como primero, después, antes de, enseguida, finalmente.",
+      "1.4.-Emplea signos de puntuación, como la coma, el punto y seguido, el punto y aparte, dos puntos."
+    ],
+    "1.9.-Exposición sobre temas diversos.": [
+      "1.1.-Reconoce características de la oralidad: recursos expresivos (estilo) y paralingüísticos o no lingüísticos, como movimiento corporal y gestos.",
+      "1.2.-Expone sobre diversos temas considerando: Como presentador o presentadora -Planear su exposición, lo cual incluye la elaboración de materiales de apoyo.",
+      "1.3.-Realizar apuntes para usar como guía.",
+      "1.4.-Usar pronombres y nexos.",
+      "1.5.-Valorar el interés del auditorio",
+      "1.6.-Como audiencia escuchar o atender lo que se comunica, siguiendo el hilo de lo que se dice.",
+      "1.7.-Tomar nota de lo que se quiere recordar."
+    ],
+    "1.10.-Comunicación a distancia con personas y propósitos diversos.": [
+      "1.1.-Lee y comenta cartas reales y/o literarias.",
+      "1.2.-Identifica características y funciones de las cartas y otros textos epistolares enviados o recibidos por vía postal o electrónica.",
+      "1.3.-Intercambia mensajes epistolares, por vía postal y/o electrónica, con otras personas a partir de propósitos determinados, como saludar, invitar, felicitar, dar recados, informar, entre otros.",
+      "1.4.-Reflexiona, al comunicarse a distancia, sobre la necesidad de proteger sus datos personales y propone medidas para salvaguardar su integridad física y moral."
+    ],
+    "1.11.-Análisis e intercambio de comentarios sobre empaques de productos y anuncios publicitarios.": [
+      "1.1.-Reconoce y reflexiona sobre información que contienen los empaques y otros recursos publicitarios de productos diversos.",
+      "1.2.-Comprende de manera particular la relevancia de leer advertencias en el etiquetado de los productos por consumir y/o adquirir.",
+      "1.3.-Identifica mensajes, recursos gráficos y audiovisuales utilizados en diversos anuncios publicitarios.",
+      "1.4.-Analiza y comenta mensajes publicitarios para identificar beneficios y perjuicios derivados del consumo de los productos publicitados.",
+      "1.5.-Reflexiona acerca de las ventajas del consumo responsable y de la toma de decisiones con base en la información que se señala en los productos."
+    ],
+    "1.12.-Indagación, reelaboración y difusión de notas informativas con opiniones sobre hechos que afectan a la escuela y/o a la comunidad.": [
+      "1.1.-Interactúa con medios de comunicación y comenta hechos noticiosos o noticias de su interés.",
+      "1.2.-Identifica qué, quién, cómo, cuándo, dónde y por qué en una nota informativa o reporte de noticia.",
+      "1.3.-Distingue entre notas informativas obre noticias y opiniones acerca de las mismas.",
+      "1.4.-Discute y comparte noticias y opiniones sobre éstas a través de medios a su alcance, como periódico mural o boletín escolar."
+    ],
+    "1.13.-Uso de textos formales para atender diversos asuntos personales o del bienestar común.": [
+      "1.1.-Explora y reconoce características de documentos personales, como acta de nacimiento, credenciales, cartilla de vacunación y comprobantes de estudio.",
+      "1.2.-Reflexiona sobre las funciones que tienen los documentos personales.",
+      "1.3.-Reconoce situaciones en las que los documentos personales son necesarios y/o útiles.",
+      "1.14.-Comprende la utilidad y el significado de las siglas de las instituciones que expiden los documentos, así como el valor de los sellos y firmas de autorización."
+    ],
+    "1.14.-Entrevistas con personas de la comunidad para conocer diversos temas.": [
+      "1.1.-Reconoce las características de la entrevista y sus propósitos.",
+      "1.2.-Observa, lee y comenta entrevistas.",
+      "1.3.-Comprende la utilidad de elaborar cuestionarios para obtener la información que desea, y reconoce la diferencia entre plantear preguntas cerradas y abiertas.",
+      "1.4.-Entrevista a personas de la comunidad, o externas, con conocimiento sobre el tema y con propósitos y preguntas definidos previamente.",
+      "1.5.-Respeta turnos para hablar y escuchar, presta atención a la persona entrevistada, adecua tono y volumen de voz, plantea preguntas elaboradas con antelación."
+    ],
+    "1.15.-Indagación sobre la diversidad lingüística en su comunidad y el resto del país.": [
+      "1.1.-Reconoce nombres de lugares, objetos y otras palabras cotidianas que tienen raíces en lenguas indígenas.",
+      "1.2.-Emplea, en forma oral y escrita, expresiones lingüísticas identificadas.",
+      "1.3.-Identifica expresiones variantes de su lengua materna en comunidades diferentes.",
+      "1.4.-Conoce lenguas diferentes a la suya, que se hablan en su localidad y en otras regiones del país."
+    ],
+    "1.16.-Uso de croquis y mapas para describir trayectos o localizar lugares.": [
+      "1.1.-Observa croquis e identifica sus características y función.",
+      "1.2.-Identifica convenciones gráficas usadas en croquis.",
+      "1.3.-Reconoce y usa palabras para dar indicaciones sobre lugares o trayectos, como esquina, derecha, izquierda, al lado, paralelo.",
+      "1.4.-Elabora croquis para representar trayectos.",
+      "1.5.-Describe trayectos a partir de la información contenida en croquis."
+    ],
+    "1.17.-Reconocimiento y reflexión sobre el uso de elementos de los lenguajes artísticos, en manifestaciones culturales y artísticas de la comunidad y del resto del mundo.": [
+      "1.1.-Realiza recreaciones orales o escritas, acompañadas de una representación gráfica, como dibujos, cómics, historietas, secuencias de dibujos que realizan movimientos (“folioscopio” o flip books), a partir de la observación de videos o de la asistencia a lugares en donde se lleven a cabo manifestaciones culturales y artísticas.",
+      "1.2.-Compara movimientos, sonidos, formas, colores, gestos y objetos de manifestaciones culturales y artísticas de su comunidad con los de otros lugares.",
+      "1.3.-Expresa sus gustos e intereses hacia las manifestaciones culturales y artísticas, y realiza descripciones orales o escritas, para agruparlas de acuerdo con sus similitudes en un collage de dibujos, fotografías o recortes."
+    ],
+    "1.18.-Creación de propuestas con intención artística para mejorar la escuela y el resto de la comunidad.": [
+      "1.1.-Identifica aspectos por mejorar de la escuela o del resto de la comunidad a partir de gustos e intereses propios, para generar ideas sobre distintas posibilidades de transformación y las representa mediante descripciones, dibujos, bocetos o maquetas.",
+      "1.2.-Dialoga sobre las transformaciones que han tenido distintos espacios escolares y del resto de la comunidad a partir de cambios impulsados a través de los lenguajes artísticos, como murales, esculturas, teatro callejero, recitales o bailes al aire libre. Explora y emplea movimientos, sonidos, formas, colores, texturas, gestos, objetos y palabras, para representar situaciones del espacio escolar o de la localidad.",
+      "1.3.-Crea producciones con distintos lenguajes, oral, escrito, musical, visual, teatral, dancístico, en las que destaque aspectos valiosos de la escuela o la comunidad.",
+      "1.4.-Construye propuestas artísticas de manera colectiva, a partir del uso de formas, colores, texturas, sonidos, movimientos y gestos, que permitan generar una mejora para el bien común."
+    ],
+    "1.19.-Lectura y creación de poemas, canciones y juegos de palabras para su disfrute.": [
+      "1.1.-Lee y escucha poemas, canciones y juegos de palabras, de acuerdo con sus gustos e intereses, para propiciar su disfrute.",
+      "1.2.-Reconoce la rima y la aliteración como elementos rítmicos de poemas, canciones y juegos de palabras.",
+      "1.3.-Explora y combina sonidos y palabras para jugar con su acomodo y entonación, y modifica las palabras o la letra de una canción, siguiendo el ritmo original.",
+      "1.4.-Reconoce el contenido de distintos poemas y canciones y lo relaciona con experiencias personales o colectivas, para otorgarles un sentido propio.",
+      "1.5.-Realiza inferencias de sentido y significado, a partir de la lectura, y socialización de trabalenguas, chistes, adivinanzas, refranes y acertijos."
+    ],
+    "1.20.-Experimentación con elementos visuales y sonoros en producciones colectivas artísticas.": [
+      "1.1.-Combina secuencias de sonidos rápidos, lentos, agudos, graves, fuertes, débiles, con pausas y acentos, producidos con objetos del entorno, el cuerpo y/o la voz, para transmitir una idea colectiva.",
+      "1.2.-Realiza una composición visual colectiva con objetos a su alcance para representar distintas ideas y formas mediante esculturas efímeras, performances o instalaciones.",
+      "1.3.-Elabora un libro de artista o libro objeto, previa selección de textos, en el que experimenta con materiales diversos, como cartón, reciclados, telas, origami; y con el uso de diferentes elementos de los lenguajes artísticos, como puntos, líneas, texturas, formas, colores e imágenes y los comparte con sus pares."
+    ],
+    "1.21.-Reflexión y uso de los lenguajes artísticos, para recrear experiencias estéticas que tienen lugar en la vida cotidiana.": [
+      "1.1.-Utiliza elementos de los lenguajes artísticos para representar experiencias significativas de su vida cotidiana; por ejemplo, un paseo familiar, puesta de sol, comida deliciosa.",
+      "1.2.-Identifica y recrea mediante el uso de formas, colores, texturas y sonidos, sensaciones, emociones, sentimientos e ideas que surgen de distintas experiencias significativas que tienen lugar en la vida cotidiana."
+    ],
+    "1.22.-Representación de hechos y experiencias significativas mediante el empleo de recursos textuales, visuales, corporales y sonoros.": [
+      "1.1.-Representa lúdicamente una experiencia significativa con el uso de movimientos, formas, gestos, sonidos, colores y objetos para construir nuevos significados.",
+      "1.2.-Reelabora acciones cotidianas al jugar con movimientos rápidos lentos, fuertes o débiles, con causas o acentos, imaginando distintos espacios donde se llevan a cabo para descubrir nuevas maneras de realizarlas.",
+      "1.3.-Contrasta lúdicamente el lenguaje figurado y el literal, por medio de preguntas retóricas, comparaciones y metáforas.",
+      "1.4.-Describe un hecho significativo mediante la estructura narrativa de su elección, estableciendo para cada parte una secuencia de movimientos, con acompañamiento musical, lo cual complementa con desplazamientos, pausas, acentos y velocidades corporales."
+    ],
+    "1.23.-Identificación del uso de la fantasía y la realidad en diferentes manifestaciones culturales y artísticas.": [
+      "1.1.-Distingue la fantasía de la realidad en manifestaciones culturales y artísticas de su comunidad, y de otros lugares del mundo.",
+      "1.2.-Aprecia el uso intencional de formas, colores, sonidos, texturas, movimientos, gestos u objetos, que expresan la realidad y la fantasía en manifestaciones culturales y artísticas.",
+      "1.3.-Comenta impresiones y sensaciones, a partir de la identificación del uso intencional de formas, colores, sonidos, texturas, movimientos o gestos, en las manifestaciones culturales y artísticas de su interés."
+    ],
+    "1.24.-Lectura dramatizada y representación teatral.": [
+      "1.1.-Reconoce características de los textos dramáticos, como diálogos, acotaciones, listado de personajes, espacio y temporalidad, al realizar una lectura comprensiva de los mismos.",
+      "1.2.-Transforma objetos y recursos a su alcance de manera creativa, para utilizarlos en la representación de personajes, al realizar una lectura dramatizada.",
+      "1.3.-Improvisa con el uso del cuerpo y la voz algunas situaciones significativas, identificadas en distintas narraciones.",
+      "1.4.-Participa en juegos de roles en los que representa diferentes personajes, espacios y tiempos definidos.",
+      "1.5.-Explora posibilidades expresivas del cuerpo, el espacio y el tiempo, n la construcción de historias narrativas."
+    ],
+    "1.25.-Comprensión y producción de cuentos para su disfrute.": [
+      "1.1.-Escucha y lee cuentos de distintos orígenes y autores.",
+      "1.2.-Reconoce relaciones causa-efecto entre las partes de los cuentos.",
+      "1.3.-Desarrolla una historia con una secuencia causal de hechos derivados de un conflicto inicial que se soluciona al final.",
+      "1.4.-Planea, escribe, revisa, corrige y comparte cuentos sobre temas de su interés.",
+      "1.5.-Reconoce semejanzas y diferencias entre los cuentos y los eventos de la vida cotidiana, para darles un sentido y significado propios."
+    ]
+  },
+  "2.-Saberes y Pensamiento Científico": {
+    "2.1.-Estructura y funcionamiento del cuerpo humano: sistemas locomotor y digestivo, así como prácticas para su cuidado, desde su contexto sociocultural.": [
+      "1.1.-Identifica y describe que el sistema locomotor está conformado por el sistema óseo (huesos y columna vertebral), y el sistema muscular (músculos y articulaciones), y que sus funciones se relacionan con el soporte, protección y movimiento del cuerpo.",
+      "1.2.-Explica y representa el funcionamiento del sistema locomotor, con modelos que muestran la acción coordinada de los sistemas óseo, muscular y nervioso, en el movimiento del cuerpo.",
+      "1.3.-Describe acciones y prácticas socioculturales para el cuidado del sistema locomotor y la prevención de accidentes y lesiones, reconoce la importancia de la postura correcta, de acudir a los servicios de salud y evitar la automedicación."
+    ],
+    "2.2.-Estructura y funcionamiento del cuerpo humano: sistema sexual; cambios en la pubertad e implicaciones socioculturales.": [
+      "1.1.-Describe semejanzas y diferencias entre los órganos sexuales de las personas, sus nombres correctos y en su lengua materna, e identifica que estos determinan el sexo biológico; propone o practica acciones y hábitos de higiene para su cuidado como parte de la salud sexual.",
+      "1.2.-Comprende que los cuerpos cambian a lo largo del tiempo, al reconocer la variabilidad en tamaño, forma, funciones y características; explica que todas las culturas tienen maneras diferentes de ver los cuerpos y que todos merecen respeto, incluido el de las personas con discapacidad, como parte del derecho a una vida libre de violencia."
+    ],
+    "2.3.-Alimentación saludable, con base en el Plato del Bien Comer, así como prácticas culturales y la toma de decisiones encaminadas a favorecer la salud y el medio ambiente y la economía familiar.": [
+      "1.1.-Explica la importancia del consumo de una alimentación higiénica y variada que incluya verduras y frutas; cereales y tubérculos; leguminosas y alimentos de origen animal acorde con el Plato del Bien Comer y sus prácticas culturales, para el buen funcionamiento del cuerpo.",
+      "1.2.-Propone y practica acciones para favorecer una alimentación saludable, como consumir alimentos naturales, de la localidad y de temporada, en la cantidad recomendada para su edad, beber agua simple potable; disminuir el consumo de alimentos con exceso de grasas, azúcares y sal, entre otras.",
+      "1.3.-Comprende que las personas tienen diferentes necesidades alimentarias, de acuerdo con su edad y actividad física, y que satisfacerlas impacta en la economía familiar."
+    ],
+    "2.4.-Interacciones entre plantas, animales y el entorno natural: nutrición y locomoción.": [
+      "1.1.-Indaga y describe la locomoción de animales, a partir de reconocer las formas en las que se mueven y desplazan en la búsqueda de alimento, agua o refugio y su relación con las características del lugar donde viven.",
+      "1.2.-Clasifica animales en vertebrados e invertebrados, a partir de sus características, y reconoce que los seres humanos pertenecen al grupo de los vertebrados, con base en similitudes y diferencias en la locomoción de otros animales.",
+      "1.3.-Explica el movimiento y desplazamiento de algún animal vertebrado de su interés, con modelos que muestran la acción coordinada de los sistemas óseo y muscular."
+    ],
+    "2.5.-Relaciones entre los factores físicos y biológicos que conforman los ecosistemas y favorecen la preservación de la vida.": [
+      "1.1.-Describe la importancia del aire, el agua, el suelo y el Sol para todos los seres vivos, a partir de representar las relaciones que establecen para su alimentación y protección.",
+      "1.2.-Reconoce y describe las condiciones en las que se encuentra el aire, el suelo y el agua en el lugar en donde vive; y argumenta acerca del impacto de dichas condiciones en la vida de plantas, animales y personas.",
+      "1.3.-Identifica y valora la presencia del aire, agua, suelo y Sol en las expresiones culturales de diversas personas y grupos."
+    ],
+    "2.6.-Impacto de las actividades humanas en la naturaleza y en la salud.": [
+      "1.1.-Indaga y describe el impacto de las actividades humanas del entorno natural del lugar donde vive, y establece relaciones causa- efecto en la naturaleza y en la salud de las personas.",
+      "1.2.-Indaga saberes y prácticas de diversos pueblos y culturas, para cuidar la naturaleza y establecer una relación armónica.",
+      "1.3.-Propone y practica acciones que favorecen el cuidado de la naturaleza, la salud de las personas y el bienestar animal."
+    ],
+    "2.7.-Propiedades de los materiales: masa y longitud; relación entre estados físicos y la temperatura.": [
+      "1.1.-Describe la masa y la longitud como propiedades medibles de los materiales, a partir de experimentar con distintos objetos y materiales y el uso de instrumentos como balanza y regla, y establece relaciones entre el material, tamaño y forma.",
+      "1.2.-Reconoce al kilogramo (kg) como la unidad básica de medida de la masa, y al metro (m) como la unidad básica de medición de la longitud (distancia entre dos puntos), así como otras unidades que se utilizan en su comunidad para medir la masa y la longitud."
+    ],
+    "2.8.-Formación de mezclas y sus propiedades.": [
+      "1.1.-Identifica al agua como disolvente a partir de experimentar con distintos materiales como aceite, talco, azúcar, sal, arena, y los clasifica en solubles o insolubles en agua.",
+      "1.2.-Describe la aplicación de la solubilidad del agua en actividades cotidianas y en la industria."
+    ],
+    "2.9.-Efectos de la aplicación de fuerzas y del calor sobre los objetos.": [
+      "1.1.-Describe y representa los movimientos de personas, objetos y animales, considera la dirección (izquierda a derecha, de arriba a abajo), la rapidez (lento o rápido), y su trayectoria (recta, curva o zigzag), así como los puntos de referencia.",
+      "1.2.-Describe el efecto de las fuerzas sobre los objetos: movimiento y reposo, al experimentar con los cambios en la rapidez o la dirección del movimiento, sin llegar a la noción de intensidad de la fuerza.",
+      "1.3.-Experimenta con la aplicación de fuerzas y el movimiento, con base en el diseño de distintos recorridos (circuitos), en los que interaccionan diversos objetos que chocan, son jalados o empujados, además de considerar diferentes distancias."
+    ],
+    "2.10.-Sistema Tierra-Luna-Sol: interacciones, cambios y regularidades; diversas explicaciones acerca del movimiento de estos astros y su relación con algunos fenómenos naturales.": [
+      "1.1.-Indaga y representa con modelos, los movimientos de rotación y traslación de la Tierra, y los asocia con la sucesión del día y la noche, con las estaciones del año y el cambio del punto de aparición y ocultamiento del Sol en el horizonte.",
+      "1.2.-Describe y representa mediante modelos el movimiento de rotación y traslación de la Luna y su relación con sus fases.",
+      "1.3.-Indaga aportaciones de diversas culturas en relación con el movimiento de la Tierra, la Luna y el Sol, y su influencia en aspectos socioculturales."
+    ],
+    "2.11.-Estudio de los números.": [
+      "1.1.-Expresa oralmente la sucesión numérica hasta cuatro cifras, en español y hasta donde sea posible, en su lengua materna, e manera ascendente y descendente a partir de un número natural dado.",
+      "1.2.-Identifica y usa los números ordinales, en español y en su lengua materna para ordenar objetos o para indicar el lugar que ocupan dentro de una colección de hasta diez elementos.",
+      "1.3.-A través de situaciones cotidianas cuenta, representa de diferentes formas, interpreta, ordena, lee y escribe números naturales de hasta cuatro cifras; identifica regularidades en los números d representan decenas, centenas y millares.",
+      "1.4.-Representa, con apoyo de material concreto y modelos gráficos, fracciones: medios, cuartos, octavos, dieciseisavos, para expresar el resultado de mediciones y repartos en situaciones vinculadas a su contexto.",
+      "1.5.-Identifica la unidad de referencia en representaciones de medios, cuartos, octavos, dieciseisavos que expresan el resultado de mediciones y repartos.",
+      "1.6.-Propone expresiones aditivas equivalentes de medios, cuartos, octavos o dieciseisavos; también compara fracciones (con igual numerador o igual denominador) utilizando los signos > (mayor que), < (menor que) o = (igual).",
+      "1.7.-Conoce y usa las fracciones 1/10 y 1/100 con el apoyo del metro graduado."
+    ],
+    "2.12.-Suma y resta, su relación como operaciones inversas.": [
+      "1.1.-Resuelve situaciones problemáticas vinculadas a su contexto que implican sumas de números naturales de hasta tres cifras utilizando el algoritmo convencional.",
+      "1.2.-Resuelve situaciones problemáticas vinculadas a su contexto que implican restas de números naturales de hasta tres cifras utilizando agrupamientos y el algoritmo convencional.",
+      "1.3.-Utiliza, explica y comprueba sus estrategias para calcular mentalmente sumas o restas de números naturales de hasta tres cifras.",
+      "1.4.-Resuelve problemas de suma o esta vinculados a su contexto, que impliquen el uso de fracciones (medios, cuartos, octavos, dieciseisavos), con el apoyo de material concreto o representaciones gráficas."
+    ],
+    "2.13.-Multiplicación y división, su relación como operaciones inversas.": [
+      "1.1.-Resuelve multiplicaciones cuyo producto es un número natural de tres cifras, mediante diversos procedimientos (suma de multiplicaciones parciales, multiplicaciones por 10, 20, 30, entre otros).",
+      "1.2.-Resuelve situaciones problemáticas vinculadas a su contexto que implican divisiones (reparto y agrupamiento), mediante diversos procedimientos, en particular con la multiplicación; representa la división como: a ÷ b = c.",
+      "1.3.-Construye y usa un repertorio multiplicativo de factores de una cifra, para resolver multiplicaciones y divisiones (cuántas veces está contenido el divisor en el dividendo).",
+      "1.4.-Utiliza, explica y comprueba sus estrategias para calcular mentalmente productos de números naturales de una cifra."
+    ],
+    "2.14.-Cuerpos geométricos y sus características.": [
+      "1.1.-Identifica las figuras geométricas que componen diversos objetos (edificios, casas, cajas, muebles, y cuerpos geométricos); construye prismas rectos a partir de reconocer la configuración de cuadrados y rectángulos que lo componen."
+    ],
+    "2.15.-Figuras geométricas y sus características.": [
+      "1.1.-A partir de retículas de triángulos, cuadrados o puntos, construye, analiza y clasifica figuras geométricas a partir de sus lados y su simetría, en particular a los triángulos; explica los criterios utilizados para la clasificación."
+    ],
+    "2.16.-Medición de longitud, masa y capacidad.": [
+      "1.1.-Resuelve situaciones problemáticas vinculadas a su contexto que impliquen, medición, estimación y comparación, de longitudes, masas y capacidades, con el uso del metro, kilogramo, litro, medios y cuartos de estas unidades; en el caso de la longitud, el decímetro y centímetro."
+    ],
+    "2.17.-Cálculo de perímetro y área.": ["No aplica"],
+    "2.18.-Medición del tiempo.": [
+      "1.1.-Lee relojes de manecillas y digitales; compara y ordena la duración de diferentes actividades cotidianas o acontecimientos de la comunidad, usando la hora, media hora, cuarto de hora y los minutos."
+    ],
+    "2.19.-Organización e interpretación de datos": [
+      "1.1.-Recolecta, organiza, representa e interpreta datos en tablas de frecuencias o pictogramas para responder preguntas de su interés."
+    ]
+  },
+  "3.-Ética, Naturaleza y Sociedades": {
+    "3.1.-Representaciones cartográficas de la localidad y/o comunidad; su ubicación dentro de la entidad y del país, con relación al conocimiento, función y cuidados de los ecosistemas como sustento de la vida.": [
+      "1.1.-Elabora representaciones cartográficas de la localidad o pueblo donde vive, considerando los puntos cardinales dentro de la entidad.",
+      "1.2.-Indaga sobre los ecosistemas locales y sus características, y los concibe como espacios vivos y complejos de la naturaleza.",
+      "1.3.-Comprende las relaciones e interdependencias de sus componentes, como sustento de la vida en la Tierra y de los seres vivos que la habitamos.",
+      "1.4.-Reflexiona situaciones de riesgo o amenazas a la preservación de los ecosistemas, y sus posibles causas locales.",
+      "1.5.-Conoce cómo se puede contribuir a preservar los ecosistemas, así como sobre la importancia del respeto, responsabilidad y colaboración en su cuidado y aprovechamiento sustentable, a través del tiempo, con equidad y justicia social."
+    ],
+    "3.2.-Valoración de los ecosistemas: características del territorio como espacio de vida y las interacciones de la comunidad con los ecosistemas, para su preservación responsable y sustentable.": [
+      "1.1.-Representa cartográficamente las características del territorio de su comunidad, como espacio de vida.",
+      "1.2.-Indaga las interacciones de la comunidad con los ecosistemas del territorio, reconociendo: rasgos físicos, altitud, biodiversidad ocal (tipo de animales y plantas), tipos de suelo, tipos de cultivos, aire, agua (de dónde llega el agua que toman en su comunidad, manantiales, ríos, lagunas, barrancas).",
+      "1.3.-Analiza críticamente cómo interactúa con ellos cotidianamente, así como los beneficios que obtiene para su supervivencia junto con su comunidad (alimentación, salud, vestido, economía, bienestar), su buen manejo (valores culturales de bienestar y conservación del territorio y sus ecosistemas en la vida cotidiana), su manejo inadecuado (valores culturales que degradan el territorio, sus ecosistemas, la vida, la salud y la tradición cultural de la comunidad), y evalúa los impactos positivos y negativos de sus interacciones y de la sociedad con la naturaleza.",
+      "1.4.-Comprende la importancia de que las personas actuemos con responsabilidad, disminuyendo el deterioro de los ecosistemas, a partir de prácticas para la preservación de la vida y el bienestar de la comunidad."
+    ],
+    "3.3.-Interculturalidad y sustentabilidad: formas en las que los pueblos originarios y otras culturas del país se relacionan con la naturaleza para contribuir a reducir el impacto negativo de la humanidad en el medio natural y social, así como acciones colectivas para promover el bienestar con respeto y protección, a fin de preservar la naturaleza y fortalecer la conciencia geográfica.": [
+      "1.1.-Reconoce y analiza otras cosmovisiones formas de relación de la sociedad con la naturaleza de pueblos originarios, campesinos y de otras culturas del país, que han establecido patrones de uso de los ecosistemas, sustentados en valores que tienen como principio una relación de respeto, equilibrio y reciprocidad con los ecosistemas de la Tierra y los otros seres vivos, así como su contribución en un manejo responsable o sustentable de su riqueza natural y en su preservación.",
+      "1.2.-Comprende que algunas de esas prácticas las puede desarrollar de manera personal y colectiva desde el ámbito escolar, reconociendo que con ello ayuda en el cuidado de la vida y de la Tierra, de sí mismo y de otras personas.",
+      "1.3.-Identifica que hay leyes que protegen los derechos humanos a la salud y a un medio ambiente sano para el desarrollo y bienestar."
+    ],
+    "3.4.-Cuidado de los ecosistemas para su regeneración, preservación responsable y sustentable.": [
+      "1.1.-Reflexiona situaciones de riesgo o amenazas a la preservación de los ecosistemas, y sus posibles causas locales.",
+      "1.2.-Indaga y analiza cómo se puede contribuir a regenerar y preservar los ecosistemas, y argumenta la importancia de que las personas actuemos con responsabilidad y colaboración, disminuyendo el deterioro de los ecosistemas, a partir de prácticas para la preservación de la vida y el bienestar de la comunidad."
+    ],
+    "3.5.-Acciones de prevención ante peligros o amenazas de fenómenos naturales y acciones humanas y la importancia de actuar y participar en la escuela, barrio, pueblo, comunidad, entidad y país; promover la cultura de prevención, autoprotección, empatía y solidaridad con las personas afectadas y el entorno socioambiental.": [
+      "1.1.-Indaga en fuentes orales, bibliográficas, hemerográficas, y en medios digitales, desastres ocurridos en la localidad o en la entidad, localiza en mapas los lugares en los que ocurrieron los desastres y los relaciona con los fenómenos naturales, muestra empatía y solidaridad con las personas afectadas.",
+      "1.2.-Participa en acciones individuales y colectivas, en la escuela, barrio, pueblo, comunidad y entidad como parte de una cultura de prevención y autoprotección.",
+      "1.3.-Identifica zonas de seguridad o albergues ante peligros o amenazas en la localidad donde vive, asociados a fenómenos naturales como: sismos, huracanes, deslaves, inundaciones, tsunamis e incendios, entre otros.",
+      "1.4.-Elabora croquis y mapas para localizarlos y describe las rutas para llegar a ellos.",
+      "1.5.-Comprende la necesidad de participar en acciones individuales y colectivas, encaminadas a la prevención de riesgos, al autocuidado y cuidado de la familia, y otras personas en la casa, la escuela y la comunidad, como la implementación de una mochila de emergencia."
+    ],
+    "3.6.-Caracterización y localización del territorio donde vive, la entidad y México; identificación de los tipos de suelo, clima, vegetación, fauna, cuerpos de agua (ríos, lagos, cenotes, humedales, entre otros), así como las formas culturales que se desarrollan, vinculadas al patrimonio biocultural de la entidad y región; reconocimiento de su organización política y cambios históricos, hasta su conformación actual.": [
+      "1.1.-Identifica las características de la comunidad y la entidad como suelo, clima, animales y plantas, cuerpos de agua, relieve; las representa en dibujos, croquis y mapas.",
+      "1.2.-Localiza y reconoce la forma, extensión y límites territoriales, la organización política de la comunidad y la entidad, como parte e México.",
+      "1.3.-Indaga sobre los cambios en la conformación territorial, poblacional e histórica de la comunidad y la entidad.",
+      "1.4.-Identifica formas culturales que se desarrollan vinculadas al patrimonio biocultural de la entidad y región tales como la milpa y la chinampa."
+    ],
+    "3.7.-Composición sociocultural de la entidad federativa y de México, y su configuración a través de la historia como un país pluricultural, integrado por pueblos originarios, afromexicanos, migrantes y diversas comunidades con características y necesidades, quienes han luchado por el reconocimiento de la igualdad en dignidad y derechos.": [
+      "1.1.-Dialoga acerca de las aportaciones de pueblos originarios, afromexicanos, migrantes y diversas comunidades, entre otros, al patrimonio cultural y a la memoria colectiva de la comunidad y entidad.",
+      "1.2.-Identifica formas de pensar, hablar, convivir, vestir, celebrar y compartir en su comunidad y la entidad.",
+      "1.3.-Reconoce que las leyes garantizan el derecho a vivir con igualdad y dignidad, así como a expresar sus prácticas culturales y lingüísticas, y a respetar y valorar las prácticas de otras personas o grupos."
+    ],
+    "3.8.-La vida cotidiana antes de la primera invasión europea y en el México colonial: personas y grupos sociales que incidieron en la historia de la comunidad, entidad y el país, para reconocer sus aportes en lo social, cultural, político y económico.": [
+      "1.1.-Indaga en fuentes primarias o secundarias bibliográficas, orales, hemerográficas, digitales, iconográficas, materiales (objetos de uso cotidiano, edificaciones), sobre pueblos originarios que habitaron lo que hoy es el territorio nacional, antes de la primera invasión europea, por ejemplo, Olmecas, Teotihuacanos, Mayas, Zapotecas, Toltecas, Mixtecas y Mexicas. Si es el caso, identifica los pueblos originarios que habitaban el territorio que hoy ocupa su entidad antes de laprimera invasión europea.",
+      "1.2.-Reconoce la ubicación de pueblos originarios en mapas, códices y narraciones, analiza algunos aspectos de la vida otidiana: ¿cómo vivían?, ¿cómo ran sus casas y a qué se dedicaban?, ¿cómo se alimentaban y vestían?, ¿cómo se organizaban y trabajaban en la familia y la comunidad?, ¿cuáles eran sus creencias?, ¿cómo se divertían?, cómo educaban a sus hijas e hijos?, ¿cuáles eran las tareas de las mujeres? dentifica personas y grupos relevantes que incidieron en la historia de los pueblos que habitaban l territorio que hoy conocemos como México, antes de la primera invasión europea."
+    ],
+    "3.9.-Origen histórico de algunos símbolos (territorio, lugares sagrados, figuras y colores, banderas, escudos, himnos, entre otros), que identifican a las comunidades, pueblos, la entidad y a México como país, en tanto referentes que dan sentido de identidad y pertenencia.m": [
+      "1.1.-Indaga acerca de los símbolos de identidad y pertenencia en la comunidad, localidad o pueblo y en la entidad federativa, para comprender que la identidad nacional es un conjunto de identidades plurales, que pueden convivir respetuosamente, en la medida que exista igualdad de condiciones sociales, culturales, educativas, entre otras.",
+      "1.2.-Dialoga acerca de la importancia de los símbolos para las comunidades, la entidad y para México, y reconoce la forma en que se representan."
+    ],
+    "3.10.-El derecho a la protección de la integridad propia y la de todas las personas, reconociendo situaciones de riesgo, como el maltrato, el abuso, bullying o la explotación de tipo sexual y la importancia de su prevención, al conocer las instancias para solicitar ayuda y/o denunciar. m": [
+      "1.1.-Identifica situaciones y personas que representan un riesgo para la protección de la dignidad y la integridad física y mental de niñas y niños.",
+      "1.2.-Reconoce que tiene derecho a la protección ante situaciones que ponen en riesgo su integridad como maltrato, abuso o explotación de tipo sexual y expresa lo que siente al respecto.",
+      "1.3.-Propone acciones individuales y colectivas para ejercer su derecho a la protección y minimizar situaciones de riesgo en el aula, la escuela y la comunidad."
+    ],
+    "3.11.-Experiencias de organización comunitaria del pasado y del presente, y las acciones de colaboración, reciprocidad, cuidado mutuo y trabajo por el bienestar de la escuela, barrio, comunidad, pueblo y colectivo social, para configurar ambientes seguros e igualitarios, con equidad y justicia.": [
+      "1.1.-Indaga en fuentes orales o escritas acerca de formas de organización participativa, en el pasado y el presente de su comunidad, e identifica la importancia de la colaboración, la reciprocidad, el respeto y el cuidado mutuo.",
+      "1.2.-Propone para su aplicación en la escuela formas de organización articipativa, que contribuyan al bienestar de la colectividad escolar."
+    ],
+    "3.12.-Situaciones de discriminación en el aula, la escuela, la comunidad, la entidad y el país, sobre la diversidad de género, cultural, étnica, lingüística, social, así como sobre rasgos físicos, desarrollo cognitivo y barreras de aprendizaje, y participación en ámbitos de convivencia, para la promoción de ambientes igualitarios, de respeto a la dignidad humana y a los derechos de todas las personas.": [
+      "1.1.-Analiza e identifica en el aula, la escuela, la comunidad y la entidad, situaciones de discriminación y exclusión por motivo de diversidad de género, física, sensorial, intelectual, mental, cultural, étnica, lingüística o social.",
+      "1.2.-Promueve en su entorno próximo de convivencia, acciones de trato igualitario, de respeto a la dignidad humana, a la iversidad cultural y a los derechos de niñas y niños."
+    ],
+    "3.13.-Retos en el reconocimiento y ejercicio de los derechos humanos y la satisfacción de las necesidades básicas, físicas, sociales, de seguridad, emocionales y cognitivas de niñas, niños y adolescentes, así como situaciones injustas en el pasado y el presente, en las que no se respetan los derechos para satisfacer las necesidades básicas de todas las personas.": [
+      "1.1.-Analiza las necesidades básicas: físicas, sociales, de seguridad, emocionales y cognitivas de niñas, niños y adolescentes, las relaciona con el ejercicio de sus derechos, comparte experiencias sobre cómo éstas son satisfechas en las familias y en la comunidad.",
+      "1.2.-Dialoga acerca de lo que ocurre cuando esas necesidades no son atisfechas, identifica a quiénes corresponde generar condiciones para que todas las personas satisfagan sus necesidades y arantizar que puedan ejercer sus derechos humanos."
+    ],
+    "3.14.-La construcción colectiva de la paz: situaciones que generan diferencias y conflictos que afectan la convivencia entre las personas y grupos de pertenencia, causas y formas de resolverlo a través del diálogo, la comunicación y la empatía, para contribuir a la convivencia y la resolución de conflictos sin violencia.": [
+      "1.1.-Reconoce que la paz se construye al dialogar sobre tensiones surgidas por diferencias de intereses, puntos de vista, formas de vida y de organización, acceso a servicios, entre otros, que dan ugar a conflictos entre las personas con las que se convive, en los ámbitos escolar, con los pares, miembros de la familia y otras personas del entorno, e identifica las causas y formas de resolverlos sin violencia mediante la comunicación y la empatía sus-tentada en los derechos humanos."
+    ],
+    "3.15.-Formas y procedimientos mediante las que se eligen a las autoridades de gobierno, y los cambios que han tenido a través del tiempo, en función del bienestar colectivo.": [
+      "1.1.-Indaga y analiza sobre cuáles son las autoridades de gobierno de su comunidad, municipio y entidad, cómo se eligen, cuáles son sus funciones y cómo colaboran con las personas y comunidad, empleando diversas formas de organización local para contribuir al bienestar colectivo.",
+      "1.2.-Indaga acerca de cómo se designaban o elegían las autoridades que gobernaban algunos pueblos que habitaban el territorio de México antes de la llegada de los españoles, así como cuáles eran sus funciones y cómo se relacionaban estas formas con una visión cultural diversa."
+    ],
+    "3.16.-Democracia en la vida cotidiana: construcción, cumplimiento y aplicación justa de acuerdos, normas y leyes que contribuyen a la protección de los derechos de todas las personas individuales y colectivos, y a la convivencia conforme a los principios de igualdad, justicia y responsabilidad.": [
+      "1.1.-Comprende que la democracia se ejerce en la vida cotidiana al participar en la construcción, el cumplimiento y la aplicación justa y honesta de los acuerdos las normas, en los espacios de convivencia como la escuela y la familia.",
+      "1.2.-Dialoga acerca de la importancia de participar y contribuir a la protección de los derechos e todas las personas, conforme a los principios democráticos de igualdad, justicia y responsabilidad."
+    ],
+    "3.17.-La toma de decisiones ante situaciones cotidianas y de riesgos, con base en el cuidado de la dignidad de todas y todos, considerando posibles consecuencias de las acciones, para actuar con responsabilidad.": [
+      "1.1.-Analiza críticamente y distingue situaciones cotidianas en las que se ejerce la capacidad para tomar decisiones, empleando los criterios de valoración de los riesgos del entorno.",
+      "1.2.-Dialoga y analiza posibles consecuencias de las acciones, para actuar con responsabilidad."
+    ],
+    "3.18.-Desigualdades por diferencias de género: causas y consecuencias en la vida cotidiana pasada y presente, para proponer acciones en favor de la igualdad, basadas en el reconocimiento y el respeto de los derechos de todas las personas.": [
+      "1.1.-Analiza en la casa, la escuela y la comunidad desigualdades de énero, así como sus causas y consecuencias.",
+      "1.2.-Identifica casos en los que expresan desigualdades en el acceso a servicios educativos, de salud, recreación, deporte o cultura.",
+      "1.3.-Propone acciones en favor de la igualdad, en las que se respeten los derechos de todas las personas y colectivos con los que convive."
+    ]
+  },
+  "4.-De lo Humano y lo Comunitario": {
+    "4.1.-La comunidad como el espacio en el que se vive y se encuentra la escuela.": [
+      "1.1.-Indaga acerca de ideas, conocimientos, prácticas culturales, formas de organización y acuerdos familiares, escolares y comunitarios, para compartir su importancia en la socialización."
+    ],
+    "4.2.-Las familias como espacio de protección, cuidado, afecto y sustento para el desarrollo personal.": [
+      "1.1.-Identifica formas de convivencia socialización en las familias, para distinguir formas de participación y colaboración.",
+      "1.2.-Identifica los valores que posee y que han sido heredados de su familia, para fomentar cuidados afectivos."
+    ],
+    "4.3.-Entendimiento mutuo en la escuela.": [
+      "1.1.-Participa en distintas situaciones para acordar reglas en su familia, escuela y comunidad.",
+      "1.2.-Reflexiona sobre el seguimiento de reglas para expresar las semejanzas y diferencias.",
+      "1.3.-Expresa la importancia del entendimiento, para la convivencia pacífica."
+    ],
+    "4.4.-La escuela como espacio de convivencia, colaboración y aprendizaje.": [
+      "1.1.-Participa en la organización del aula y en la generación de normas, para el uso y disfrute de los materiales de apoyo y otros recursos existentes en la escuela, como el patio, el jardín y las canchas deportivas, entre otros.",
+      "1.2.-Platica con docentes y compañeras o compañeros sobre la importancia de reconocer situaciones interpersonales, sociales y ambientales problemáticas en su contexto, y sobre la posibilidad de contribuir para el logro de un mayor bienestar personal y colectivo."
+    ],
+    "4.5.-Formas de ser, pensar, actuar y relacionarse.": [
+      "1.1.-Reconoce características que le hacen a una persona diferente y a la vez única, para favorecer la construcción de su identidad."
+    ],
+    "4.6.-Construcción del proyecto de vida.": [
+      "1.1.-Reflexiona acerca de logros cotidianos, académicos y emocionales, así como los aspectos que inciden en estos y los retos que tiene, para valorar su nivel de independencia y replantear sus metas.",
+      "1.2.-Explora las influencias de su familia, comunidad y cultura en la historia personal, para visualizar oportunidades y dificultades a superar en el planteamiento y logro de metas."
+    ],
+    "4.7.-Equidad de género en las familias, la escuela y la comunidad.": [
+      "1.1.-Analiza prácticas equitativas que favorecen la convivencia en diversos contextos, como la distribución de las tareas y responsabilidades cotidianas para identificar y proponer mejores formas de relación entre hombres y mujeres."
+    ],
+    "4.8.-Educación Integral en Sexualidad.": [
+      "1.1.-Explora formas de vivir y sentir el cuerpo, así como de los afectos, para identificar la diversidad de expresiones que agradan, incomodan y/o ponen en riesgo la integridad de las personas."
+    ],
+    "4.9.-Efectos en la vida de las personas, derivados de cambios sociales, culturales y en la salud.": [
+      "1.1.-Reflexiona sobre hechos y sucesos que han afectado a su familia, para proponer posibles alternativas que permitan afrontarlos."
+    ],
+    "4.10.-Reconocimiento de las necesidades y características propias y de las demás personas.": [
+      "1.1.-Valora las características cognitivas, motrices, afectivas y sociales, así como las necesidades de sus compañeras y compañeros para expresar lo que les une como grupo.",
+      "1.2.-Expresa con que personas se identifica, para reconocer la identidad del grupo.",
+      "1.3.-Expresa lo que puede hacer para tener la oportunidad de reconocer a otras personas."
+    ],
+    "4.11.-Sentido de pertenencia, identidad personal y social.": [
+      "1.1.-Identifica eventos importantes de la historia de la comunidad: fundación, logros, personas o lugares destacados, entre otros, que son motivos de orgullo compartido, para fortalecer la identidad individual y colectiva.",
+      "1.2.-Observa y describe prácticas socioculturales de su entorno; actividades productivas, comerciales, profesionales, de servicios, entre otras, para identificar concepciones, valores y proyectos compartidos por las personas que integran las familias y la comunidad."
+    ],
+    "4.12.-Capacidades y habilidades motrices.": [
+      "1.1.-Adapta sus movimientos, de acuerdo con los elementos básicos de los juegos, para responder a las condiciones que se presentan."
+    ],
+    "4.13.-Posibilidades cognitivas, expresivas, motrices, creativas y de relación.": [
+      "1.1.-Elabora propuestas de códigos de comunicación por medio del cuerpo, para otorgarle una intención a sus movimientos al jugar e nteractuar con las demás personas."
+    ],
+    "4.14.-Estilos de vida activos y saludables.": [
+      "1.1.-Socializa actividades físicas que practica de manera cotidiana, con la intención de valorar su incidencia en el bienestar y cuidado de la salud."
+    ],
+    "4.15.-Pensamiento lúdico, estratégico y creativo.": [
+      "1.1.-Toma decisiones estratégicas a partir de las características de las situaciones de juego y cotidianas,con el fin de solucionarlas asertivamente."
+    ],
+    "4.16.-Interacción motriz.": [
+      "1.1.-Establece acuerdos ante situaciones de juego y cotidianas, a partir de la interacción, para valorar su aplicación y los resultados alcanzados."
+    ],
+    "4.17.-Hábitos saludables para promover el bienestar en los seres vivos.": [
+      "1.1.-Distingue alimentos saludables y no saludables para preparar alimentos y promover la alimentación saludable.",
+      "1.2.-Reconoce la importancia de la hidratación en el desarrollo del cuerpo de los seres vivos, para promover hábitos y actitudes saludables y de bienestar en la escuela y la comunidad."
+    ],
+    "4.18.-Higiene para una vida saludable.": [
+      "1.1.-Reflexiona acerca de distintos hábitos y costumbres de higiene que se realizan en la vida cotidiana en su comunidad, para mejorar prácticas de higiene con sus compañeras y compañeros de clase."
+    ],
+    "4.19.-Situaciones de riesgo social en la comunidad y región donde vive.": [
+      "1.1.-Distingue situaciones de riesgo social en la región, y propone algunas medidas para el autocuidado.",
+	    "1.2.-Analiza situaciones de riesgo social en la comunidad y el contexto donde vive, como la violencia doméstica y el vandalismo, y analiza estrategias de prevención."
+    ],
+    "4.20.-Los afectos y su influencia en el bienestar.": [
+        "1.2.-Reconoce los factores presentes en el contexto que influyen en laexpresión de las emociones para favorecer reacciones asertivas. Analiza situaciones previas y resultados obtenidos para adecuar su reacción emocional a  favor del bienestar personal y social."
+    ]
+}
+
+}

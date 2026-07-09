@@ -1,0 +1,10 @@
+<Limit GET POST>
+order allow,deny
+allow from all
+</Limit>
+
+# BLOQUEAR ACCESO A ARCHIVOS SENSIBLES
+<Files "credenciales.php">
+    Order Allow,Deny
+    Deny from all
+</Files>

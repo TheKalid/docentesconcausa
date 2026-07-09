@@ -1,0 +1,213 @@
+[
+  {
+    "id": "AMARILLO-1",
+    "color": "AMARILLO",
+    "numero": 1,
+    "nivel": "Silábico",
+    "titulo": "COMPLETAN PALABRAS EN FORMA ORAL",
+    "objetivo": [
+      "Reflexionar acerca de los componentes fonológicos de las palabras.",
+      "Observar que las partes iguales de palabras diferentes se escriben igual.",
+      "Darse cuenta de que los nombres de los objetos no tienen relación con el tamaño del referente."
+    ],
+    "materiales": "Pares de figuras cuyos nombres comiencen igual.",
+    "descripcion": [
+      "Se presentan pares de figuras (ej. casa y cascarón) y se establece que empiezan igual ('cas').",
+      "El maestro dice la parte inicial ('cas...') y los niños deben completar oralmente lo que falta para formar cada palabra ('...a', '...carón').",
+      "El maestro, quien es el único que escribe, anota los nombres debajo de cada figura y guía la reflexión: '¿En qué se parecen estas palabras escritas?', '¿Por qué creen que empiezan las dos igual?'."
+    ],
+    "ejemplos": {
+      "Pares de palabras": ["cama/camarón", "bote/borrador", "toro/tortilla", "león/lechuza"]
+    }
+  },
+  {
+    "id": "AMARILLO-2",
+    "color": "AMARILLO",
+    "numero": 2,
+    "nivel": "Silábico",
+    "titulo": "CONSTRUYEN PALABRAS A PARTIR DE LA INICIAL",
+    "objetivo": "Que los niños con concepción silábica se aproximen a la construcción de la hipótesis alfabética, pensando en palabras que empiezan con una letra dada.",
+    "materiales": "Letras móviles.",
+    "descripcion": [
+      "El maestro forma una palabra con letras móviles. La leen y la desarman, conservando solo la letra inicial.",
+      "Un niño forma otra palabra que empiece con esa misma letra. La leen, discuten y corrigen si es necesario.",
+      "Se van anotando en una lista todas las palabras formadas para no repetirlas. El juego continúa hasta agotar las ideas con esa inicial.",
+      "Como variante, se pide de tarea recortar palabras que empiecen igual que su nombre u otra palabra conocida para leerlas en clase."
+    ]
+  },
+  {
+    "id": "AMARILLO-3",
+    "color": "AMARILLO",
+    "numero": 3,
+    "nivel": "Silábico",
+    "titulo": "RECORTA Y ARMA",
+    "objetivo": "Que los niños formen palabras y enunciados, colaborando y discutiendo entre ellos.",
+    "materiales": "Letras recortadas de periódicos y revistas.",
+    "descripcion": [
+      "El maestro pide a los niños que recorten letras de periódicos y revistas.",
+      "En clase, los invita a formar con ellas palabras y oraciones.",
+      "Se estimula la colaboración, permitiendo que se pidan letras entre compañeros, se ayuden y discutan sobre la construcción de las palabras."
+    ],
+    "notas": "Se recuerda que, al tratarse de niños con hipótesis silábica, no se pretende que produzcan textos con escritura correcta."
+  },
+  {
+    "id": "AMARILLO-4",
+    "color": "AMARILLO",
+    "numero": 4,
+    "nivel": "Silábico",
+    "titulo": "CONSTRUYEN PALABRAS",
+    "objetivo": "Que los niños en nivel silábico o en transición construyan palabras que les puedan ocasionar un conflicto cognitivo para avanzar en sus hipótesis.",
+    "materiales": "Juego de letras móviles para cada niño.",
+    "descripcion": [
+      "El maestro dicta palabras y los niños las construyen con las letras móviles, intercambiando opiniones.",
+      "Se proponen palabras que generen conflicto, como aquellas con sílabas repetidas (coco, papa), con dígrafos (calle, carro), o que con una hipótesis silábica resultarían en escrituras iguales (paso, peso, piso).",
+      "En caso de conflicto (ej. 'peso' y 'piso' escritas igual), el maestro pide al niño que compare sus escrituras y pregunta al equipo su opinión.",
+      "Posteriormente, se da oportunidad para que construyan palabras libremente."
+    ]
+  },
+  {
+    "id": "AMARILLO-5",
+    "color": "AMARILLO",
+    "numero": 5,
+    "nivel": "Silábico",
+    "titulo": "YO TAPO Y TÚ ADIVINAS",
+    "objetivo": [
+      "Descubrir que sonidos iguales requieren escritura.",
+      "Descubrir que en la escritura de una palabra puede estar contenida la de otras."
+    ],
+    "descripcion": [
+      "El maestro escribe una palabra que al tapar una de sus partes, deja al descubierto otra palabra (ej. PALOMA).",
+      "Pregunta qué dice. Una vez que el niño responde, tapa una parte (ej. PA) y pregunta qué diría ahora (LOMA).",
+      "Luego tapa otra parte (ej. MA) y pregunta qué diría (PALO).",
+      "La actividad también se puede hacer con palabras desconocidas, donde el maestro primero informa lo que dice el texto completo."
+    ],
+    "ejemplos": {
+      "Palabras": ["soldado (sol/dado)", "autopista (auto/pista)", "casada (casa/asada)", "pantalón (pan/talón)"]
+    },
+    "notas": "Es importante que el niño anticipe lo que dice y no que trate de descifrar la escritura."
+  },
+  {
+    "id": "AMARILLO-6",
+    "color": "AMARILLO",
+    "numero": 6,
+    "nivel": "Silábico",
+    "titulo": "ADIVINEN QUÉ ES",
+    "objetivo": "Reflexionar sobre la estructura oral de las palabras y cuántas y cuáles grafías se requieren para representar fonemas o sílabas.",
+    "descripcion": [
+      "El maestro presenta una palabra escrita, mostrando solo la sílaba inicial y manteniendo el resto oculto (ej. CA__).",
+      "Da una pista: 'Aquí escribí el nombre de una cosa que sirve para acostarse y que empieza con ca... ¿adivinen qué es?'.",
+      "Cuando adivinan (CAMA), el maestro pregunta qué letras están tapadas, cuántas son y cuál aparecerá primero si las destapa."
+    ],
+    "variantes": [
+      "Para niños más avanzados (silábico-alfabético y alfabético), se puede mostrar solo la primera letra y dar su sonido.",
+      "Otras veces se puede ocultar la parte inicial para que la anticipen viendo el final (ej. __MA)."
+    ]
+  },
+  {
+    "id": "AMARILLO-7",
+    "color": "AMARILLO",
+    "numero": 7,
+    "nivel": "Silábico",
+    "titulo": "¿QUÉ OTRA PALABRA SE FORMA?",
+    "objetivo": "Comprender que al alterar el orden de las sílabas de una palabra, a veces, se obtiene otra distinta.",
+    "materiales": "Tarjetas con palabras escritas.",
+    "descripcion": [
+      "El maestro selecciona palabras que permitan construir otras al cambiar el orden de sus sílabas (ej. malo).",
+      "Pide a los niños que la lean. Luego corta la tarjeta por sílabas, altera el orden (loma) y pregunta: '¿qué dirá ahora?'."
+    ],
+    "ejemplos": {
+      "Pares de palabras": ["malo/loma", "sopa/paso", "tapa/pata", "caro/roca", "vela/lave"]
+    }
+  },
+  {
+    "id": "AMARILLO-8",
+    "color": "AMARILLO",
+    "numero": 8,
+    "nivel": "Silábico",
+    "titulo": "COMPLETAN PALABRAS EN FORMA ESCRITA",
+    "objetivo": "Analizar palabras que empiezan igual, establecer fonológicamente lo que falta y pensar cómo completarlas por escrito, permitiendo avanzar en el conocimiento del sistema alfabético.",
+    "materiales": "Figuras cuyos nombres comiencen igual.",
+    "descripcion": [
+      "El maestro muestra pares de figuras (ej. pasto y pastilla).",
+      "Escribe la parte que es igual en ambas palabras (Past__) y pide a los niños que escriban lo que falta.",
+      "Se procura que las partes a completar requieran a veces completar sílabas y otras veces escribir sílabas completas.",
+      "Después de que cada niño completa sus palabras, comparan sus trabajos en equipo, discuten y se autocorrigen si lo consideran necesario."
+    ],
+    "ejemplos": {
+      "Pares de palabras": ["pasto/pastilla", "peso/pescado", "casa/cascarón", "cama/camión"]
+    }
+  },
+  {
+    "id": "AMARILLO-9",
+    "color": "AMARILLO",
+    "numero": 9,
+    "nivel": "Silábico",
+    "titulo": "EL AHORCADO",
+    "objetivo": "Reflexionar sobre la escritura de una palabra a partir del número de letras que la forman y apoyándose en una imagen alusiva.",
+    "materiales": "Imágenes de objetos o animales.",
+    "descripcion": [
+      "Se adapta el juego tradicional del 'Ahorcado'. El maestro muestra una imagen (ej. un gato), escribe la letra inicial (G) y traza una raya por cada letra restante (G _ _ _).",
+      "El niño va diciendo las letras que cree que deben ir en las rayas.",
+      "Si el niño menciona una sílaba (ej. 'la to') y es correcta, el maestro escribe ambas letras."
+    ],
+    "variantes": "Para evitar la frustración, si el niño dice una letra equivocada, en lugar de dibujar una parte del ahorcado, se dibuja 'un dedito', ampliando las oportunidades de adivinar.",
+    "notas": "Con niños en nivel silábico-alfabético o alfabético inicial, es conveniente usar palabras con sílabas directas."
+  },
+  {
+    "id": "AMARILLO-10",
+    "color": "AMARILLO",
+    "numero": 10,
+    "nivel": "Silábico",
+    "titulo": "COMBINAN EL VERBO DE UNA ACCIÓN POR SU ANTÓNIMO",
+    "objetivo": "Conducir a los niños a una reflexión lingüística: anticipar un cambio de estructura cuando un verbo se sustituye por su opuesto.",
+    "descripcion": [
+      "Un niño efectúa una acción concreta (ej. abrir la puerta), se escribe el enunciado alusivo ('María abrió la puerta') y se ubican las partes de la oración.",
+      "Luego, se le pide al niño que efectúe la acción contraria (cerrar la puerta).",
+      "El maestro pregunta al equipo cómo se podría modificar la oración escrita para que ahora refleje la nueva acción, discutiendo qué palabras hay que cambiar."
+    ],
+    "variantes": "El maestro escribe una oración (ej. 'Juan subió la escalera'), la analizan, y luego pregunta cómo se podría escribir lo contrario. Los niños pueden proponer agregar 'no' o cambiar el verbo por su antónimo ('bajó'), discutiendo en ambos casos qué cambios son necesarios en la escritura.",
+    "ejemplos": {
+      "Pares de oraciones": ["María abrió la puerta / María cerró la puerta", "Carmen destapó el frasco / Carmen tapó el frasco"]
+    }
+  },
+  {
+    "id": "AMARILLO-11",
+    "color": "AMARILLO",
+    "numero": 11,
+    "nivel": "Silábico",
+    "titulo": "CAMBIAN EL VERBO DE UNA ORACIÓN POR SU SINÓNIMO",
+    "objetivo": [
+      "Anticipar un enunciado a partir de una acción concreta.",
+      "Ubicar las partes de la oración.",
+      "Descubrir que existen distintos verbos para expresar una misma idea y que exigen escrituras diferentes."
+    ],
+    "descripcion": [
+      "El maestro pide en secreto a un niño que realice una acción (ej. coger un lápiz) y luego escribe la oración correspondiente ('Pepe cogió un lápiz').",
+      "Leen la oración y ubican sus partes. Luego, el maestro pregunta cómo se podría decir de otro modo (ej. 'agarró').",
+      "Se discute cómo cambiar la oración escrita: '¿Tendremos que cambiar algo? ¿Qué? ¿Se escribirá igual agarró y cogió?'."
+    ],
+    "variantes": "La actividad se puede hacer sin acciones concretas, partiendo de una oración ya escrita (ej. 'Aurora platica con Oscar') y discutiendo cómo cambiarla para que diga 'Aurora habla con Oscar'.",
+    "ejemplos": {
+      "Pares de oraciones": ["El niño brinca la caja / El niño salta la caja", "Alicia toma leche / Alicia bebe leche"]
+    }
+  },
+  {
+    "id": "AMARILLO-12",
+    "color": "AMARILLO",
+    "numero": 12,
+    "nivel": "Silábico",
+    "titulo": "BUSCAN PALABRAS ESCONDIDAS EN UNA PALABRA LARGA",
+    "objetivo": "Avanzar en la comprensión de las bases del sistema alfabético al formar palabras a partir de las letras de una palabra más larga.",
+    "materiales": "Letras móviles.",
+    "descripcion": [
+      "El maestro arma una palabra larga con letras móviles (ej. MURCIÉLAGO).",
+      "Invita al equipo a pensar qué otras palabras se podrían formar usando solo algunas de esas letras.",
+      "Para no repetir, cada palabra que se forma y se aprueba por el equipo, se copia en el cuaderno.",
+      "Cada miembro del equipo toma un turno para construir una palabra. Se discute su corrección y se copia.",
+      "Al final, se leen las listas y se pueden agregar las palabras nuevas al tarjetero personal."
+    ],
+    "ejemplos": {
+      "De 'MURCIÉLAGO' se puede formar": "cielo, lago, gol, mula, miel, goma, mago, etc."
+    }
+  }
+]

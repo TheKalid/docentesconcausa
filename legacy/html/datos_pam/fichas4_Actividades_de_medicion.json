@@ -1,0 +1,167 @@
+[
+  {
+    "Numero": "64",
+    "Titulo": "Atínale",
+    "Proposito": "Iniciar en la estimación de longitudes a través de un juego de puntería.",
+    "Contenidos": ["Estimación", "Longitudes no convencionales"],
+    "Materiales": ["Pelotas pequeñas", "Blanco dibujado en el piso o pared"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Los alumnos lanzan pelotas tratando de atinar a un punto específico.",
+      "Medir con pasos o cuerdas la distancia recorrida por la pelota.",
+      "Comparar quién estuvo más cerca del blanco."
+    ],
+    "PreguntasGuia": [
+      "¿Qué distancia recorriste?",
+      "¿Quién lanzó más lejos?",
+      "¿Cómo podemos comprobarlo?"
+    ],
+    "Variantes": ["Cambiar tamaño del blanco o distancia de lanzamiento."],
+    "Evaluacion": [
+      "Estima y compara correctamente al menos 3 lanzamientos.",
+      "Explica cómo midió la distancia."
+    ],
+    "Evidencias": ["Registro de distancias", "Fotos del juego"]
+  },
+  {
+    "Numero": "65",
+    "Titulo": "Medimos por cuartas",
+    "Proposito": "Explorar medidas no convencionales utilizando partes del cuerpo.",
+    "Contenidos": ["Medición indirecta", "Unidades no convencionales"],
+    "Materiales": ["Objetos grandes del aula", "Manos de los alumnos"],
+    "Organizacion": "Grupal y parejas",
+    "Pasos": [
+      "Seleccionar objetos (mesa, pizarrón, banca).",
+      "Medirlos usando cuartas de la mano.",
+      "Comparar resultados entre alumnos."
+    ],
+    "PreguntasGuia": [
+      "¿Cuántas cuartas mide tu mesa?",
+      "¿Por qué el resultado no es igual para todos?"
+    ],
+    "Variantes": ["Usar pies, pasos o brazos como unidad."],
+    "Evaluacion": [
+      "Mide al menos 3 objetos con cuartas.",
+      "Explica por qué los resultados cambian."
+    ],
+    "Evidencias": ["Registro en tabla", "Fotos de medición"]
+  },
+  {
+    "Numero": "66",
+    "Titulo": "Comparan estaturas",
+    "Proposito": "Desarrollar la comparación de longitudes usando el propio cuerpo.",
+    "Contenidos": ["Medición corporal", "Comparación de estaturas"],
+    "Materiales": ["Cinta adhesiva", "Pared del aula"],
+    "Organizacion": "Grupal",
+    "Pasos": [
+      "Pegar cinta en la pared y marcar la estatura de cada alumno.",
+      "Comparar quién es más alto o más bajo.",
+      "Ordenar a los alumnos de menor a mayor estatura."
+    ],
+    "PreguntasGuia": [
+      "¿Quién es el más alto?",
+      "¿Quién es el más bajo?",
+      "¿Qué diferencia observas?"
+    ],
+    "Variantes": ["Comparar estaturas con familiares o personajes de cuentos."],
+    "Evaluacion": [
+      "Ordena correctamente al grupo por estatura.",
+      "Describe las diferencias entre compañeros."
+    ],
+    "Evidencias": ["Foto de la pared marcada", "Lista ordenada"]
+  },
+  {
+    "Numero": "67",
+    "Titulo": "Alto",
+    "Proposito": "Comparar longitudes en objetos del entorno inmediato.",
+    "Contenidos": ["Comparación de longitudes", "Observación del entorno"],
+    "Materiales": ["Objetos del aula o patio"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Observar distintos objetos (árboles, postes, puertas).",
+      "Decidir cuál es más alto o más bajo.",
+      "Registrar comparaciones en una tabla."
+    ],
+    "PreguntasGuia": [
+      "¿Qué objeto es más alto?",
+      "¿Cuál es más bajo?",
+      "¿Cómo lo sabes?"
+    ],
+    "Variantes": ["Ordenar de mayor a menor varios objetos."],
+    "Evaluacion": [
+      "Identifica correctamente el objeto más alto y más bajo.",
+      "Registra al menos 3 comparaciones."
+    ],
+    "Evidencias": ["Tabla de comparaciones", "Fotos de objetos"]
+  },
+  {
+    "Numero": "68",
+    "Titulo": "Rutas",
+    "Proposito": "Analizar trayectorias y caminos para comparar distancias.",
+    "Contenidos": ["Medición de trayectorias", "Distancias relativas"],
+    "Materiales": ["Plano del patio o aula", "Cinta adhesiva"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Trazar diferentes rutas en el patio con cinta.",
+      "Recorrer las rutas y contar pasos en cada una.",
+      "Comparar cuál es más larga o más corta."
+    ],
+    "PreguntasGuia": [
+      "¿Qué ruta fue más larga?",
+      "¿Qué ruta fue más corta?",
+      "¿Por qué crees que pasa eso?"
+    ],
+    "Variantes": ["Medir rutas usando cuerdas o estambres."],
+    "Evaluacion": [
+      "Recorre al menos 2 rutas y compara distancias.",
+      "Explica con claridad cuál fue más larga."
+    ],
+    "Evidencias": ["Plano con rutas", "Registro de pasos"]
+  },
+  {
+    "Numero": "69",
+    "Titulo": "Los caminitos",
+    "Proposito": "Observar y medir caminos en el piso o papel cuadriculado.",
+    "Contenidos": ["Trayectorias", "Comparación de longitudes"],
+    "Materiales": ["Hojas cuadriculadas o gis para el patio"],
+    "Organizacion": "Individual y equipos",
+    "Pasos": [
+      "Trazar caminitos en hojas o en el piso.",
+      "Seguir los caminos y contar pasos o cuadros.",
+      "Comparar con otros caminitos."
+    ],
+    "PreguntasGuia": [
+      "¿Qué caminito fue más largo?",
+      "¿Cómo lo comprobaste?"
+    ],
+    "Variantes": ["Inventar caminitos con obstáculos."],
+    "Evaluacion": [
+      "Compara al menos 3 caminitos.",
+      "Explica con qué criterio lo hizo."
+    ],
+    "Evidencias": ["Hojas con caminitos", "Fotos del patio"]
+  },
+  {
+    "Numero": "70",
+    "Titulo": "Midiendo objetos",
+    "Proposito": "Introducir la medición de objetos usando unidades convencionales simples.",
+    "Contenidos": ["Medición", "Unidades convencionales iniciales"],
+    "Materiales": ["Reglas", "Objetos del aula"],
+    "Organizacion": "Individual",
+    "Pasos": [
+      "Dar una regla a cada niño.",
+      "Medir objetos sencillos (libros, cuadernos, lápices).",
+      "Registrar las longitudes en centímetros."
+    ],
+    "PreguntasGuia": [
+      "¿Cuánto mide tu lápiz?",
+      "¿Qué objeto es más largo?"
+    ],
+    "Variantes": ["Medir con cinta métrica objetos grandes."],
+    "Evaluacion": [
+      "Mide correctamente al menos 3 objetos.",
+      "Registra en centímetros sin error."
+    ],
+    "Evidencias": ["Lista de mediciones", "Fotos de objetos medidos"]
+  }
+]

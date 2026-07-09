@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tutorial de Uso - Planeando con Causa</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        /* --- Variables de Estilo Consistentes con tu Proyecto --- */
+        :root {
+            --color-primario: #1e3a8a;
+            --color-acento: #f39c12;
+            --color-fondo: #f8f9fa;
+            --color-texto: #334155;
+            --color-tarjeta: #ffffff;
+            --fuente-principal: 'Poppins', sans-serif;
+        }
+
+        /* --- Estilos Generales --- */
+        body {
+            font-family: var(--fuente-principal);
+            background-color: var(--color-fondo);
+            margin: 0;
+            color: var(--color-texto);
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 960px; /* Ancho ideal para centrar video */
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        /* --- Encabezado de la Página --- */
+        .page-header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .page-header h1 {
+            font-size: 2.5rem;
+            color: var(--color-primario);
+            margin-bottom: 10px;
+        }
+        .page-header p {
+            font-size: 1.1rem;
+            color: #64748b;
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        /* --- Contenedor Responsivo para el Video (la parte más importante) --- */
+        /* Esto asegura que el video mantenga su proporción 16:9 en cualquier tamaño de pantalla. */
+        .video-responsive-container {
+            position: relative;
+            padding-bottom: 56.25%; /* Proporción 16:9 */
+            height: 0;
+            overflow: hidden;
+            border-radius: 12px; /* Bordes redondeados */
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            background-color: #000; /* Fondo negro mientras carga el video */
+        }
+        .video-responsive-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: 0;
+        }
+        
+        /* --- Botón de Regreso --- */
+        .return-button-container {
+            text-align: center;
+            margin-top: 50px;
+        }
+        .btn-return {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background-color: var(--color-primario);
+            color: white;
+            padding: 12px 25px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: background-color 0.3s, transform 0.2s;
+        }
+        .btn-return:hover {
+            background-color: #0b213a;
+            transform: translateY(-2px);
+        }
+        
+        /* --- Pie de Página --- */
+        footer {
+            background-color: var(--color-primario);
+            color: #e0e7ff;
+            text-align: center;
+            padding: 25px 20px;
+            margin-top: 60px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <header class="page-header">
+            <h1>¿Cómo Usar Nuestras Herramientas?</h1>
+            <p>Este breve video te guiará paso a paso para que aproveches al máximo la plataforma.</p>
+        </header>
+
+        <main>
+            <div class="video-responsive-container">
+        <iframe
+             width="560"
+                height="315"
+             src="https://www.youtube.com/embed/SMe-owrAoFM"
+                title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen>
+        </iframe>
+            </div>
+        </main>
+
+        <div class="return-button-container">
+            <a href="index.php" class="btn-return">
+                <span>⬅️</span>
+                <span>Regresar a la Página Principal</span>
+            </a>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Planeando con Causa | Todos los derechos reservados</p>
+    </footer>
+
+</body>
+</html>

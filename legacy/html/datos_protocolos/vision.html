@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nuestra Visión - Planeando con Causa</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Source+Sans+Pro:wght@400;600&display=swap" rel="stylesheet">
+
+    <style>
+        /* --- Definición de variables de color y fuentes --- */
+        :root {
+            --color-primario: #0d2c4b;      /* Azul oscuro institucional */
+            --color-acento: #cfa75c;        /* Dorado suave para acentos */
+            --color-fondo: #f9f9f9;         /* Un gris muy claro para el fondo */
+            --color-texto: #333333;
+            --color-tarjeta: #ffffff;
+            --fuente-titulos: 'Merriweather', serif;
+            --fuente-cuerpo: 'Source Sans Pro', sans-serif;
+        }
+
+        /* --- Estilos generales para toda la página --- */
+        body {
+            font-family: var(--fuente-cuerpo);
+            background-color: var(--color-fondo);
+            margin: 0;
+            color: var(--color-texto);
+            line-height: 1.8; 
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        /* --- Encabezado principal de la página --- */
+        .page-header {
+            text-align: center;
+            margin-bottom: 50px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        .page-header h1 {
+            font-family: var(--fuente-titulos);
+            font-size: 3.2rem;
+            color: var(--color-primario);
+            margin: 0;
+        }
+        .page-header .subtitle {
+            font-size: 1.3rem;
+            color: var(--color-acento);
+            font-style: italic;
+            margin-top: 10px;
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        /* --- Sección de la imagen principal ("héroe") --- */
+        .hero-section {
+            text-align: center;
+            margin-bottom: 70px;
+        }
+        .hero-section img {
+            max-width: 100%;
+            /* --- MODIFICACIÓN AQUÍ --- */
+            /* Se redujo el tamaño de 900px a 270px para hacerlo 70% más pequeño */
+            width: 270px; 
+            border-radius: 15px;
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.1); 
+        }
+
+        /* --- Contenedor de los bloques de la visión --- */
+        .vision-blocks {
+            display: grid; 
+            grid-template-columns: 1fr; 
+            gap: 40px; 
+        }
+
+        /* --- Estilo de cada bloque o tarjeta de la visión --- */
+        .vision-block {
+            background-color: var(--color-tarjeta);
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.07);
+            display: flex; 
+            align-items: flex-start;
+            gap: 30px;
+        }
+        
+        .block-icon {
+            font-family: var(--fuente-titulos);
+            font-size: 3rem;
+            color: var(--color-acento);
+            line-height: 1;
+            opacity: 0.5; 
+        }
+
+        .block-content h2 {
+            font-family: var(--fuente-titulos);
+            font-size: 1.6rem;
+            color: var(--color-primario);
+            margin-top: 0;
+            margin-bottom: 15px;
+        }
+        .block-content p {
+            font-size: 1.05rem;
+            margin: 0;
+        }
+
+        /* --- Sección del botón de regreso --- */
+        .return-section {
+            text-align: center;
+            margin-top: 70px;
+        }
+        .btn-return {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            background-color: var(--color-acento);
+            color: white;
+            text-decoration: none; 
+            padding: 15px 35px;
+            border-radius: 50px; 
+            font-weight: 600;
+            font-size: 1.1rem;
+            transition: background-color 0.3s, transform 0.3s;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        .btn-return:hover {
+            background-color: #b8863a; 
+            transform: translateY(-3px); 
+        }
+        
+        /* --- Estilo para el pie de página (Footer) --- */
+        footer {
+            background-color: var(--color-primario);
+            color: #e0e7ff;
+            text-align: center;
+            padding: 25px 20px;
+            margin-top: 60px;
+        }
+        
+        /* --- Diseño Responsivo (para móviles) --- */
+        @media (max-width: 768px) {
+            .page-header h1 {
+                font-size: 2.5rem;
+            }
+            .vision-block {
+                flex-direction: column; 
+                text-align: center;
+                align-items: center;
+            }
+            .block-icon {
+                margin-bottom: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        
+        <header class="page-header">
+            <h1>Planeando con Causa</h1>
+            <p class="subtitle">Nuestra Visión, Nuestra Meta Compartida</p>
+        </header>
+
+        <main>
+            <section class="hero-section">
+                <img src="logo.png" alt="Visión de futuro para la educación">
+            </section>
+
+            <section class="vision-blocks">
+                
+                <article class="vision-block">
+                    <div class="block-icon">01</div>
+                    <div class="block-content">
+                        <h2>Un Futuro Donde los Docentes Tienen el Apoyo que Merecen</h2>
+                        <p>Nuestra visión es ser la plataforma líder en México que dignifique y empodere la labor docente a través de tecnología de vanguardia. Aspiramos a un futuro donde cada maestro se sienta comprendido, valorado y equipado no solo con herramientas pedagógicas, sino con un sistema de apoyo integral que cuide su bienestar emocional y profesional, permitiéndole enfocarse en lo que más importa: inspirar a sus estudiantes.</p>
+                    </div>
+                </article>
+
+                <article class="vision-block">
+                    <div class="block-icon">02</div>
+                    <div class="block-content">
+                        <h2>Construcción de una Comunidad Educativa Digital</h2>
+                        <p>Visualizamos una comunidad digital vibrante y colaborativa, donde los docentes de todo el país no solo sean usuarios, sino protagonistas. Un espacio donde puedan compartir conocimientos, co-crear materiales y apoyarse mutuamente. Queremos que "Planeando con Causa" sea el punto de encuentro que fortalezca el tejido social de la educación en México, trascendiendo las barreras geográficas.</p>
+                    </div>
+                </article>
+
+                <article class="vision-block">
+                    <div class="block-icon">03</div>
+                    <div class="block-content">
+                        <h2>El Futuro de la Educación con Planeando con Causa</h2>
+                        <p>Nuestra meta es ser un catalizador del cambio. Vemos un futuro donde la inteligencia artificial y la sensibilidad humana convergen para crear experiencias de aprendizaje personalizadas y significativas. A través de la innovación constante y nuestro compromiso social, aspiramos a que cada planeación creada en nuestra plataforma sea una semilla que contribuya a un México más educado, equitativo y sostenible.</p>
+                    </div>
+                </article>
+            </section>
+
+            <section class="return-section">
+                <a href="index.php" class="btn-return">
+                <span>⬅️</span>
+                <span>Regresar a la Página Principal</span>
+                </a>
+            </section>
+        </main>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Planeando con Causa | Todos los derechos reservados</p>
+    </footer>
+
+</body>
+</html>

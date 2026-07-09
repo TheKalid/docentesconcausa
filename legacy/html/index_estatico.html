@@ -1,0 +1,320 @@
+<?php
+session_start(); // Inicia o reanuda la sesión para recordar al usuario
+
+// Por defecto, los botones estarán deshabilitados
+$botones_habilitados = false; 
+
+// Verificamos si el usuario ha iniciado sesión Y si su estado de pago es 'pagado'
+if (isset($_SESSION['usuario_id']) && isset($_SESSION['estado_pago']) && $_SESSION['estado_pago'] === 'pagado') {
+    $botones_habilitados = true;
+}
+?>
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planeando con Causa - Herramientas para Docentees</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        /* --- Definición de variables de color y fuentes --- */
+        :root {
+            --color-primario: #1e3a8a;      /* Azul oscuro institucional */
+            --color-acento: #f39c12;        /* Dorado/Naranja para botones y acentos */
+            --color-fondo: #f8f9fa;         /* Un gris muy claro para el fondo */
+            --color-texto: #334155;
+            --color-tarjeta: #ffffff;
+            --fuente-principal: 'Poppins', sans-serif;
+        }
+
+        /* --- Estilos generales --- */
+        body {
+            font-family: var(--fuente-principal);
+            background-color: var(--color-fondo);
+            margin: 0;
+            color: var(--color-texto);
+            line-height: 1.7;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* --- Encabezado y Navegación --- */
+        header {
+            background-color: var(--color-tarjeta);
+            padding: 15px 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        .nav-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .logo {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            color: var(--color-primario);
+            font-weight: 700;
+            font-size: 1.5rem;
+        }
+        .logo img {
+            width: 50px; /* Ajuste de tamaño del logo */
+            margin-right: 10px;
+        }
+        nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            gap: 25px;
+        }
+        nav a {
+            text-decoration: none;
+            color: var(--color-texto);
+            font-weight: 600;
+            padding: 8px 12px;
+            border-radius: 6px;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        nav a:hover {
+            background-color: var(--color-primario);
+            color: white;
+        }
+
+        /* --- Sección Héroe (Bienvenida) --- */
+        .hero-section {
+            background-color: #eef2ff;
+            text-align: center;
+            padding: 80px 20px;
+        }
+        /* Contenedor para los botones de la sección héroe */
+        .hero-buttons {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 15px; /* Espacio entre los botones */
+        }
+        .hero-section h1 {
+            font-size: 3rem;
+            color: var(--color-primario);
+            font-weight: 700;
+            margin-bottom: 20px;
+        }
+        .hero-section p {
+            font-size: 1.2rem;
+            max-width: 700px;
+            margin: 0 auto 30px auto;
+            color: #475569;
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: var(--color-acento);
+            color: white;
+            text-decoration: none;
+            padding: 15px 35px;
+            border-radius: 50px;
+            font-weight: 700;
+            font-size: 1.1rem;
+            transition: background-color 0.3s, transform 0.3s, color 0.3s, border-color 0.3s;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            border: 2px solid transparent; /* Borde para mantener tamaño al hacer hover */
+        }
+        .cta-button:hover {
+            background-color: #d35400;
+            transform: translateY(-3px);
+        }
+
+        .cta-button.secondary {
+            background-color: transparent;
+            border: 2px solid var(--color-primario);
+            color: var(--color-primario);
+        }
+        .cta-button.secondary:hover {
+            background-color: var(--color-primario);
+            color: white;
+        }
+
+        /* --- Sección de Herramientas (Tarjetas) --- */
+        .features-section {
+            padding: 80px 0;
+        }
+        .section-title {
+            text-align: center;
+            font-size: 2.5rem;
+            color: var(--color-primario);
+            margin-bottom: 50px;
+        }
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+        }
+        .feature-card {
+            background-color: var(--color-tarjeta);
+            border-radius: 12px;
+            padding: 35px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+            text-align: center;
+            display: flex; 
+            flex-direction: column;
+        }
+        .feature-card p {
+            flex-grow: 1; 
+            margin-bottom: 25px;
+        }
+        .feature-icon {
+            font-size: 3rem;
+            margin-bottom: 20px;
+        }
+        .feature-card h3 {
+            font-size: 1.5rem;
+            color: var(--color-primario);
+            margin-bottom: 15px;
+        }
+        .feature-card .card-button {
+            display: inline-block;
+            background-color: #eef2ff;
+            color: var(--color-primario);
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 50px;
+            font-weight: 600;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        .feature-card .card-button:hover:not([disabled]) { /* El hover no se aplica si está deshabilitado */
+            background-color: #dbeafe;
+        }
+        /* Estilo para botones deshabilitados */
+        .card-button[disabled] {
+            background-color: #e5e7eb;
+            color: #9ca3af;
+            cursor: not-allowed;
+        }
+        
+        /* --- Sección de Impacto Social --- */
+        .impact-section {
+            background-color: #dbeafe;
+            padding: 60px 20px;
+            text-align: center;
+        }
+        .impact-section h2 {
+            color: var(--color-primario);
+            font-size: 2.2rem;
+        }
+
+        /* --- Pie de Página --- */
+        footer {
+            background-color: var(--color-primario);
+            color: #e0e7ff;
+            text-align: center;
+            padding: 25px 0;
+            margin-top: 40px;
+        }
+
+        /* --- Diseño Responsivo --- */
+        @media (max-width: 992px) {
+            .features-grid {
+                grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            }
+        }
+        @media (max-width: 768px) {
+            .nav-container { flex-direction: column; gap: 15px; }
+            .hero-section h1 { font-size: 2.2rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="container nav-container">
+            <a href="index.html" class="logo">
+                <img src="https://img.icons8.com/plasticine/100/teacher.png" alt="Logo Planeando con Causa">
+                <span>Planeando con Causa</span>
+            </a>
+            <nav>
+                <ul>
+                    <li><a href="mision.html">📜 Misión</a></li>
+                    <li><a href="vision.html">🔭 Visión</a></li>
+                    <li><a href="evidencias.html">📸 Evidencias</a></li>
+                    <li><a href="biblioteca.html">📚 Biblioteca</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero-section">
+            <div class="container">
+                <h1>Bienvenido, estimado maestr@</h1>
+                <p>Tu herramienta aliada para una planeación didáctica inteligente, creativa y con propósito social.</p>
+                <div class="hero-buttons">
+                    <a href="registro.html" class="cta-button">Comienza a Planear Ahora</a>
+                    <a href="catalogo_de_pagos.html" class="cta-button secondary">Ver Planes de Suscripción</a>
+                </div>
+            </div>
+        </section>
+
+        <section class="features-section">
+            <div class="container">
+                <h2 class="section-title">Nuestras Herramientas</h2>
+                <div class="features-grid">
+    
+                    <article class="feature-card">
+                        <div class="feature-icon">📌</div>
+                        <h3>Generador de Planeaciones</h3>
+                        <p>Ahorra tiempo y enriquece tu enseñanza con planeaciones didácticas personalizadas, generadas por IA y alineadas a la NEM en minutos.</p>
+                        <a href="generar_plan_basico.html" class="card-button" <?php if (!$botones_habilitados) echo 'disabled title="Función exclusiva para suscriptores de pago"'; ?>>
+                            Prueba el Plan Básico
+                        </a>
+                    </article>
+
+                    <article class="feature-card">
+                        <div class="feature-icon">📄</div>
+                        <h3>Protocolos Educativos</h3>
+                        <p>Accede a normativas, guías y metodologías actualizadas para asegurar que tu práctica docente cumpla con los más altos estándares educativos.</p>
+                        <a href="protocolostest.html" class="card-button" <?php if (!$botones_habilitados) echo 'disabled title="Función exclusiva para suscriptores de pago"'; ?>>
+                            Consultar Protocolos
+                        </a>
+                    </article>
+
+                    <article class="feature-card">
+                        <div class="feature-icon">📚</div>
+                        <h3>Exámenes de Promoción</h3>
+                        <p>Prepárate para tu crecimiento profesional con material de estudio, simuladores y guías actualizadas diseñadas para tu éxito.</p>
+                        <a href="crecimiento_profesional.html" class="card-button" <?php if (!$botones_habilitados) echo 'disabled title="Función exclusiva para suscriptores de pago"'; ?>>
+                            Estudiar Ahora
+                        </a>
+                    </article>
+
+                </div>
+            </div>
+        </section>
+
+        <section class="impact-section">
+            <div class="container">
+                <h2>💙 Impacto Social: Donaciones y Transparencia</h2>
+                <p>Cada suscripción fortalece nuestra misión. Periódicamente, donamos parte de los ingresos a niños con cáncer y a campañas de reforestación, documentando cada acción con total transparencia.</p>
+            </div>
+        </section>
+
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 Planeando con Causa | Todos los derechos reservados</p>
+    </footer>
+
+</body>
+</html>

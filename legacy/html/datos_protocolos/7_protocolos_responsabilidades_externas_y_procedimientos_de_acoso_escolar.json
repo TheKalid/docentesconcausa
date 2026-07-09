@@ -1,0 +1,61 @@
+{
+  "Protocolo de Actuación ante Presunto Caso de Acoso Escolar": {
+    "Responsabilidades de Autoridades Externas y Apoyo Interinstitucional": {
+      "Subsecretaría y/o Nivel Educativo": [
+        "Evaluar el caso y, si es viable, brindar facilidades para el traslado del estudiante a otro plantel si los padres lo solicitan."
+      ],
+      "Dirección de Psicopedagogía": [
+        "Analizar el caso y, de ser procedente, emitir el folio correspondiente.",
+        "Resolver dudas en la aplicación del protocolo.",
+        "Intervenir con apoyos psicosociales.",
+        "Gestionar la intervención de distintas unidades administrativas de la Secretaría de Educación del Estado de Jalisco.",
+        "Dar aviso al Órgano Interno de Control en casos de omisión del personal del plantel educativo.",
+        "Orientar en la correcta aplicación del protocolo."
+      ],
+      "Unidades Administrativas de la Secretaría de Educación del Estado de Jalisco": [
+        "Ejecutar procesos de intervención, atención y seguimiento para docentes, estudiantes, madres, padres o tutores según su competencia."
+      ]
+    },
+    "Procedimiento": [
+      "1.-La Autoridad Escolar detecta o recibe una queja de presunto acoso escolar.",
+      "2.-Registra la información en la bitácora del plantel.",
+      "3.-Si quien detecta no es el Director, debe informarle durante la jornada escolar.",
+      "4.-El Director solicita antecedentes disciplinarios de los estudiantes involucrados.",
+      "5.-El Director determina si se trata de acoso escolar, indisciplina u otro tipo de violencia conforme a los criterios legales.",
+      "6.-Si no se cumple el criterio de acoso, se notifica por escrito a los tutores, se registra en expediente y se convoca al Comité de Convivencia y Disciplina Escolar.",
+      "7.-El Comité establece proceso de intervención y gestiona apoyo psicosocial.",
+      "8.-El acta del Comité se archiva en los expedientes de los involucrados. Fin del proceso.",
+      "9.-Si se cumple el criterio de acoso escolar, el Director identifica el tipo conforme a la ley.",
+      "10.-Si es acoso cibernético, se informa a tutores y se orienta para denuncia ante Fiscalía del Estado. Según edad, se notifica a la Procuraduría o Fiscalía de Adolescentes.",
+      "11.-Si tiene connotación de abuso sexual, se informa a la Procuraduría o Fiscalía según edad del estudiante.",
+      "12.-Si es agresión física directa, se solicita presencia de servicios médicos municipales.",
+      "13.-Si hay al menos dos indicadores de acoso escolar, se continúa; de lo contrario, se regresa al punto 6.",
+      "14.-El Director contacta y convoca a padres/tutores en máximo 24 horas, en horarios diferidos.",
+      "15.-Si no acuden, se levanta acta de hechos y se emite nuevo citatorio (ver punto 28).",
+      "16.-Si acuden, se levanta acta con firma de tutores o testigos si hay negativa.",
+      "17.-Se informa a tutores que los estudiantes serán canalizados a la Dirección de Psicopedagogía.",
+      "18.-Si los tutores optan por atención privada, deben firmar desistimiento y compromiso de atención.",
+      "19.-El Director informa al Supervisor Escolar/Jefe de Sector/Autoridad correspondiente con soporte documental.",
+      "20.-El Supervisor reporta a la Dirección de Psicopedagogía en 24 horas y obtiene folio.",
+      "21.-La Dirección de Psicopedagogía analiza y, si procede, emite folio y da acompañamiento.",
+      "22.-El Supervisor o Jefe de Sector notifica por escrito a superiores hasta llegar a la Subsecretaría.",
+      "23.-La Dirección de Psicopedagogía informa al Órgano Interno de Control al día siguiente hábil.",
+      "24.-Gestiona acciones psicosociales con las Unidades Administrativas correspondientes.",
+      "25.-El Órgano Interno de Control investiga, sustancia y sanciona en caso de omisión de servidores públicos.",
+      "26.-Dirección de Psicopedagogía y Unidades Administrativas ejecutan intervención y seguimiento según el caso.",
+      "27.-Si los tutores solicitan traslado de plantel, el Nivel Educativo evalúa el expediente y, si procede, facilita el cambio. Fin del proceso.",
+      "28.-Si los tutores faltan a la cita tres veces en cinco días hábiles, el Director informa al Jefe de Sector o Supervisor.",
+      "29.-El Supervisor/Jefe de Sector implementa estrategia diferenciada de comunicación para lograr participación.",
+      "30.-Si no hay respuesta, se reporta a la Procuraduría o Delegación correspondiente. Se regresa al punto 20."
+    ],
+    "Disposiciones por Omisiones": {
+      "Escuelas Públicas": [
+        "Las omisiones del procedimiento por parte de funcionarios serán investigadas, sustanciadas y sancionadas por el Órgano Interno de Control."
+      ],
+      "Escuelas Particulares": [
+        "Se seguirá el mismo protocolo sin enviar al OIC. En su lugar, se notificará a la Dirección General de Planeación.",
+        "La Dirección General de Planeación evaluará si existen elementos para instaurar procedimiento de infracción administrativa según el artículo 147 de la Ley de Educación del Estado de Jalisco."
+      ]
+    }
+  }
+}

@@ -1,0 +1,348 @@
+[
+  {
+    "Numero": "1",
+    "Titulo": "Canta y dibuja",
+    "Proposito": "Trabajar orden, secuencia y comparaciones antes/después/entre sin usar números.",
+    "Contenidos": ["Orden", "Correspondencia 1–1", "Comparación no numérica"],
+    "Materiales": ["Láminas con escenas de una canción o cuento", "Hojas", "Lápices/colores"],
+    "Organizacion": "Grupal y equipos",
+    "Pasos": [
+      "Presentar la canción/cuento en secuencias ilustradas.",
+      "Pedir a los niños que pongan en orden las láminas.",
+      "Solicitar que dibujen lo que va antes/después/entre dos escenas."
+    ],
+    "PreguntasGuia": [
+      "¿Qué pasa primero? ¿Y después?",
+      "¿Qué escena iría entre estas dos?",
+      "¿Cómo lo comprobamos?"
+    ],
+    "Variantes": ["Usar fotografías del aula para crear una secuencia propia."],
+    "Evaluacion": [
+      "Ordena correctamente 3–5 escenas.",
+      "Justifica su elección con al menos una razón."
+    ],
+    "Evidencias": ["Foto del orden de láminas", "Dibujo de la escena intermedia"]
+  },
+  {
+    "Numero": "2",
+    "Titulo": "Los floreros",
+    "Proposito": "Comparar cantidades por correspondencia sin contar explícitamente.",
+    "Contenidos": ["Correspondencia 1–1", "Comparación de cantidades"],
+    "Materiales": ["Tarjetas con floreros y flores recortables"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Entregar floreros vacíos y flores sueltas.",
+      "Solicitar que distribuyan una flor por florero.",
+      "Discutir si sobran faltan flores y en cuáles casos."
+    ],
+    "PreguntasGuia": [
+      "¿Cómo sabes si hay suficientes flores?",
+      "¿En qué caso sobran o faltan?"
+    ],
+    "Variantes": ["Cambiar flores por otros objetos del aula."],
+    "Evaluacion": [
+      "Establece correspondencia 1–1 sin errores.",
+      "Explica el criterio usado."
+    ],
+    "Evidencias": ["Foto de la distribución", "Registro breve del equipo"]
+  },
+  {
+    "Numero": "3",
+    "Titulo": "El caracol",
+    "Proposito": "Explorar el avance por casillas y la idea de sucesor/antecesor de forma lúdica.",
+    "Contenidos": ["Sucesor/antecesor", "Conteo oral", "Espacialidad en tablero"],
+    "Materiales": ["Tablero en espiral tipo caracol", "Fichas", "Dado de puntos"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Explicar reglas: avanzar según el dado.",
+      "Registrar a qué casilla llegan y qué casilla deja atrás.",
+      "Comparar recorridos entre equipos."
+    ],
+    "PreguntasGuia": [
+      "Si estás en la 5, ¿cuál es la siguiente?",
+      "¿Qué casilla estaba antes de la 7?"
+    ],
+    "Variantes": ["Usar dos dados y elegir la mejor jugada."],
+    "Evaluacion": [
+      "Identifica sucesor/antecesor en varios ejemplos.",
+      "Registra el recorrido con claridad."
+    ],
+    "Evidencias": ["Foto del tablero", "Tabla simple de recorridos"]
+  },
+  {
+    "Numero": "4",
+    "Titulo": "La oca",
+    "Proposito": "Reforzar conteo y comparación a través de un juego de recorrido.",
+    "Contenidos": ["Conteo", "Comparación", "Estrategias de juego"],
+    "Materiales": ["Tablero de la oca", "Fichas", "Dado de puntos"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Jugar por turnos avanzando según el dado.",
+      "Comentar jugadas ventajosas y riesgos.",
+      "Registrar casillas clave del juego."
+    ],
+    "PreguntasGuia": [
+      "¿Cuántas casillas avanzaste en total?",
+      "¿Qué casilla te convenía alcanzar y por qué?"
+    ],
+    "Variantes": ["Tablero con casillas especiales creadas por los niños."],
+    "Evaluacion": [
+      "Realiza conteos correctos.",
+      "Argumenta una decisión de juego."
+    ],
+    "Evidencias": ["Hoja de registro de jugadas", "Foto del tablero final"]
+  },
+  {
+    "Numero": "5",
+    "Titulo": "Dominó",
+    "Proposito": "Trabajar equivalencia de cantidades y suma sencilla con puntos y/o números.",
+    "Contenidos": ["Equivalencia", "Correspondencia", "Suma inicial"],
+    "Materiales": ["Dominó clásico o mixto (mitad puntos/mitad números)"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Explicar cómo emparejar por la misma cantidad.",
+      "Jugar rondas cortas registrando empates o bloqueos.",
+      "Discutir cómo sumaron los extremos."
+    ],
+    "PreguntasGuia": [
+      "¿Cómo sabes que estas dos fichas equivalen?",
+      "¿Cuánto suman los extremos ahora?"
+    ],
+    "Variantes": ["Domino casero con dibujos en lugar de puntos."],
+    "Evaluacion": [
+      "Empareja por equivalencia sin errores.",
+      "Realiza sumas de 2–3 cantidades pequeñas."
+    ],
+    "Evidencias": ["Foto de una ronda", "Registro de puntajes"]
+  },
+  {
+    "Numero": "6",
+    "Titulo": "Caja del tesoro",
+    "Proposito": "Transitar de registros icónicos a símbolos convencionales (dígitos y signos).",
+    "Contenidos": ["Registro de cantidades", "Acuerdos de notación", "Convencionalización"],
+    "Materiales": ["Caja con objetos", "Hojas de registro", "Lápices"],
+    "Organizacion": "Grupal y equipos",
+    "Pasos": [
+      "Explorar objetos y proponer cómo registrarlos.",
+      "Comparar registros entre equipos (dibujos, marcas, números).",
+      "Acordar una forma común y más eficiente."
+    ],
+    "PreguntasGuia": [
+      "¿Cómo evitamos olvidar cuántos hay?",
+      "¿Qué forma de registro es más rápida y clara?"
+    ],
+    "Variantes": ["Cambiar el tesoro por materiales del aula."],
+    "Evaluacion": [
+      "Usa dígitos para representar cantidades en 3 casos.",
+      "Explica por qué su notación es eficiente."
+    ],
+    "Evidencias": ["Registros antes/después del acuerdo", "Foto de la caja"]
+  },
+  {
+    "Numero": "7",
+    "Titulo": "Conjuntos equivalentes",
+    "Proposito": "Establecer equivalencia entre colecciones mediante correspondencia 1–1.",
+    "Contenidos": ["Equivalencia", "Correspondencia 1–1"],
+    "Materiales": ["Tarjetas con colecciones variadas", "Fichas para emparejar"],
+    "Organizacion": "Parejas",
+    "Pasos": [
+      "Emparejar elementos de dos conjuntos.",
+      "Decidir si son equivalentes o no y justificar.",
+      "Probar con conjuntos de mayor tamaño."
+    ],
+    "PreguntasGuia": [
+      "¿Qué hace que dos conjuntos sean equivalentes?",
+      "¿Cómo lo demuestras?"
+    ],
+    "Variantes": ["Equivalencia con figuras geométricas y colores."],
+    "Evaluacion": [
+      "Establece equivalencia en al menos 3 parejas.",
+      "Justifica su decisión oralmente."
+    ],
+    "Evidencias": ["Foto de emparejamientos", "Lista de casos"]
+  },
+  {
+    "Numero": "8",
+    "Titulo": "Ordenan las cajas",
+    "Proposito": "Construir un orden entre colecciones y razonarlo sin números al inicio.",
+    "Contenidos": ["Orden", "Comparación", "Correspondencia 1–1"],
+    "Materiales": ["Cajas o dibujos de cajas con objetos dentro"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Comparar pares de cajas y decidir mayor/menor.",
+      "Ordenar varias cajas de menor a mayor.",
+      "Verificar con una estrategia común del equipo."
+    ],
+    "PreguntasGuia": [
+      "¿Por qué esta caja va antes que esta otra?",
+      "¿Cómo verificamos nuestro orden?"
+    ],
+    "Variantes": ["Ordenar de mayor a menor y explicar cambios."],
+    "Evaluacion": [
+      "Ordena 4–6 cajas correctamente.",
+      "Explica el criterio usado."
+    ],
+    "Evidencias": ["Foto del orden final", "Breve nota del criterio"]
+  },
+  {
+    "Numero": "9",
+    "Titulo": "Brinca",
+    "Proposito": "Introducir sucesor/antecesor con saltos en una recta o tapete numerado.",
+    "Contenidos": ["Sucesor/antecesor", "Conteo ascendente/descendente"],
+    "Materiales": ["Recta/tapete numerado", "Fichas o saltos físicos"],
+    "Organizacion": "Grupal y parejas",
+    "Pasos": [
+      "Marcar un número de inicio y pedir el siguiente/anterior.",
+      "Realizar saltos cortos y describir el movimiento.",
+      "Registrar 3 secuencias de saltos."
+    ],
+    "PreguntasGuia": [
+      "¿Cuál sigue? ¿Cuál estaba antes?",
+      "¿Cómo describirías el salto que hiciste?"
+    ],
+    "Variantes": ["Saltos de 2 en 2 para alumnos avanzados."],
+    "Evaluacion": [
+      "Identifica sucesor/antecesor en 5 ejemplos.",
+      "Registra correctamente una secuencia."
+    ],
+    "Evidencias": ["Foto del tapete", "Tabla de saltos"]
+  },
+  {
+    "Numero": "10",
+    "Titulo": "Pon el número",
+    "Proposito": "Asociar colecciones con su representación numérica convencional.",
+    "Contenidos": ["Correspondencia colección–número", "Lectura de dígitos"],
+    "Materiales": ["Tarjetas con colecciones", "Tarjetas con números"],
+    "Organizacion": "Parejas",
+    "Pasos": [
+      "Mostrar colección y pedir el número correspondiente.",
+      "Intercambiar roles y verificar.",
+      "Registrar parejas correctas."
+    ],
+    "PreguntasGuia": [
+      "¿Cómo supiste que ese número corresponde?",
+      "¿Podemos comprobarlo de otra forma?"
+    ],
+    "Variantes": ["Tiempo limitado para aumentar el reto."],
+    "Evaluacion": [
+      "Relaciona correctamente 6–8 colecciones y números.",
+      "Verifica la respuesta de su compañero."
+    ],
+    "Evidencias": ["Lista de parejas", "Foto de tarjetas"]
+  },
+  {
+    "Numero": "11",
+    "Titulo": "Adivina qué bolsa",
+    "Proposito": "Inferir cantidades a partir de pistas y comparación indirecta.",
+    "Contenidos": ["Estimación", "Comparación", "Inferencia"],
+    "Materiales": ["Bolsas opacas con objetos", "Tarjetas de pistas"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Leer pistas (más que, menos que, igual que otra bolsa).",
+      "Ordenar bolsas según pistas.",
+      "Revelar y contrastar con el orden propuesto."
+    ],
+    "PreguntasGuia": [
+      "¿Qué pista fue más útil?",
+      "¿Cambiarías el orden con una pista nueva?"
+    ],
+    "Variantes": ["Usar sonidos/peso como pista adicional."],
+    "Evaluacion": [
+      "Ordena correctamente con base en pistas.",
+      "Explica el razonamiento usado."
+    ],
+    "Evidencias": ["Foto del orden", "Pistas usadas"]
+  },
+  {
+    "Numero": "12",
+    "Titulo": "La perinola",
+    "Proposito": "Introducir informalmente suma y resta con un juego de azar.",
+    "Contenidos": ["Adición", "Sustracción", "Conteo de resultados"],
+    "Materiales": ["Perinola con acciones (toma/pon) y fichas"],
+    "Organizacion": "Equipos",
+    "Pasos": [
+      "Repartir fichas iguales.",
+      "Jugar turnos sumando o restando según la perinola.",
+      "Registrar cambios de fichas por turno."
+    ],
+    "PreguntasGuia": [
+      "¿Cuántas ganaste/perdiste en total?",
+      "¿Cómo lo representas con signos?"
+    ],
+    "Variantes": ["Perinola con valores diferentes (+2, −2, etc.)."],
+    "Evaluacion": [
+      "Realiza sumas/restas hasta 10 correctamente.",
+      "Lleva un registro claro por turnos."
+    ],
+    "Evidencias": ["Registro por turnos", "Foto del juego"]
+  },
+  {
+    "Numero": "13",
+    "Titulo": "Mensajes",
+    "Proposito": "Explorar sistemas de registro y códigos antes de los números convencionales.",
+    "Contenidos": ["Sistemas de representación", "Convenciones", "Comunicación"],
+    "Materiales": ["Tiras de papel", "Sellos/dibujos", "Cajas para 'correo'"],
+    "Organizacion": "Parejas y equipos",
+    "Pasos": [
+      "Diseñar un código para indicar cantidades en un mensaje.",
+      "Intercambiar mensajes y tratar de 'leerlos'.",
+      "Comparar códigos y elegir rasgos comunes."
+    ],
+    "PreguntasGuia": [
+      "¿Qué hace legible un código?",
+      "¿Qué cambiarías para que sea más claro?"
+    ],
+    "Variantes": ["Ampliar códigos a señales de tiempo/orden."],
+    "Evaluacion": [
+      "Crea un código consistente para 5 cantidades.",
+      "Interpreta correctamente códigos de otro equipo."
+    ],
+    "Evidencias": ["Mensajes enviados/recibidos", "Afiche con el código acordado"]
+  },
+  {
+    "Numero": "14",
+    "Titulo": "Máquinas",
+    "Proposito": "Modelar transformaciones simples tipo 'entra/sale' para iniciar pensamiento funcional.",
+    "Contenidos": ["Relación de entrada–salida", "Patrones", "Suma/resta inicial"],
+    "Materiales": ["Tarjetas de 'máquina'", "Fichas/objetos", "Recta numérica"],
+    "Organizacion": "Grupal y equipos",
+    "Pasos": [
+      "Proponer una 'máquina' que transforma (p. ej., +1, −2).",
+      "Probar entradas y observar salidas.",
+      "Inferir la regla y registrarla."
+    ],
+    "PreguntasGuia": [
+      "¿Qué regla sigue la máquina?",
+      "¿Cómo lo comprobarías con otra entrada?"
+    ],
+    "Variantes": ["Máquinas con patrones alternados (+1, +2, +1...)."],
+    "Evaluacion": [
+      "Identifica la regla en 2–3 máquinas.",
+      "Aplica la regla a nuevas entradas."
+    ],
+    "Evidencias": ["Tabla entrada–salida", "Nota de la regla inferida"]
+  },
+  {
+    "Numero": "15",
+    "Titulo": "Canicas y huesitos",
+    "Proposito": "Comparar y reunir colecciones para introducir adición y equivalencia.",
+    "Contenidos": ["Comparación", "Equivalencia", "Adición inicial"],
+    "Materiales": ["Canicas", "Huesitos u otros objetos", "Hojas de registro"],
+    "Organizacion": "Parejas",
+    "Pasos": [
+      "Formar dos colecciones distintas.",
+      "Compararlas y decidir si son equivalentes.",
+      "Reunirlas y registrar el total."
+    ],
+    "PreguntasGuia": [
+      "¿Cómo sabes si dos colecciones son equivalentes?",
+      "¿Cuánto hay en total si las juntas?"
+    ],
+    "Variantes": ["Usar tres colecciones y combinar de dos en dos."],
+    "Evaluacion": [
+      "Establece equivalencia por correspondencia.",
+      "Suma colecciones pequeñas correctamente."
+    ],
+    "Evidencias": ["Foto de colecciones", "Tabla antes/después de reunir"]
+  }
+]

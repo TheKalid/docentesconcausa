@@ -1,0 +1,58 @@
+{
+  "Protocolo de Actuación ante Presunto Caso de Acoso Escolar": {
+    "Objetivo": [
+      "Establecer las líneas de actuación de la autoridad escolar ante la detección en un plantel educativo de una presunta situación de acoso escolar.",
+      "La finalidad es dar certeza de acción a las áreas involucradas en el proceso del caso."
+    ],
+    "Responsabilidades Mínimas de la Comunidad Educativa (Marco Normativo)": [
+      "Conocer, observar y aplicar la Constitución Política de los Estados Unidos Mexicanos.",
+      "Conocer, observar y aplicar la Ley General de Educación.",
+      "Conocer, observar y aplicar la Ley de Educación del Estado Libre y Soberano de Jalisco.",
+      "Conocer, observar y aplicar la Ley General de los Derechos de Niñas, Niños y Adolescentes.",
+      "Conocer, observar y aplicar la Ley de los Derechos de Niñas, Niños y Adolescentes en el Estado de Jalisco.",
+      "Conocer, observar y aplicar la Ley General de Responsabilidades Administrativas.",
+      "Conocer, observar y aplicar la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.",
+      "Conocer, observar y aplicar la Ley de la Comisión Nacional de los Derechos Humanos.",
+      "Conocer, observar y aplicar el Código Nacional de Procedimientos Penales.",
+      "Conocer, observar y aplicar el Código Penal del Estado de Jalisco.",
+      "Conocer, observar y aplicar la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.",
+      "Conocer, observar y aplicar la Ley de Justicia para Adolescentes del Estado de Jalisco.",
+      "Conocer, observar y aplicar el Código de Ética y las Reglas de Integridad para los Servidores Públicos de la Administración Pública del Estado de Jalisco.",
+      "Conocer, observar y aplicar el Marco para la excelencia en la enseñanza y la gestión escolar en la Educación Básica (Perfiles profesionales, criterios e indicadores para docentes, técnicos docentes y personal con funciones de dirección y de supervisión).",
+      "Conocer, observar y aplicar las Reglas de Conducta para las Escuelas de Educación Básica del Estado de Jalisco.",
+      "Conocer, observar y aplicar demás documentos normativos y de organización escolar expedidos por la Secretaría de Educación Pública y/o por la Secretaría de Educación del Estado de Jalisco y los de carácter interno del plantel."
+    ],
+    "Roles y Responsabilidades": {
+      "Docentes, Personal Administrativo y de Apoyo a la Educación": [
+        "Detectar o recibir la queja de un probable caso de acoso escolar.",
+        "Registrar la información referida en la bitácora del plantel.",
+        "Informar al Director en el lapso de la jornada escolar sobre el caso de acoso escolar presentado.",
+        "Inhibir cualquier conducta, trato o actividad que coloque a niñas, niños y adolescentes en situación de desventaja o que atente contra su dignidad o la de su familiar.",
+        "Atender e intervenir de manera oportuna ante situaciones de violencia o conductas que discriminen a niñas, niños y adolescentes."
+      ],
+      "Director": [
+        "Solicitar los antecedentes disciplinarios del alumnado involucrado (expedientes y/o bitácora).",
+        "Analizar la guía de observación de apoyo para identificar indicadores de riesgo y determinar si se trata de un caso de acoso escolar y su tipo.",
+        "Convocar a sesión del Comité de Disciplina escolar para la toma de acuerdos y medidas disciplinarias.",
+        "Contactar a la madre, padre o tutor de los alumnos involucrados en el lapso de la jornada escolar para informarles de los hechos.",
+        "Brindar orientación para interponer la denuncia ante Fiscalía del Estado en casos de acoso escolar cibernético.",
+        "Solicitar la presencia de servicios médicos municipales en casos de acoso escolar físico directo.",
+        "Realizar reporte a la Fiscalía del Estado o a la Procuraduría de Protección de Niñas, Niños y Adolescentes o a su Delegación institucional que corresponda, en casos de acoso escolar sexual.",
+        "Levantar acta de hechos, asegurando la confidencialidad de los datos del caso.",
+        "Documentar el caso en bitácoras y expedientes de alumnos involucrados y realizar acciones de intervención psicosocial.",
+        "Informar de los hechos al Supervisor Escolar y/o Jefe de Sector Escolar con el soporte documental.",
+        "Informar a padres de familia o tutores que se canalizará a los alumnos involucrados a la Dirección de Psicopedagogía para su atención."
+      ],
+      "Madre, Padre o Tutor": [
+        "Acudir al plantel con base en la convocatoria del Director.",
+        "Firmar acta de hechos.",
+        "Cumplir con los compromisos que se deriven de la atención del caso."
+      ],
+      "Supervisor Escolar y/o Jefe de Sector Escolar y/o Autoridad Correspondiente": [
+        "Reportar el caso a la Dirección de Psicopedagogía de la Secretaría de Educación del Estado de Jalisco, obteniendo folio del caso.",
+        "Notificar por escrito a superiores jerárquicos hasta llegar a la Subsecretaría que corresponda.",
+        "Realizar reporte ante la Procuraduría de Protección de Niñas, Niños y Adolescentes, o a la Delegación institucional que corresponda, cuando tras la implementación de estrategias diferenciadas no obtenga respuesta de la madre, padre o tutor respecto a la situación educativa del alumno, debiendo obtener constancia de esta acción."
+      ]
+    }
+  }
+}

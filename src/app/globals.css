@@ -1,26 +1,81 @@
 @import "tailwindcss";
 
+@theme {
+  /* Tema claro: mismos nombres semánticos, valores invertidos.
+     void=canvas, graphite=tarjeta, charcoal=panel/input,
+     snow=texto principal (tinta), bone=relleno CTA (tinta), ink=texto CTA (claro). */
+  --color-void: #f6f7f9;
+  --color-graphite: #ffffff;
+  --color-charcoal: #f1f3f5;
+  --color-smoke: #d7dade;
+  --color-steel: #6b7280;
+  --color-fog: #565a63;
+  --color-ash: #9aa0a8;
+  --color-chalk: #3d4048;
+  --color-snow: #0b0c0e;
+  --color-bone: #131416;
+  --color-ink: #ffffff;
+  --color-signal-blue: #2563eb;
+  --color-arc-blue: #2563eb;
+  --color-ring-blue: #60a5fa;
+  --color-mint: #16a34a;
+  --color-fern: #22c55e;
+  --color-coral: #dc2626;
+  --color-ember: #ea580c;
+  --color-iris: #314ef0;
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+
+  --shadow-sm: rgba(15, 23, 42, 0.08) 0px 1px 3px 0px,
+    rgba(15, 23, 42, 0.04) 0px 1px 2px 0px;
+  --shadow-card: 0 0 0 0.5px rgba(15, 23, 42, 0.08),
+    0 1px 2px rgba(15, 23, 42, 0.04), 0 12px 28px rgba(15, 23, 42, 0.06);
+  --shadow-panel: 0 0 0 0.5px rgba(15, 23, 42, 0.07),
+    0 8px 24px rgba(15, 23, 42, 0.06);
+  --shadow-xl: rgba(15, 23, 42, 0.06) 0px 40px 80px 0px,
+    rgba(15, 23, 42, 0.05) 0px 16px 32px 0px,
+    rgba(15, 23, 42, 0.04) 0px 6px 12px 0px;
+}
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: var(--color-void);
+  --foreground: var(--color-snow);
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+* {
+  box-sizing: border-box;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  background: var(--color-void);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background:
+    radial-gradient(circle at 15% 8%, rgba(37, 99, 235, 0.06), transparent 30rem),
+    radial-gradient(circle at 85% 0%, rgba(37, 99, 235, 0.05), transparent 26rem),
+    linear-gradient(180deg, #f6f7f9 0%, #f6f7f9 60%, #eef1f4 100%);
+  color: var(--color-snow);
+  font-feature-settings:
+    "ss01" on,
+    "ss03" on;
+  line-height: 1.43;
+  min-height: 100vh;
+}
+
+::selection {
+  background: rgba(37, 99, 235, 0.18);
+  color: var(--color-snow);
+}
+
+@keyframes pulse-animation {
+  0% {
+    box-shadow: 0 0 0 0 rgba(59, 130, 246, 0.35);
+  }
+  70% {
+    box-shadow: 0 0 0 16px rgba(59, 130, 246, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(59, 130, 246, 0);
+  }
 }

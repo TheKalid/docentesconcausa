@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "tema": "Estamos trabajando muy pronto tendras tus examenes de prueba",
+    "caso": "Estamos trabajando muy pronto tendras tus examenes de prueba",
+    "pregunta": "Estamos trabajando muy pronto tendras tus examenes de prueba",
+    "opciones": [
+      "A) Estamos trabajando muy pronto tendras tus examenes de prueba",
+      "B) Estamos trabajando muy pronto tendras tus examenes de prueba",
+      "C) Estamos trabajando muy pronto tendras tus examenes de prueba",
+      "D) Estamos trabajando muy pronto tendras tus examenes de prueba"
+    ],
+    "respuesta_correcta": "C",
+    "explicacion": "Estamos trabajando muy pronto tendras tus examenes de prueba"
+  }
+
+ ]

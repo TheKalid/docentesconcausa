@@ -1,0 +1,86 @@
+{
+  "resolucionDeConflictos": {
+    "manejoEnLaEscuela": {
+      "titulo": "Qué hacer en la escuela ante el conflicto",
+      "pasos": [
+        {
+          "paso": 1,
+          "descripcion": "Reconocerlo y hablar de él."
+        },
+        {
+          "paso": 2,
+          "descripcion": "Clarificar o reconocer los intereses y sentimientos de las personas involucradas en el conflicto, es decir, de cada una de las partes."
+        },
+        {
+          "paso": 3,
+          "descripcion": "Favorecer el diálogo como herramienta de comunicación asertiva."
+        },
+        {
+          "paso": 4,
+          "descripcion": "Proponer alternativas de posibles soluciones del conflicto."
+        },
+        {
+          "paso": 5,
+          "descripcion": "Evaluar las alternativas y tomar acuerdos para decidir la que favorezca a todas las partes."
+        },
+        {
+          "paso": 6,
+          "descripcion": "Establecer compromisos para el cumplimiento de la alternativa de solución decidida."
+        },
+        {
+          "paso": 7,
+          "descripcion": "Seguimiento o evaluación del cumplimiento de los acuerdos."
+        }
+      ]
+    },
+    "tecnicasDeDialogo": {
+      "negociacion": {
+        "titulo": "Negociación",
+        "descripcion": "Proceso para transformar objetivos iniciales en propósitos de mutuo interés, buscando soluciones que satisfagan a las partes en conflicto.",
+        "pasos": [
+          {
+            "paso": 1,
+            "titulo": "Estar dispuestos a dialogar",
+            "descripcion": "Las personas involucradas expresan su percepción, opiniones y emociones sobre el conflicto desde su punto de vista."
+          },
+          {
+            "paso": 2,
+            "titulo": "Identificar el problema y los intereses",
+            "descripcion": "Se busca descubrir intereses comunes, identificando y escuchando las necesidades de cada persona y mostrando disposición a ceder si es necesario."
+          },
+          {
+            "paso": 3,
+            "titulo": "Buscar soluciones",
+            "descripcion": "Se utiliza la empatía y la creatividad para encontrar soluciones que tomen en cuenta las necesidades de todos los involucrados."
+          },
+          {
+            "paso": 4,
+            "titulo": "Establecer acuerdos",
+            "descripcion": "Se evalúan las soluciones propuestas y se elige la que mejor resuelva el conflicto para beneficio de ambas partes. El acuerdo debe ser claro, especificando quién, qué, cómo, cuándo y dónde."
+          }
+        ]
+      },
+      "mediacion": {
+        "titulo": "Mediación",
+        "descripcion": "Proceso voluntario de resolución pacífica con la ayuda de una persona mediadora, neutral e imparcial, cuando las partes no pueden resolver el conflicto por sí mismas.",
+        "fases": [
+          {
+            "fase": 1,
+            "titulo": "Inicio",
+            "descripcion": "Restablecer la comunicación entre las partes, definir los objetivos de la mediación y acordar el procedimiento a seguir."
+          },
+          {
+            "fase": 2,
+            "titulo": "Descripción de la estructura del conflicto",
+            "descripcion": "Recopilar la información necesaria, incluyendo antecedentes y contexto, para clarificar el problema."
+          },
+          {
+            "fase": 3,
+            "titulo": "Obtención de acuerdos",
+            "descripcion": "Clarificar las necesidades e intereses, establecer metas, y formular acuerdos y su cumplimiento."
+          }
+        ]
+      }
+    }
+  }
+}

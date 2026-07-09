@@ -1,0 +1,361 @@
+/* Estilos generales */
+:root {
+    /* Paleta de colores */
+    --color-primario: #2980b9;
+    --color-secundario: #82e0aa;
+    --color-acento: #f39c12;
+    --color-acento-hover: #e67e22;
+    --color-boton: #007bff;
+    --color-boton-hover: #0056b3;
+    --color-tooltip-bg: #333;
+    --color-tooltip-text: #fff;
+    --color-neutral-claro: #f4f4f4;
+    --color-neutral-oscuro: #ecf0f1;
+
+    /* Tipografía */
+    --fuente-principal: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    --fuente-secundaria: Arial, sans-serif;
+}
+
+body {
+    font-family: var(--fuente-principal);
+    background-color: var(--color-neutral-claro);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    color: #333;
+    font-size: 1.1em; /* Aumentar el tamaño de la letra base */
+}
+
+/* Encabezado */
+header {
+    background-color: var(--color-primario);
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.3em; /* Un poco más grande */
+    font-weight: 600;
+    order: 1;
+}
+
+/* Logo */
+.logo {
+    order: 2;
+    width: 140px; /* Un poco más pequeño */
+    height: auto;
+    margin-top: 8px; /* Ajuste menor de margen */
+    margin-bottom: 8px; /* Ajuste menor de margen */
+}
+
+.logo img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Navegación */
+nav {
+    background-color: #2c3e50;
+    color: white;
+    padding: 10px 0; /* Aumentado el padding */
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 25px; /* Aumentado el gap */
+}
+
+nav li {
+    margin: 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 12px 20px; /* Aumentado el padding */
+    border-radius: 7px; /* Aumentado el radio */
+    transition: background-color 0.3s ease;
+    font-weight: 600; /* Aumentado el peso de la fuente */
+    font-size: 1.2em; /* Aumentado el tamaño */
+}
+
+nav a:hover {
+    background-color: #34495e;
+}
+
+/* Contenido principal */
+main {
+    flex: 1;
+    padding: 18px; /* Un poco menos de padding */
+    width: 85%; /* Ligeramente más ancho */
+    max-width: 1250px; /* Ancho máximo aumentado */
+    margin: 18px auto; /* Márgenes ajustados */
+    background-color: white;
+    box-shadow: 0 3px 7px rgba(0, 0, 0, 0.1); /* Sombra ligeramente reducida */
+    border-radius: 7px; /* Radio ligeramente reducido */
+}
+
+section {
+    margin-bottom: 18px; /* Márgenes ajustados */
+}
+
+section h2 {
+    color: var(--color-primario);
+    border-bottom: 2px solid var(--color-primario);
+    padding-bottom: 4px; /* Padding reducido */
+    font-size: 2.1em; /* Tamaño ajustado */
+    font-weight: 600;
+    text-align: center;
+}
+
+section p {
+    text-align: justify;
+    margin: 8px auto; /* Márgenes ajustados */
+    max-width: 750px; /* Ancho máximo ajustado */
+    font-size: 1.08em; /* Ligeramente más grande */
+    line-height: 1.6; /* Espaciado de línea mejorado */
+}
+
+/* Formularios */
+form {
+    display: flex;
+    flex-direction: column;
+    width: 95%; /* Ancho aumentado */
+    max-width: 650px; /* Ancho máximo aumentado */
+    margin: 0 auto;
+    padding: 22px; /* Aumentado el padding */
+    background-color: white;
+    border-radius: 10px; /* Aumentado el radio */
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1); /* Sombra aumentada */
+}
+
+form label {
+    margin-top: 12px; /* Aumentado el margen */
+    margin-bottom: 6px; /* Aumentado el margen */
+    font-weight: bold;
+    color: #444; /* Color más oscuro */
+    font-size: 1.05em; /* Aumentado el tamaño */
+}
+
+form input,
+form select,
+form textarea {
+    padding: 11px; /* Aumentado el padding */
+    margin-bottom: 18px; /* Aumentado el margen */
+    border: 1.5px solid #ccc; /* Borde más sutil */
+    border-radius: 5px; /* Radio aumentado */
+    font-size: 1.02em; /* Aumentado el tamaño */
+}
+
+form input:focus,
+form select:focus,
+form textarea:focus {
+    border-color: var(--color-primario);
+    outline: none;
+    box-shadow: 0 0 5px rgba(52, 152, 219, 0.4); /* Sombra más sutil */
+}
+
+form button {
+    background-color: var(--color-acento);
+    color: white;
+    padding: 11px 18px; /* Padding ajustado */
+    border: none;
+    border-radius: 6px; /* Radio ajustado */
+    cursor: pointer;
+    font-size: 1.05em; /* Tamaño ajustado */
+    transition: background-color 0.25s ease; /* Transición más rápida */
+}
+
+form button:hover {
+    background-color: var(--color-acento-hover);
+}
+
+.botones {
+    display: flex;
+    justify-content: center;
+    gap: 15px; /* Espacio reducido */
+    margin-top: 18px; /* Margen ajustado */
+}
+
+.botones button {
+    width: auto; /* Ancho automático */
+    padding: 10px 16px; /* Padding reducido */
+    font-size: 1.03em; /* Tamaño ajustado */
+}
+
+/* Imágenes */
+.mission-image {
+    max-width: 95%; /* Ancho máximo ajustado */
+    height: auto;
+    display: block;
+    margin: 18px auto; /* Márgenes ajustados */
+    border-radius: 7px; /* Radio ajustado */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08); /* Sombra más sutil */
+}
+
+/* Pie de página */
+footer {
+    background-color: #333; /* Color más oscuro */
+    color: #eee; /* Color más claro */
+    text-align: center;
+    padding: 9px 0; /* Padding ajustado */
+    margin-top: 18px; /* Margen ajustado */
+    font-size: 0.95em; /* Tamaño reducido */
+}
+
+/* Estilos específicos para generarplan.html */
+.form-section {
+    width: 90%; /* Ancho aumentado */
+    max-width: 950px; /* Ancho máximo aumentado */
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px; /* Aumentado el padding */
+    border-radius: 12px; /* Aumentado el radio */
+}
+
+/* Estilos para la sección de planeaciones y los botones */
+#planeaciones {
+    text-align: center;
+    padding: 10px; /* Añadido padding */
+    border-radius: 10px; /* Añadido border-radius */
+    background-color: rgba(255, 255, 255, 0.8); /* Fondo semitransparente */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+    margin-bottom: 20px; /* Añadido margen inferior */
+}
+
+#planeaciones button {
+    background-color: var(--color-boton);
+    color: white;
+    padding: 12px 24px; /* Ajustado el padding */
+    font-size: 1.1em; /* Ajustado el tamaño de la fuente */
+    border: none;
+    border-radius: 6px; /* Ajustado el radio */
+    cursor: pointer;
+    transition: background-color 0.25s ease, transform 0.1s ease; /* Transiciones más rápidas y suaves */
+    margin: 8px; /* Márgenes ajustados */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+}
+
+#planeaciones button:hover {
+    background-color: var(--color-boton-hover);
+    transform: scale(1.02); /* Sutil efecto de escala al pasar el mouse */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15); /* Sombra ligeramente más pronunciada */
+}
+
+/* Estilos para los botones "Regresar" en Misión y Visión */
+#mision button,
+#vision button {
+    background-color: var(--color-acento);
+    color: white;
+    padding: 14px 28px; /* Ajustado el padding */
+    font-size: 1.3em; /* Ajustado el tamaño de la fuente */
+    border: none;
+    border-radius: 7px; /* Ajustado el radio */
+    cursor: pointer;
+    transition: background-color 0.25s ease, transform 0.1s ease; /* Transiciones más rápidas y suaves */
+    margin-top: 18px; /* Margen ajustado */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+}
+
+#mision button:hover,
+#vision button:hover {
+    background-color: var(--color-acento-hover);
+    transform: scale(1.02); /* Sutil efecto de escala al pasar el mouse */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15); /* Sombra ligeramente más pronunciada */
+}
+
+/* Estilos para el tooltip (mensaje al pasar el cursor) */
+.button-tooltip {
+    visibility: hidden;
+    width: 200px;
+    background-color: var(--color-tooltip-bg);
+    color: var(--color-tooltip-text);
+    text-align: center;
+    border-radius: 5px; /* Radio ajustado */
+    padding: 6px 0; /* Padding ajustado */
+    position: absolute;
+    z-index: 1;
+    bottom: 120%; /* Ajustado la posición */
+    left: 50%;
+    margin-left: -100px;
+    opacity: 0.9; /* Opacidad ligeramente reducida */
+    transition: opacity 0.2s ease; /* Transición más rápida */
+    font-size: 0.9em; /* Tamaño reducido */
+}
+
+.button-container button:hover .button-tooltip {
+    visibility: visible;
+    opacity: 1;
+}
+
+/* Media Queries para hacerlo responsivo */
+@media (max-width: 768px) {
+    body {
+        padding: 8px; /* Padding reducido */
+    }
+
+    header h1 {
+        font-size: 1.6em; /* Ajuste para pantallas pequeñas */
+    }
+
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+        gap: 12px; /* Ajuste para pantallas pequeñas */
+    }
+
+    nav a {
+        padding: 6px 10px; /* Ajuste para pantallas pequeñas */
+        font-size: 1.1em; /* Ajuste para pantallas pequeñas */
+    }
+
+    main {
+        width: 98%; /* Ancho aumentado */
+        padding: 12px; /* Ajuste para pantallas pequeñas */
+    }
+
+    form {
+        width: 98%; /* Ancho aumentado */
+        padding: 18px; /* Ajuste para pantallas pequeñas */
+    }
+
+    .logo {
+        width: 100px; /* Ajuste para pantallas pequeñas */
+    }
+
+    section h2 {
+        font-size: 1.7em; /* Ajuste para pantallas pequeñas */
+    }
+
+    section p {
+        font-size: 1em; /* Ajuste para pantallas pequeñas */
+    }
+
+    #planeaciones button {
+        padding: 10px 20px; /* Ajuste para pantallas pequeñas */
+        font-size: 1em; /* Ajuste para pantallas pequeñas */
+    }
+
+    #mision button,
+    #vision button {
+        padding: 12px 24px; /* Ajuste para pantallas pequeñas */
+        font-size: 1.2em; /* Ajuste para pantallas pequeñas */
+    }
+}

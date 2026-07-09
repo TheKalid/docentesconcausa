@@ -1,0 +1,61 @@
+{
+  "Guías de Observación y Protocolos de Actuación": {
+    "Guía de Observación de Apoyo para Maltrato Infantil": {
+      "Propósito": [
+        "Esta guía complementa las tareas de vigilancia para la prevención de maltrato infantil.",
+        "Los indicadores de factores de riesgo (generales y específicos) sugieren probables casos de maltrato infantil.",
+        "Constituyen elementos para informar a la autoridad escolar e iniciar la atención del caso.",
+        "Es importante considerar que un indicador por sí solo no es evidencia de maltrato infantil.",
+        "Se recomienda valorar, dar seguimiento a los indicadores detectados y notificar a la Dirección del plantel educativo.",
+        "La guía no es un diagnóstico."
+      ],
+      "Manejo de Reportes de Maltrato Infantil": [
+        "Si un estudiante informa o reporta un posible maltrato infantil, se asegurará su confidencialidad y discrecionalidad para proteger a todos los involucrados.",
+        "Es de suma importancia notificar de inmediato a la Directora o Director del plantel educativo.",
+        "El personal de la Dirección, en colaboración con quien refirió el caso, deberá elaborar el acta de hechos en el Anexo 1 (Acta de Hechos)."
+      ]
+    },
+    "Guía de Observación de Apoyo para Abuso Sexual Infantil": {
+      "Propósito": [
+        "Esta guía complementa las tareas de vigilancia para la prevención de abuso sexual infantil.",
+        "Los indicadores de factores de riesgo (generales y en caso de agresión) sugieren probables casos de abuso sexual infantil.",
+        "Constituyen elementos para informar a la autoridad escolar e iniciar la atención del caso.",
+        "Es importante considerar que un indicador por sí solo no es evidencia de abuso sexual infantil.",
+        "Se recomienda valorar, dar seguimiento a los indicadores detectados y notificar a la Dirección del plantel educativo.",
+        "La guía no es un diagnóstico."
+      ],
+      "Manejo de Reportes de Abuso Sexual Infantil": [
+        "Si un estudiante informa o reporta un posible abuso sexual, se asegurará su confidencialidad y discrecionalidad para proteger a todos los involucrados.",
+        "Es de suma importancia notificar de inmediato a la Directora o Director del plantel educativo.",
+        "El personal de la Dirección, en colaboración con quien refirió el caso, deberá elaborar el acta de hechos a través del Anexo 1."
+      ]
+    },
+    "Guía Rápida para la Correcta Aplicación de los Protocolos": {
+      "Propósito": [
+        "Esta guía busca brindar un esquema ejecutivo para la selección correcta del procedimiento a seguir por parte de las autoridades escolares, dependiendo del o los casos detectados o referidos."
+      ],
+      "Protocolo de Actuación ante Presunto Caso de Acoso Escolar": [
+        "**Cuándo aplicar:** Se detona cuando se presentan situaciones de violencia sistemáticas y recurrentes entre estudiantes.",
+        "**Excepciones:** Excepto en casos de exclusión social, sexual y agresión física directa, según el artículo 87, fracciones I, V y VII de la Ley de Educación del Estado Libre y Soberano de Jalisco. (Ver Glosario para referencia)."
+      ],
+      "Protocolo de Actuación ante Presunto Caso de Maltrato Infantil (agresor interno)": [
+        "**Cuándo aplicar:** Se emplea cuando se detecte o reporte que un trabajador del plantel escolar (independientemente de su función) ha inferido maltrato físico o psicológico a una persona menor de edad, causándole una alteración en su salud, integridad física o psicológica. (Ver Glosario para referencia)."
+      ],
+      "Protocolo de Actuación ante Presunto Caso de Maltrato Infantil (agresor externo)": [
+        "**Cuándo aplicar:** Se aplica cuando al interior de la escuela se detecta o reporta que algún estudiante presenta rasgos de maltrato ocurrido fuera del centro educativo.",
+        "**Consideraciones:** Pudiendo ser elementos de descuido, abandono, explotación comercial, o hasta de violencia física. (Ver Glosario para referencia)."
+      ],
+      "Protocolo de Actuación ante un Caso de Abuso Sexual Infantil en Flagrancia": [
+        "**Cuándo aplicar:** Se ejecuta cuando al interior de la escuela se sorprende, reporta o detecta en el acto el abuso sexual infantil en agravio de algún estudiante. (Ver Glosario para referencia)."
+      ],
+      "Protocolo de Actuación ante un Caso de Abuso Sexual Infantil (personal del plantel, por referencia)": [
+        "**Cuándo aplicar:** Se emplea cuando se detecte o reporte por referencia que un trabajador del plantel escolar (independientemente de su función) ha cometido un probable abuso sexual infantil en agravio de algún estudiante.",
+        "**Consideraciones:** Dicho agravio puede o no implicar el contacto físico. (Ver Glosario para referencia)."
+      ],
+      "Protocolo de Actuación ante un Caso de Abuso Sexual Infantil (personal externo al plantel)": [
+        "**Cuándo aplicar:** Se ejecuta cuando al interior de la escuela se reporta o detecta un probable caso de abuso sexual infantil por parte de una persona externa al plantel educativo.",
+        "**Consideraciones:** Considerando que este aconteció fuera del mismo, pudiendo ser inclusive en la casa de los estudiantes. (Ver Glosario para referencia)."
+      ]
+    }
+  }
+}

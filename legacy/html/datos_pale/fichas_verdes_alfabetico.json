@@ -1,0 +1,505 @@
+[
+  {
+    "id": "VERDE-1",
+    "color": "VERDE",
+    "numero": 1,
+    "nivel": "Alfabético",
+    "titulo": "ESCRIBO LO QUE SÉ DE TI",
+    "objetivo": "Realizar un trabajo de registro y redacción de datos acerca de los miembros de la clase.",
+    "materiales": "Tarjetas.",
+    "descripcion": [
+      "Cada alumno saca al azar una tarjeta con el nombre de un compañero.",
+      "Escribe en la tarjeta datos sobre ese compañero. Puede hacerle una 'entrevista' para obtener más información (ej. '¿qué película viste?').",
+      "Una vez redactadas, las fichas se juntan y se reparten nuevamente al azar, para que cada niño lea al equipo la información de un compañero diferente.",
+      "Las tarjetas se guardan en una caja ordenada alfabéticamente y se usan durante el año para buscar información (ej. '¿cuál es la dirección de Lupita?').",
+      "Periódicamente, se actualizan las fichas agregando nueva información que los niños conozcan sobre sus compañeros."
+    ]
+  },
+  {
+    "id": "VERDE-2",
+    "color": "VERDE",
+    "numero": 2,
+    "nivel": "Alfabético",
+    "titulo": "¿QUÉ PALABRAS PUEDO FORMAR?",
+    "objetivo": "Reflexionar acerca de los aspectos sonoros del sistema de escritura al pensar en palabras que poseen una determinada combinación de letras.",
+    "descripcion": [
+      "El maestro escribe una combinación de dos o tres letras (ej. 'mar').",
+      "Pide a los alumnos que piensen y anoten en sus cuadernos palabras que contengan esa combinación de letras juntas y en ese orden.",
+      "Luego, leen sus propuestas al equipo y cada uno agrega a su lista las palabras de sus compañeros.",
+      "Al final, se hace una reflexión sobre las listas: '¿Qué nombres de personas escribieron?', '¿Qué nombres de cosas?', etc."
+    ],
+    "ejemplos": {
+      "Combinaciones": [
+        {"mar": "martes, mariposa, calamar, amargo."},
+        {"ar": "árbol, carta, cantar, jugar."},
+        {"mer": "mercado, mermelada, comer."}
+      ]
+    }
+  },
+  {
+    "id": "VERDE-3",
+    "color": "VERDE",
+    "numero": 3,
+    "nivel": "Alfabético",
+    "titulo": "ACENTUACIÓN",
+    "objetivo": [
+      "Descubrir la sílaba tónica en las palabras.",
+      "Usar códigos para representar la sílaba tónica."
+    ],
+    "descripcion": [
+      "El maestro explica que todas las palabras de dos o más sílabas tienen una parte que suena más fuerte, y da ejemplos enfatizando la sílaba tónica.",
+      "Propone un juego: palmear las sílabas y golpear la mesa en la sílaba tónica. Presenta pares de palabras con igual número de sílabas pero diferente acentuación (ej. borrador-cuaderno) y los niños deben adivinar cuál está 'palmeando'.",
+      "Luego, se introduce un código: dibujar un cuadrito por cada sílaba, marcando con una raya (o X) la sílaba fuerte y con un punto las demás.",
+      "Los niños practican en el pizarrón y en sus cuadernos, dibujando objetos y representando su acentuación con el código."
+    ],
+    "notas": "El maestro puede comentar que a veces esa sílaba fuerte se marca con una rayita llamada acento (tilde) y en otros casos no es necesario."
+  },
+  {
+    "id": "VERDE-4",
+    "color": "VERDE",
+    "numero": 4,
+    "nivel": "Alfabético",
+    "titulo": "ENLAZAN PALABRAS",
+    "objetivo": [
+      "Reflexionar sobre aspectos sonoros al pensar en palabras con iniciales predeterminadas.",
+      "Descubrir otra dirección convencional de la escritura (de arriba hacia abajo)."
+    ],
+    "descripcion": [
+      "El juego consiste en enlazar palabras a partir de la última letra de la palabra anterior.",
+      "El maestro escribe una palabra inicial (ej. MESA) y pregunta con qué letra termina ('A').",
+      "Un niño piensa una palabra que empiece con esa letra ('A') y la escribe hacia abajo, a partir de esa letra compartida (ej. AGUA).",
+      "El juego continúa por turnos, enlazando una nueva palabra a la última letra de la palabra anterior."
+    ],
+    "notas": "Esta actividad puede también ser propuesta a niños que trabajen con hipótesis silábica."
+  },
+  {
+    "id": "VERDE-5",
+    "color": "VERDE",
+    "numero": 5,
+    "nivel": "Alfabético",
+    "titulo": "LAS MAYÚSCULAS Y SU USO",
+    "objetivo": "Conocer el uso convencional de las mayúsculas al inicio de nombres propios, al principio de un texto y después de punto.",
+    "descripcion": [
+      "El maestro pide a los alumnos pensar palabras que empiecen con la misma letra que un nombre propio (ej. México) y las escribe en una lista (mesa, masa, María, Manuel, etc.).",
+      "Pregunta: '¿Por qué escribí mesa con 'm' minúscula y Manuel con 'M' mayúscula?'. Si no lo saben, explica la regla para nombres propios.",
+      "Luego, buscan en su libro de texto otras mayúsculas y descubren que también se usan al principio de un texto y después de punto.",
+      "Se elabora una cartulina con el abecedario en minúsculas y los niños ayudan a poner la mayúscula correspondiente al lado de cada letra. La cartulina se deja visible en el salón para consulta."
+    ]
+  },
+  {
+    "id": "VERDE-6",
+    "color": "VERDE",
+    "numero": 6,
+    "nivel": "Alfabético",
+    "titulo": "CONSTRUYEN PALABRAS",
+    "objetivo": "Reflexionar sobre la escritura de palabras dictadas y de otras formadas libremente por ellos, incluyendo palabras con mayor dificultad (sílabas inversas, trabadas, etc.).",
+    "materiales": "Letras móviles.",
+    "descripcion": [
+      "La actividad es similar a la Ficha Amarilla No. 4, pero se utilizan palabras más complejas.",
+      "El maestro dicta palabras que pueden incluir sílabas inversas (árbol, alto), trabadas (tren, blanco, piedra), dígrafos (chicle, yoyo) o acentos (limón, plátano).",
+      "Se promueve el intercambio de opiniones y la confrontación de ideas entre los alumnos.",
+      "Posteriormente, la actividad puede realizarse sin el uso de letras móviles."
+    ]
+  },
+  {
+    "id": "VERDE-7",
+    "color": "VERDE",
+    "numero": 7,
+    "nivel": "Alfabético",
+    "titulo": "CONVENCIONALIDAD DE LETRAS HOMÓFONAS",
+    "objetivo": "Avanzar en el conocimiento del sistema de escritura al reconocer que algunos sonidos están representados por más de una letra. No se pretende que aprendan todas las reglas, sino que conozcan la existencia de estas variaciones.",
+    "descripcion": [
+      "Para las letras 'b' y 'v': El maestro pide palabras que empiecen con 'be'. A medida que las proponen, las va escribiendo en el pizarrón, señalando la ortografía correcta en cada caso (ej. 'vaca se escribe con esta otra').",
+      "Luego, los niños buscan y copian en sus cuadernos palabras con 'b' y con 'v' de sus libros o las recortan de periódicos.",
+      "Se trabaja de manera similar con las demás letras homófonas: c/s/z, c/qu, g/j, y/ll.",
+      "Se aprovecha para explicar el uso de 'gue'/'gui' y 'güe'/'güi'."
+    ]
+  },
+  {
+    "id": "VERDE-8",
+    "color": "VERDE",
+    "numero": 8,
+    "nivel": "Alfabético",
+    "titulo": "SIGUEN LA LECTURA DE UN TEXTO",
+    "objetivo": "Ser capaces de seguir una lectura realizada en voz alta por el maestro e interpretar el contenido de ese texto.",
+    "materiales": "Libro de texto (ej. de primer año).",
+    "descripcion": [
+      "El maestro elige una lectura y presenta el título. Ayuda a los niños a encontrar la página.",
+      "Les pide que sigan la lectura con su dedo mientras él lee en voz alta.",
+      "Ocasionalmente, interrumpe la lectura y pregunta '¿dónde voy?' para verificar que lo están siguiendo.",
+      "Una vez leído el cuento, formula preguntas que conduzcan al análisis del contenido (ej. '¿quiénes ayudaron a tapar el pozo?').",
+      "Finalmente, los niños pueden hacer un dibujo y escribir algo relacionado con el cuento."
+    ]
+  },
+  {
+    "id": "VERDE-9",
+    "color": "VERDE",
+    "numero": 9,
+    "nivel": "Alfabético",
+    "titulo": "CONVENCIONALIDAD DE LA RR",
+    "objetivo": [
+      "Conocer la diferencia de sonidos correspondientes a las grafías 'r' y 'rr' cuando están entre vocales.",
+      "Conocer la convención del uso de la 'rr'."
+    ],
+    "descripcion": [
+      "El maestro escribe pares de palabras como 'caro/carro', 'pera/perra'.",
+      "Pregunta si dicen lo mismo y por qué no, llevando a los niños a tomar conciencia de la diferencia de sonido entre 'r' suave y 'rr' fuerte.",
+      "Luego, piensan y escriben palabras que empiecen con 'r'. El maestro explica la regla ortográfica de forma sencilla: la 'r' al inicio siempre suena fuerte, pero entre vocales suena suave. Si se quiere que suene fuerte entre vocales, se debe escribir doble ('rr').",
+      "Practican buscando y recortando palabras que empiecen con 'r' y otras que contengan 'rr'."
+    ]
+  },
+  {
+    "id": "VERDE-10",
+    "color": "VERDE",
+    "numero": 10,
+    "nivel": "Alfabético",
+    "titulo": "EL AHORCADO",
+    "objetivo": "Anticipar una palabra a partir de la letra inicial, la letra final y el número de letras que la componen.",
+    "descripcion": [
+      "La actividad es una variante del juego tradicional del ahorcado (descrito en Ficha Amarilla No. 9).",
+      "Se da al niño el campo semántico al que pertenece la palabra (ej. 'es una fruta'), la letra inicial, la letra final y las rayas correspondientes a las letras intermedias (ej. N _ _ _ _ _ A para 'naranja').",
+      "Para niños alfabéticos avanzados, se pueden usar palabras con sílabas directas, inversas y trabadas.",
+      "El maestro procura que las letras propuestas se mencionen por su nombre (eme, ese, etc.)."
+    ]
+  },
+  {
+    "id": "VERDE-11",
+    "color": "VERDE",
+    "numero": 11,
+    "nivel": "Alfabético",
+    "titulo": "LOS SIGNOS DE PUNTUACIÓN",
+    "objetivo": "Descubrir la importancia del punto y de la coma en la comprensión de los textos.",
+    "descripcion": [
+      "El maestro lee un texto en voz alta, primero sin considerar la puntuación y luego marcándola bien. Pregunta a los niños cuándo se entendió mejor.",
+      "Explica la función de los puntos y las comas.",
+      "Escribe en el pizarrón enunciados que cambian de significado según la puntuación empleada (ej. 'El león fuerte, rugía' vs. 'El león, fuerte rugía') y los interpretan."
+    ]
+  },
+  {
+    "id": "VERDE-12",
+    "color": "VERDE",
+    "numero": 12,
+    "nivel": "Alfabético",
+    "titulo": "REDACTAN PÁRRAFOS",
+    "objetivo": "Iniciarse en la redacción de textos más complejos que la oración.",
+    "descripcion": [
+      "Se aprovecha cualquier experiencia de interés (un paseo, un experimento) para que los niños escriban sobre ella.",
+      "Se platica sobre el tema y luego se propone la escritura, que puede ser individual o por equipo.",
+      "Si es individual: cada uno escribe sobre el tema y luego lee su texto al equipo. Se les da la oportunidad de corregir o agregar información después de escuchar a sus compañeros.",
+      "Si es en equipo: se ponen de acuerdo sobre qué escribir, uno de los integrantes redacta lo que proponen sus compañeros y luego otro lee el texto final para discutirlo y modificarlo si es necesario."
+    ]
+  },
+  {
+    "id": "VERDE-13",
+    "color": "VERDE",
+    "numero": 13,
+    "nivel": "Alfabético",
+    "titulo": "TRABAJAN CON SÍLABAS COMPLEJAS",
+    "objetivo": "Consolidar la escritura convencional de palabras y familiarizarse con el uso del diccionario para niños de nivel alfabético avanzado.",
+    "materiales": "Tarjetas con palabras con sílabas complejas, diccionario.",
+    "descripcion": [
+      "El maestro da una tarjeta con palabras que contienen sílabas trabadas o complejas (ej. Cresta, Clips, Triciclo, Brisa).",
+      "Las palabras que los niños no conozcan, las buscan en el diccionario con ayuda del maestro.",
+      "Luego, construyen enunciados con cada una de las palabras de la lista.",
+      "Finalmente, cada alumno lee a su equipo las oraciones que formó."
+    ]
+  },
+  {
+    "id": "VERDE-14",
+    "color": "VERDE",
+    "numero": 14,
+    "nivel": "Alfabético",
+    "titulo": "BUSCAN INFORMACIÓN EN UN PÁRRAFO",
+    "objetivo": "Realizar una lectura comprensiva de los textos y ser capaces de encontrar en ellos información específica.",
+    "materiales": "Textos escritos o impresos (del libro, cuentos, revistas).",
+    "descripcion": [
+      "El maestro proporciona un texto. Los niños lo leen en silencio.",
+      "Después, el maestro les pide información específica que se encuentra en dicha lectura.",
+      "Ejemplo: Después de leer el texto 'Lolita', pregunta: '¿Dónde vive Lolita?', '¿Qué flores crecen ahí?'.",
+      "Los alumnos pueden responder de memoria o necesitar releer el párrafo para encontrar la información solicitada."
+    ]
+  },
+  {
+    "id": "VERDE-15",
+    "color": "VERDE",
+    "numero": 15,
+    "nivel": "Alfabético",
+    "titulo": "LOS ESPACIOS EN LA ESCRITURA",
+    "objetivo": "Tomar conciencia de la necesidad de espaciar las palabras en la escritura para evitar ambigüedades en el significado.",
+    "descripcion": [
+      "El maestro escribe un enunciado sin espacios que pueda tener múltiples interpretaciones (ej. ELENANOCOMEPASTEL).",
+      "Los niños leen e interpretan las diferentes posibilidades que surgen (EL ENANO COME PASTEL / ELENA NO COME PASTEL).",
+      "Se repite la actividad con otros ejemplos.",
+      "La actividad también se puede realizar con palabras que se convierten en frases (El sacose -> Elsa cose / El saco se...) o con palabras compuestas (girasol vs. gira sol)."
+    ]
+  },
+  {
+    "id": "VERDE-16",
+    "color": "VERDE",
+    "numero": 16,
+    "nivel": "Alfabético",
+    "titulo": "FORMAN ENUNCIADOS",
+    "objetivo": [
+      "Consolidar el conocimiento de la escritura convencional de las palabras.",
+      "Utilizar la escritura para expresar ideas originales.",
+      "Familiarizarse con distintos tipos de letra."
+    ],
+    "materiales": "Palabras recortadas de periódicos y revistas.",
+    "descripcion": [
+      "Los niños recortan palabras y luego las acomodan y pegan para formar enunciados.",
+      "El maestro aclara que deben ser oraciones y no palabras sueltas. Si les falta alguna palabra que no encontraron, la pueden escribir a mano.",
+      "Esta actividad puede dejarse de tarea y utilizarse para pedir que recorten palabras con características específicas (con acento, que empiecen con mayúscula, etc.)."
+    ]
+  },
+  {
+    "id": "VERDE-17",
+    "color": "VERDE",
+    "numero": 17,
+    "nivel": "Alfabético",
+    "titulo": "CONVENCIONALIDAD DE LA H",
+    "objetivo": "Conocer la existencia de una letra que no representa ningún fonema, sin pretender que aprendan las reglas ortográficas correspondientes.",
+    "descripcion": [
+      "El maestro pide a los niños que busquen palabras con 'h' en material impreso o en su tarjetero. Las leen y las escriben.",
+      "Realizan un ejercicio: cuentan las letras de una palabra con 'h' y luego cuentan los sonidos al pronunciarla, concluyendo que la 'h' no tiene sonido.",
+      "Piensan en nombres de compañeros que se escriben con 'h'.",
+      "Recortan palabras con 'h' para su colección."
+    ],
+    "notas": "Si los niños proponen palabras con 'ch', el maestro aclara que 'ch' es otra letra con su propio sonido."
+  },
+  {
+    "id": "VERDE-18",
+    "color": "VERDE",
+    "numero": 18,
+    "nivel": "Alfabético",
+    "titulo": "CLASIFICAN PÁRRAFOS",
+    "objetivo": "Descubrir la importancia de efectuar una lectura comprensiva, imprescindible para clasificar textos atendiendo a sus contenidos.",
+    "materiales": "Párrafos cortos sobre 3 o 4 temas diferentes, escritos en tarjetas o recortados.",
+    "descripcion": [
+      "El maestro explica: 'Estos papeles están todos revueltos. Ustedes los tienen que leer para después poner juntos todos los que traten de lo mismo'.",
+      "Los niños trabajan en equipo, leyendo y clasificando los párrafos.",
+      "Una vez que han clasificado, el maestro pregunta por el criterio utilizado: '¿Por qué pusieron estos juntos? ¿De qué trata esto?'."
+    ]
+  },
+  {
+    "id": "VERDE-19",
+    "color": "VERDE",
+    "numero": 19,
+    "nivel": "Alfabético",
+    "titulo": "FORMAN PALABRAS QUE CONTENGAN LAS MISMAS SÍLABAS",
+    "objetivo": "Anticipar el resultado de la transformación de una palabra cuando se altera el orden de las sílabas que la componen.",
+    "descripcion": [
+      "El maestro selecciona palabras que permitan formar otras al permutar sus sílabas (ej. vela/lave).",
+      "Escribe una palabra (ej. 'vela'), pide que la lean y pregunta: 'Si esto que está al final (la) lo pusiéramos al principio, ¿qué dirá?'.",
+      "Se espera que los niños anticipen el resultado ('lave'). Si no lo logran, se les pide que escriban la nueva palabra y la lean para descubrirlo.",
+      "Este tipo de trabajo se repite varias veces en el curso del año hasta que el niño sea capaz de decir cual es el resultado de determinadas transformaciones sin necesidad de efectuarlas."
+    ],
+    "ejemplos": {
+      "Pares de palabras": ["vela/lave", "tapa/pata", "sopa/paso", "ramo/mora"]
+    }
+  },
+  {
+    "id": "VERDE-20",
+    "color": "VERDE",
+    "numero": 20,
+    "nivel": "Alfabético",
+    "titulo": "BUSCAN PALABRAS ESCONDIDAS EN PALABRAS LARGAS",
+    "objetivo": "Reflexionar sobre las diversas posibilidades de formar palabras a partir de un número limitado de letras de una palabra más larga.",
+    "materiales": "Letras móviles o pizarrón.",
+    "descripcion": [
+      "El maestro escribe o arma una palabra larga (ej. SANTIAGO).",
+      "Explica que deben formar otras palabras usando solo algunas de esas letras.",
+      "Para no repetir, cada palabra formada se va copiando en el cuaderno.",
+      "Por turnos, cada miembro del equipo construye una palabra, la lee a sus compañeros, discuten su corrección y la copian.",
+      "Al final, se lee la lista y pueden agregar las palabras a su tarjetero."
+    ],
+    "ejemplos": {
+      "De 'SANTIAGO' se puede formar": "gota, soga, santo, tía, tío, gis, día, etc."
+    }
+  },
+  {
+    "id": "VERDE-21",
+    "color": "VERDE",
+    "numero": 21,
+    "nivel": "Alfabético",
+    "titulo": "RECORTA Y ARMA",
+    "objetivo": "Formar palabras, estimulando la colaboración y la discusión.",
+    "materiales": "Letras recortadas de periódicos y revistas.",
+    "descripcion": [
+      "Los niños recortan letras en casa y en clase las usan para formar palabras.",
+      "Se promueve un ambiente de colaboración donde los alumnos pueden pedirse letras, ayudarse y discutir la construcción de las palabras. Se les permite escribir a mano las letras que les falten."
+    ],
+    "notas": "El maestro puede aprovechar para pedir a sus alumnos que recorten, además, alguna letra en especial (la que el considere conveniente)."
+  },
+  {
+    "id": "VERDE-22",
+    "color": "VERDE",
+    "numero": 22,
+    "nivel": "Alfabético",
+    "titulo": "INTERPRETAN Y PRODUCEN ENUNCIADOS",
+    "objetivo": [
+      "Construir enunciados alusivos a una imagen.",
+      "Buscar relaciones lógicas entre el significado de una oración y una imagen determinada.",
+      "Percatarse de que la escritura agrega cierta información que la sola imagen no puede proporcionar."
+    ],
+    "materiales": "Imágenes y carteles con enunciados.",
+    "descripcion": [
+      "El maestro enseña una lámina (ej. un vaquero lazando un toro) y pide al alumno que escriba algo sobre ella.",
+      "Luego, el maestro muestra su propio cartel, que contiene información adicional no visible en la imagen (ej. EL VAQUERO LAZA AL TORO QUE SE ESCAPÓ DEL CORRAL).",
+      "Pide al niño que lea un enunciado; no puede hacerlo, el maestro le informa lo que dice en el.",
+      "Se pueden alternar textos adecuados a la imagen con otros que resulten absurdos en relación a ella y pregunta el niño si ese texto va bien con la imagen en cuestión y por qué."
+    ],
+    "notas": "Esta ficha puede emplearse también con niños que trabajan con una hipótesis silábico-alfabética."
+  },
+  {
+    "id": "VERDE-23",
+    "color": "VERDE",
+    "numero": 23,
+    "nivel": "Alfabético",
+    "titulo": "CONSTRUYEN ORACIONES LIBREMENTE",
+    "objetivo": "Estimular la reflexión sobre distintos aspectos sintácticos de la lengua y su representación escrita al construir oraciones con palabras ya conocidas.",
+    "materiales": "Colección de palabras de cada niño (tarjetero).",
+    "descripcion": [
+      "El maestro propone tomar enunciados con las tarjetas que cada uno tiene en su colección de palabras.",
+      "No se vale usar una sola tarjeta; tienen que decirse cosas como por ejemplo: Carmen cose o Mamá toma leche, pero no vale poner leche o Mamá solitas.",
+      "Si les hace falta alguna palabra que no tienen, la pueden escribir.",
+      "Posteriormente cada alumno lee a sus compañeros los enunciados que haya logrado construir."
+    ],
+    "variantes": "Formar enunciados con palabras recortadas de periódicos o revistas."
+  },
+  {
+    "id": "VERDE-24",
+    "color": "VERDE",
+    "numero": 24,
+    "nivel": "Alfabético",
+    "titulo": "COMBINAN LETRAS PARA OBTENER PALABRAS",
+    "objetivo": [
+      "Descubrir que las mismas letras en diferente orden pueden dar origen a distintas palabras.",
+      "No toda combinación de letras es una palabra."
+    ],
+    "descripcion": [
+      "El maestro propone una palabra formada por cuatro o cinco letras.",
+      "Pide a los niños que combinen las letras de diferentes maneras.",
+      "Leen las combinaciones obtenidas y señalan cual de ellas constituye una palabra. Por ejemplo, si propone 'peso' las posibilidades son:",
+      "Peso",
+      "pose",
+      "sope"
+    ],
+    "notas": "No se pretende que los niños realicen todas estas combinaciones, se trata de que encuentren las palabras que es posible escribir (como sope y pose) y que las distingan de las que no lo son."
+  },
+  {
+    "id": "VERDE-25",
+    "color": "VERDE",
+    "numero": 25,
+    "nivel": "Alfabético",
+    "titulo": "HACEN AJUSTES GRAMATICALES",
+    "objetivo": [
+      "Descubrir que algunas veces, cuando se cambia una determinada palabra de una oración escrita, es necesario realizar modificaciones en cuanto al genero y/o el numero de todas o algunas de las palabras restantes.",
+      "Otras veces el cambio de una palabra no requiere que las demás sean modificadas."
+    ],
+    "descripcion": [
+      "El maestro escribe una oración, después que los niños la leen, modifica una de sus partes: verbo, sujeto, objeto directo, artículo, pronombre, etc.",
+      "cada vez propone varios casos distintos con el fin de que los niños puedan apreciar que algunas de las modificaciones efectuadas no requieren modificar el resto de la oración, mientras que otras exigen diversos cambios de género y número."
+    ],
+    "notas": "Esta actividad se repite varias veces durante el año. Es posible realizarla con todo el grupo."
+  },
+  {
+    "id": "VERDE-26",
+    "color": "VERDE",
+    "numero": 26,
+    "nivel": "Alfabético",
+    "titulo": "CRUCIGRAMAS",
+    "objetivo": [
+      "consoliden la escritura convencional de las palabras",
+      "sean capaces de leer en otra dirección convencional (de arriba hacia abajo) que es frecuentemente usada en carteles, anuncios, etc."
+    ],
+    "descripcion": [
+      "El maestro proporciona un sencillo crucigrama donde crucen tres o cuatro palabras (dos o tres verticales y dos o tres horizontales).",
+      "Marca los cuadros correspondientes al cada letra y el lugar correspondiente al inicio de cada palabra coloca un dibujo o lámina alusiva a ella.",
+      "La misma actividad se puede hacer sin láminas. En esta caso semántico determinado.",
+      "Los niños discuten acerca de los nombres que deben ir a cada línea; por ejemplo, si en el principio de una hilera de cinco cuadritos está el dibujo de un cerdo, tendrán que discutir si ahí se pone cerdo, cochino, puerco, etc."
+    ]
+  },
+  {
+    "id": "VERDE-27",
+    "color": "VERDE",
+    "numero": 27,
+    "nivel": "Alfabético",
+    "titulo": "LA PREGUNTA Y SU SIGNO ESCRITO",
+    "objetivo": "Se pretende que los niños reflexionen acerca de las oraciones interrogativas y conozcan la forma particular en que ellas se escriben.",
+    "descripcion": [
+      "El maestro propone: cada uno de ustedes va a pensar una pregunta para hacérsela a su compañero.",
+      "A medida que los niños las van formulando, se escribe en el pizarrón esas oraciones, sin signos y con sus correspondientes respuestas.",
+      "Los niños las leen y el maestro hace notar la diferencia de entonación usada en ambos casos.",
+      "Explica: las preguntas se escriben con estos dos signos (¿?) y los pone en una de las oraciones interrogativas.",
+      "Los niños completan las demás con los signos que le faltan. Luego leen todas las preguntas y sus correspondientes respuestas.",
+      "Juegan a hacerse preguntas por escrito. El maestro propone: cada uno de ustedes va a pensar una pregunta para hacerle a un compañero.",
+      "Buscan oraciones interrogativas en textos impresos. Para esta actividad pueden usarse el libro de primer año, periódicos y revistas; subrayan las oraciones en el libro y las recortan de los otros materiales."
+    ]
+  },
+  {
+    "id": "VERDE-28",
+    "color": "VERDE",
+    "numero": 28,
+    "nivel": "Alfabético",
+    "titulo": "EL SIGNO DE ADMIRACIÓN Y SU USO",
+    "objetivo": "Se pretende que los niños reflexionen acerca de los enunciados admirativos y conozcan el signo convencional correspondiente que los identifica en los textos.",
+    "descripcion": [
+      "El maestro lee el texto 'la lluvia' incluido en el libro de primero. Los niños siguen la lectura en silencio.",
+      "Pregunta: ¿qué serán estos palitos con puntos que aparecen acá? ¿serán letras? ¿yo las leí? ¿para que las habrán puesto? ¿qué querrán decir?",
+      "Después de oir la opinión de los niños y si ellos no conocen esos signos y su función, explica: no son letras, se llaman signos de admiración.",
+      "Escribe en el pizarrón pares de oraciones con igual texto, con y sin signos.",
+      "Reflexionan acerca de cómo varia el significado de una oración según aparezca sin signos, con signos de admiración e interrogación."
+    ]
+  },
+  {
+    "id": "VERDE-29",
+    "color": "VERDE",
+    "numero": 29,
+    "nivel": "Alfabético",
+    "titulo": "BUSCAN Y ESCRIBEN ENUNCIADOS NEGATIVOS",
+    "objetivo": [
+      "Indaguen textos con el fin de encontrar formulaciones negativas",
+      "Sean capaces de pensar y escribir oraciones que contengan adverbios de negación."
+    ],
+    "descripcion": [
+      "Después de realizar la ficha rosa No. 541, el maestro pide a los alumnos que busquen oraciones negativas en texto impresos.",
+      "Para ello les proporciona una lista con los adverbios de negación y les dice: Busquen donde aparece alguna de estas palabras.",
+      "Cada integrante del equipo lee a sus compañeros los enunciados negativos qu encontró.",
+      "Piensan enunciados negativos y los escriben."
+    ]
+  },
+  {
+    "id": "VERDE-30",
+    "color": "VERDE",
+    "numero": 30,
+    "nivel": "Alfabético",
+    "titulo": "FORMAN PALABRAS CAMBIANDO UNA LETRA",
+    "objetivo": [
+      "Reflexionan acerca del sistema alfabético de escritura.",
+      "Toman conciencia de que, a cambios en la escritura de palabras, corresponden diferentes significados."
+    ],
+    "descripcion": [
+      "El maestro forma una palabra con letras móviles. Explica el juego: tienen que pensar otras palabras a partir de está, cambiando una sola letra cada vez. No se vale repetir ninguna; por eso, para acordarnos de cuales hicimos, vamos a copiar en el cuaderno cada una de las que formemos.",
+      "Cuando los alumnos consideran agotadas las posibilidades, uno de ellos lee en voz alta la lista escrita del cuaderno y los demás siguen la lectura en silencio.",
+      "Si lo desean, incorporan alguna de esas palabras al tarjetero."
+    ]
+  },
+  {
+    "id": "VERDE-31",
+    "color": "VERDE",
+    "numero": 31,
+    "nivel": "Alfabético",
+    "titulo": "DESMONTAN UN PARRAFO",
+    "objetivo": "Se pretende que los niños descubran la relación existente entre las diversas oraciones que componen un párrafo para que este tenga un significado específico.",
+    "descripcion": [
+      "El maestro escribe y lee en voz alta un párrafo corto; subraya cada oración con un color diferente.",
+      "Los niños lo copian, leen y luego recortan cada una de las partes señaladas con color.",
+      "Realizan diversas combinaciones de los enunciados de los enunciados y leen en cada caso el texto obtenido.",
+      "Luego arman el párrafo, tal como se les presentó originalmente.",
+      "Un cambio de significado",
+      "Un texto incomprensible",
+      "El mismo significado"
+    ]
+  }
+
+]

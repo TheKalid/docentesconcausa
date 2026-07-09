@@ -1,0 +1,57 @@
+{
+  "ABPC": {
+    "nombre": "Aprendizaje Basado en Proyectos Comunitarios",
+    "tipo": "Fases y Momentos",
+    "estructura": [
+      "Fase 1: Planeación",
+      "Fase 2: Acción",
+      "Fase 3: Intervención"
+    ],
+    "descripcion": "El ABPC se basa en la resolución de problemáticas reales del entorno del estudiante mediante trabajo colaborativo e interdisciplinario. Se desarrolla en tres fases (planeación, acción e intervención) que incluyen 11 momentos clave como la identificación de problemas, recuperación de saberes, planificación, producción, difusión y evaluación del impacto.",
+    "uso_en_sesiones": "Usa 1 a 2 sesiones para la Fase de Planeación (identificación del problema, recuperación de saberes y planificación). Destina de 2 a 4 sesiones para la Fase de Acción (producción y ajustes). Las últimas 1 a 3 sesiones deben abordar la Intervención (presentación, evaluación e impacto).",
+    "sugerencias_evaluacion": "Usa preguntas como: ¿Qué aprendimos al resolver este problema?, ¿Cómo participamos?, ¿Qué impacto tuvo nuestro proyecto en la comunidad?"
+  },
+  "ABP": {
+    "nombre": "Aprendizaje Basado en Problemas",
+    "tipo": "Pasos",
+    "estructura": [
+      "Paso 1: Presentemos",
+      "Paso 2: Recolectemos",
+      "Paso 3: Formulemos el problema",
+      "Paso 4: Organicemos la experiencia",
+      "Paso 5: Vivamos la experiencia",
+      "Paso 6: Resultados y análisis"
+    ],
+    "descripcion": "El ABP se centra en que los estudiantes resuelvan problemas reales de forma activa y reflexiva. Promueve pensamiento crítico, autonomía y análisis desde diferentes perspectivas. Su estructura sigue seis pasos que parten de un escenario problemático y culminan en propuestas de solución.",
+    "uso_en_sesiones": "Distribuye cada paso de forma secuencial, dedicando 1 sesión a cada uno. Puedes combinar dos pasos si el tiempo es corto. Asegura que la reflexión final y socialización de resultados tenga suficiente tiempo al cierre.",
+    "sugerencias_evaluacion": "Plantea preguntas como: ¿Qué supimos hacer bien?, ¿Qué dificultades enfrentamos?, ¿Qué aprendimos sobre el problema?, ¿Cómo aplicaríamos esto en otro contexto?"
+  },
+  "AS": {
+    "nombre": "Aprendizaje Servicio",
+    "tipo": "Etapas",
+    "estructura": [
+      "Etapa 1: Punto de partida",
+      "Etapa 2: Lo que sé y lo que quiero saber",
+      "Etapa 3: Organicemos las actividades",
+      "Etapa 4: Creatividad en marcha",
+      "Etapa 5: Compartimos y evaluamos lo aprendido"
+    ],
+    "descripcion": "El Aprendizaje Servicio articula contenidos curriculares con acciones comunitarias. Fomenta la responsabilidad social, la empatía y la experiencia directa con la realidad. Se compone de cinco etapas que guían desde el diagnóstico hasta la acción y evaluación del impacto.",
+    "uso_en_sesiones": "Asigna 1 sesión para sensibilización y detección del problema (Etapa 1), 1-2 sesiones para investigación y diagnóstico (Etapa 2), 2-3 para planificación y ejecución (Etapas 3 y 4), y 1 para evaluar y compartir lo aprendido (Etapa 5).",
+    "sugerencias_evaluacion": "Incluye preguntas como: ¿Cómo ayudamos a la comunidad?, ¿Qué aprendimos del proceso?, ¿Qué sentimos al participar?, ¿Qué haríamos diferente?"
+  },
+  "STEAM": {
+    "nombre": "Aprendizaje Basado en Indagación con Enfoque STEAM",
+    "tipo": "Fases",
+    "estructura": [
+      "Fase 1: Introducción",
+      "Fase 2: Diseño - Desarrollo",
+      "Fase 3: Organización",
+      "Fase 4: Presentación de resultados - Aplicación",
+      "Fase 5: Metacognición"
+    ],
+    "descripcion": "El enfoque STEAM promueve el aprendizaje interdisciplinario a través de la indagación, aplicando ciencia, tecnología, ingeniería, artes y matemáticas. Los estudiantes formulan preguntas, diseñan soluciones, aplican conocimientos y reflexionan sobre su aprendizaje.",
+    "uso_en_sesiones": "Utiliza la primera sesión para la introducción del problema. Usa 2 a 3 sesiones para investigación, diseño y desarrollo. Dedica 1-2 sesiones a organizar resultados, y la(s) final(es) a presentación y reflexión metacognitiva.",
+    "sugerencias_evaluacion": "Propón preguntas como: ¿Qué descubrimos?, ¿Qué datos fueron útiles?, ¿Cómo solucionamos el reto?, ¿Qué habilidades aplicamos?, ¿Qué mejoraríamos?"
+  }
+}
