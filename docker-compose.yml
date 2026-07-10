@@ -34,7 +34,7 @@ services:
     ports:
       - "3000:3000"
     # Aplica migraciones antes de iniciar el servidor.
-    command: sh -c "npx prisma migrate deploy && node server.js"
+    command: sh -c "node node_modules/prisma/build/index.js migrate deploy && node server.js"
 
 volumes:
   postgres_data:
