@@ -3,7 +3,7 @@
 
 services:
   db:
-    ports: []
+    ports: !reset null
 
   app:
     ports:
