@@ -109,9 +109,6 @@ session_write_close();
         #resultadoPlaneacion h4 { color: #334155; margin-top: 20px; margin-bottom: 10px; }
         #resultadoPlaneacion ul { padding-left: 20px; }
         
-        .return-button-container { text-align: center; margin-top: 20px; }
-        .btn-return { display: inline-flex; align-items: center; gap: 8px; background-color: var(--color-primario); color: white; padding: 12px 25px; border-radius: 50px; text-decoration: none; font-weight: 600; transition: background-color 0.3s, transform 0.2s; }
-        .btn-return:hover { background-color: #0b213a; transform: translateY(-2px); }
         footer { text-align: center; padding: 20px; margin-top: 40px; color: #64748b; }
         
         .aviso-usos-agotados { background-color: #fffbe6; color: #854d0e; padding: 15px; border-radius: 8px; border: 1px solid #fde68a; margin-top: 20px; text-align: center; font-weight: 600; }
@@ -202,9 +199,6 @@ session_write_close();
             </div>
         </section>
 
-        <div class="return-button-container">
-            <a href="index.php" class="btn-return"><span>⬅️</span><span>Regresar a la Página Principal</span></a>
-        </div>
     </div>
 
     <footer>
@@ -222,7 +216,6 @@ session_write_close();
         const btnCopiar = document.getElementById('btnCopiar');
         const contenedorBotones = document.getElementById('contenedorBotones');
         const btnDescargarPDF = document.getElementById('btnDescargarPDF');
-        const formSection = document.querySelector('.form-section');
 
         function mostrarAvisoUsosAgotados() {
             seccionResultadoContenedor.style.display = 'block';
@@ -411,16 +404,7 @@ session_write_close();
             const selectEjes = document.getElementById('ejeArticulador');
             const ejesSeleccionados = Array.from(selectEjes.selectedOptions).map(opt => opt.value).join(', ');
 
-            if (!grado || !campoFormativo || !contenido || !pda || !tiempo || !ejesSeleccionados) {
-                alert('Por favor, completa todos los campos requeridos antes de generar la planeación.');
-                return;
-            }
-
-            formSection.style.display = 'none'; 
-            seccionResultadoContenedor.style.display = 'block'; 
-            contenedorBotones.style.display = 'none'; 
-            
-            resultadoDiv.innerHTML = '<p style="text-align: center; font-size: 1.2rem; color: #1e3a8a;">🧠 Analizando pedagogía y construyendo tu planeación...<br><br><span style="font-size:0.9rem; color:#64748b;">Este proceso toma alrededor de 15 a 30 segundos. Por favor, no recargues la página.</span></p>';
+            contenedorBotones.style.display = 'none';
             
             btnGenerar.disabled = true;
             btnGenerar.innerHTML = '⏳ Generando...';
@@ -450,6 +434,7 @@ session_write_close();
                 if (data.status === 'completo') {
                     usosRestantes = data.usos_restantes;
                     contadorUsosSpan.innerText = usosRestantes;
+                    seccionResultadoContenedor.style.display = 'block';
 
                     const plan = data.plan;
                     let htmlRespuesta = `<div class="plan-resultado">`;
@@ -493,18 +478,18 @@ session_write_close();
 
                     resultadoDiv.innerHTML = htmlRespuesta;
                     contenedorBotones.style.display = 'flex';
+                    seccionResultadoContenedor.scrollIntoView({ behavior: 'smooth', block: 'start' });
                 }
 
             } catch (error) {
                 console.error('Error del sistema:', error);
+                seccionResultadoContenedor.style.display = 'block';
                 resultadoDiv.innerHTML = `
                     <div class="aviso" style="background-color: #fee2e2; border-color: #ef4444; color: #b91c1c;">
                         <h3 style="margin-top:0; color: #b91c1c; border-bottom:none;">Aviso del Sistema</h3>
                         <p style="margin-bottom:0;">${error.message}<br><br><strong>Nota:</strong> Su solicitud no fue procesada. Sus créditos están a salvo.</p>
                     </div>`;
             } finally {
-                formSection.style.display = 'block'; 
-                
                 if (usosRestantes > 0) {
                     btnGenerar.disabled = false;
                     btnGenerar.innerHTML = '📄 Generar Planeación';

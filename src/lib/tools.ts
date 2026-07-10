@@ -195,10 +195,20 @@ export const tools: Tool[] = [
   },
 ];
 
+export const headerToolLinks = [
+  ...tools.map(({ title, href, icon }) => ({
+    label: title,
+    href,
+    icon,
+  })),
+  {
+    label: "Herramientas para padres",
+    href: "/padres",
+    icon: "👨‍👩‍👧",
+  },
+];
+
 export const navLinks = [
-  { label: "Misión", href: "/mision" },
-  { label: "Creadores", href: "/creadores" },
-  { label: "Evidencias", href: "/evidencias" },
+  { label: "Sobre nosotros", href: "/creadores" },
   { label: "Biblioteca", href: "/biblioteca" },
-  { label: "Tutorial", href: "/tutorial" },
 ];

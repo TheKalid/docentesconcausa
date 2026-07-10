@@ -6,10 +6,19 @@ import {
 } from "@/lib/tools/prompt-loader";
 import type { ToolDefinition } from "@/lib/tools/registry";
 
-function buildUserPrompt(slug: string, body: Record<string, unknown>): string {
-  if (typeof body.prompt === "string" && body.prompt.trim()) {
-    return body.prompt.trim();
+function sanitizeUserPrompt(body: Record<string, unknown>) {
+  if (typeof body.prompt !== "string") return null;
+  const prompt = body.prompt.trim();
+  if (!prompt) return null;
+  if (prompt.length > 1500) {
+    throw new Error("La solicitud es demasiado extensa.");
   }
+  return prompt.replace(/<[^>]*>/g, "");
+}
+
+function buildUserPrompt(slug: string, body: Record<string, unknown>): string {
+  const sanitizedPrompt = sanitizeUserPrompt(body);
+  if (sanitizedPrompt) return sanitizedPrompt;
 
   switch (slug) {
     case "evaluacion-diagnostica": {
@@ -137,7 +146,11 @@ function formatLegacyResponse(
       };
     }
     case "bitacora":
-      return { success: true, ...data, usos_restantes: usosRestantes };
+      return {
+        success: true,
+        data: iaData,
+        usos_restantes: usosRestantes,
+      };
     case "raw":
     default:
       return {
@@ -147,6 +160,25 @@ function formatLegacyResponse(
         success: true,
       };
   }
+}
+
+export function mapGenerationError(error: unknown) {
+  if (error instanceof Error) {
+    if (error.message === "NO_CREDITS") {
+      return "Has agotado tus créditos para esta herramienta.";
+    }
+    if (error.message.includes("OPENAI_API_KEY")) {
+      return "El servicio de IA no está configurado. Contacta al administrador.";
+    }
+    if (error.message.includes("No se encontró system prompt")) {
+      return "No pudimos generar el contenido en este momento. Inténtelo de nuevo más tarde. No se han descontado créditos.";
+    }
+    if (error.message.includes("motor de inteligencia artificial")) {
+      return "No pudimos generar la planeación en este momento. Inténtelo de nuevo más tarde. No se han descontado créditos.";
+    }
+    return error.message;
+  }
+  return "No pudimos generar el contenido en este momento. Inténtelo de nuevo más tarde.";
 }
 
 export async function runToolGeneration(
@@ -159,10 +191,8 @@ export async function runToolGeneration(
     throw new Error("Herramienta no configurada para generación.");
   }
 
-  let usosRestantes = 0;
-
   try {
-    usosRestantes = await deductUsage(
+    const usosRestantes = await deductUsage(
       userId,
       tool.usageField,
       tool.historialName,
@@ -183,12 +213,6 @@ export async function runToolGeneration(
         "{$contexto_oficial}",
         context
       );
-      if (!systemPrompt.includes(context.slice(0, 40))) {
-        systemPrompt = systemPrompt.replace(
-          /A continuación, se te proporcionan los manuales locales cargados en el sistema:\n\{[\s\S]*?\}/,
-          `A continuación, se te proporcionan los manuales locales cargados en el sistema:${context}`
-        );
-      }
       userPrompt = buildUserPrompt(tool.slug, body);
     } else {
       systemPrompt = loadLegacySystemPrompt(tool.procesarFile);
@@ -216,8 +240,11 @@ export async function runToolGeneration(
       return formatLegacyResponse(tool, markdown, usosRestantes);
     }
 
+    const temperature =
+      tool.slug === "protocolos" ? 0.3 : tool.slug === "adecuacion" ? 0.6 : 0.7;
+
     const iaData = await chatCompletionJson(systemPrompt, userPrompt, {
-      temperature: tool.slug === "adecuacion" ? 0.6 : 0.7,
+      temperature,
     });
 
     return formatLegacyResponse(tool, iaData, usosRestantes);

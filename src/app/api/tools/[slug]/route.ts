@@ -3,7 +3,7 @@ import { auth } from "@/lib/auth";
 import { canUsePlan } from "@/lib/access";
 import { getUsageRemaining } from "@/lib/tool-usage";
 import { getToolBySlug } from "@/lib/tools/registry";
-import { runToolGeneration } from "@/lib/tools/run-generation";
+import { runToolGeneration, mapGenerationError } from "@/lib/tools/run-generation";
 
 type RouteContext = { params: Promise<{ slug: string }> };
 
@@ -54,7 +54,7 @@ export async function POST(request: Request, context: RouteContext) {
   }
 
   const planActivo = session.user.planActivo ?? 0;
-  if (!canUsePlan(planActivo, tool.minPlan)) {
+  if (tool.minPlan > 0 && !canUsePlan(planActivo, tool.minPlan)) {
     return NextResponse.json(
       { success: false, error: "Plan insuficiente." },
       { status: 403 }
@@ -83,16 +83,14 @@ export async function POST(request: Request, context: RouteContext) {
     );
     return NextResponse.json(result);
   } catch (error) {
-    const message =
-      error instanceof Error
-        ? error.message
-        : "No pudimos generar el contenido en este momento.";
+    const message = mapGenerationError(error);
 
     return NextResponse.json(
       {
         status: "error",
         success: false,
         error: message,
+        details: error instanceof Error ? error.message : undefined,
       },
       { status: message.includes("agotado") ? 200 : 500 }
     );

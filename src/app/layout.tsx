@@ -10,11 +10,11 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Herramientas para Docentes | Planeando con Causa",
+  title: "Herramientas para Docentes | Docentes con causa",
   description:
     "Tu herramienta aliada para una planeación didáctica inteligente, creativa y con propósito social. Generada por IA y alineada a la NEM.",
   icons: {
-    icon: "/logocel.png",
+    icon: [{ url: "/logocel.png", type: "image/png" }],
     apple: "/logocel.png",
   },
 };

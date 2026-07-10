@@ -130,13 +130,13 @@ export function ChatWidget() {
 
       <button
         type="button"
-        aria-label="Abrir chat"
+        aria-label={open ? "Cerrar ayuda" : "¿Necesitas ayuda?"}
         onClick={() => setOpen((v) => !v)}
-        className={`grid h-14 w-14 place-items-center rounded-[12px] border border-black/[0.08] bg-graphite text-[20px] text-signal-blue shadow-[var(--shadow-card)] transition hover:bg-black/[0.05] ${
+        className={`rounded-full border border-black/[0.08] bg-graphite px-5 py-3.5 text-[14px] font-[500] tracking-[-0.32px] text-signal-blue shadow-[var(--shadow-card)] transition hover:bg-black/[0.05] ${
           open ? "" : "animate-[pulse-animation_2.5s_infinite]"
         }`}
       >
-        {open ? "✕" : "AI"}
+        {open ? "Cerrar" : "¿Necesitas ayuda?"}
       </button>
     </div>
   );
