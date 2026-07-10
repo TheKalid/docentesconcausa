@@ -50,7 +50,7 @@ export default function RegistroPage() {
   return (
     <AuthShell
       title="Crear Cuenta"
-      subtitle="Únete a la comunidad de Planeando con Causa"
+      subtitle="Únete a la comunidad de Docentes con causa"
       footer={
         <p>
           ¿Ya tienes una cuenta?{" "}

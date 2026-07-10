@@ -1,3 +1,6 @@
+-- CreateSchema
+CREATE SCHEMA IF NOT EXISTS "public";
+
 -- CreateEnum
 CREATE TYPE "Role" AS ENUM ('USER', 'ADMIN');
 
@@ -115,3 +118,4 @@ ALTER TABLE "historial_uso" ADD CONSTRAINT "historial_uso_usuario_id_fkey" FOREI
 
 -- AddForeignKey
 ALTER TABLE "convenio_cetl" ADD CONSTRAINT "convenio_cetl_usuario_id_fkey" FOREIGN KEY ("usuario_id") REFERENCES "usuarios"("id") ON DELETE CASCADE ON UPDATE CASCADE;
+

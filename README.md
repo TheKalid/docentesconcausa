@@ -67,7 +67,15 @@ npm install
 npm run db:migrate
 ```
 
-5. Arranca el servidor de desarrollo:
+5. (Opcional) Importa el respaldo MySQL legacy a PostgreSQL:
+
+```bash
+npm run db:import-legacy
+```
+
+Lee `legacy/respaldo-db-2026-07-09.sql` e importa usuarios, grupos, historial de uso, recursos y convenios CETL. Las contraseñas PHP (`$2y$…`) siguen funcionando en el login.
+
+6. Arranca el servidor de desarrollo:
 
 ```bash
 npm run dev
@@ -98,6 +106,7 @@ docker compose up --build
 | `npm run db:migrate` | Crea/aplica migraciones (dev) |
 | `npm run db:deploy` | Aplica migraciones (producción) |
 | `npm run db:studio` | Prisma Studio |
+| `npm run db:import-legacy` | Importa dump MySQL legacy a PostgreSQL |
 
 ## 🔄 Estado de la migración
 
@@ -115,7 +124,7 @@ docker compose up --build
 - [ ] Catálogo de pagos y pasarela de suscripción
 - [ ] Páginas de contenido: Misión, Creadores, Evidencias, Biblioteca, Tutorial
 - [ ] Integración real del asistente de chat (IA)
-- [ ] Migración de datos de usuarios/suscripciones existentes
+- [x] Script de migración de datos legacy (`npm run db:import-legacy`)
 - [ ] Recuperación de contraseña
 
 ## 🎨 Identidad visual

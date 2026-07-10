@@ -18,10 +18,15 @@ export function AuthShell({
           href="/"
           className="mb-8 flex items-center justify-center gap-3 text-[14px] font-[480] tracking-[-0.32px] text-snow"
         >
-          <span className="grid h-10 w-10 place-items-center rounded-[10px] border border-black/[0.08] bg-charcoal text-[11px] font-[500] text-signal-blue">
-            PC
-          </span>
-          Planeando con Causa
+          <img
+            src="/logo-header.png"
+            alt="Docentes con causa"
+            width={44}
+            height={44}
+            className="h-11 w-11 shrink-0 rounded-[10px] object-contain"
+            decoding="async"
+          />
+          <span>Docentes con causa</span>
         </Link>
 
         <h1 className="text-center text-[32px] font-[400] leading-[1.25] tracking-[-0.64px] text-snow">
