@@ -6,7 +6,7 @@ services:
     ports: !reset null
 
   app:
-    ports: !reset
+    ports: !override
       - "127.0.0.1:3004:3000"
     environment:
       AUTH_URL: ${AUTH_URL:-https://kalid.tech}
