@@ -1,0 +1,13 @@
+# Producción en Hostinger (kalid.tech)
+# Uso: docker compose -f docker-compose.yml -f docker-compose.prod.yml up -d --build
+
+services:
+  db:
+    ports: []
+
+  app:
+    ports:
+      - "127.0.0.1:3004:3000"
+    environment:
+      AUTH_URL: ${AUTH_URL:-https://kalid.tech}
+      OPENAI_API_KEY: ${OPENAI_API_KEY}

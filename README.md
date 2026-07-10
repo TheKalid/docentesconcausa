@@ -94,7 +94,17 @@ docker compose up --build
 - App: http://localhost:3000
 - PostgreSQL: `localhost:5434` (interno `db:5432`)
 
-> Define `AUTH_SECRET` en tu entorno o en un `.env` antes de desplegar.
+> Define `AUTH_SECRET`, `AUTH_URL` y `OPENAI_API_KEY` en tu entorno o en un `.env` antes de desplegar.
+
+### Hostinger (kalid.tech)
+
+Guía paso a paso: [`deploy/hostinger/README.md`](deploy/hostinger/README.md)
+
+```bash
+docker compose -f docker-compose.yml -f docker-compose.prod.yml up -d --build
+```
+
+En producción la app escucha solo en `127.0.0.1:3000`; usa Caddy o Nginx con SSL para exponer `https://kalid.tech`.
 
 ## 📜 Scripts
 

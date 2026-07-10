@@ -27,7 +27,9 @@ services:
     environment:
       DATABASE_URL: postgresql://${POSTGRES_USER:-docentes}:${POSTGRES_PASSWORD:-docentes}@db:5432/${POSTGRES_DB:-docentesconcausa}?schema=public
       AUTH_SECRET: ${AUTH_SECRET}
+      AUTH_URL: ${AUTH_URL:-http://localhost:3000}
       AUTH_TRUST_HOST: "true"
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
       NODE_ENV: production
     ports:
       - "3000:3000"
