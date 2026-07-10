@@ -76,6 +76,7 @@ openssl rand -base64 32
 ## 5. Levantar la app (Docker)
 
 ```bash
+docker compose -f docker-compose.yml -f docker-compose.prod.yml --profile migrate run --rm migrate
 docker compose -f docker-compose.yml -f docker-compose.prod.yml up -d --build
 ```
 

@@ -16,6 +16,20 @@ services:
       timeout: 5s
       retries: 5
 
+  migrate:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: builder
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: postgresql://${POSTGRES_USER:-docentes}:${POSTGRES_PASSWORD:-docentes}@db:5432/${POSTGRES_DB:-docentesconcausa}?schema=public
+    command: npx prisma migrate deploy
+    restart: "no"
+    profiles: ["migrate"]
+
   app:
     build:
       context: .
@@ -33,8 +47,7 @@ services:
       NODE_ENV: production
     ports:
       - "3000:3000"
-    # Aplica migraciones antes de iniciar el servidor.
-    command: sh -c "node node_modules/prisma/build/index.js migrate deploy && node server.js"
+    command: node server.js
 
 volumes:
   postgres_data:
